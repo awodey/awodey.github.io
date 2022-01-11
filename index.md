@@ -1,10 +1,8 @@
-# Steve Awodey's GitHub Pages
-
-### Preprints
+## Preprints
 
 - here's one ...
 
-### Course materials
+## Course materials
 
 - [Category Theory](../../) 
 - [Categorical Logic](./catlog/) 
