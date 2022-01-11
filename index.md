@@ -7,7 +7,7 @@
 ### Course materials
 
 - [Category Theory](../../) 
-- [Categorical Logic](../../) 
+- [Categorical Logic](./catlog/) 
 
 
 <hr WIDTH="100%">
