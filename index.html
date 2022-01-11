@@ -1,3 +1,0 @@
-# Steve Awodey's GitHub Pages
-
-- [Here](./catlog/) are the notes for the CMU course Categorical Logic, 80-514/814.
