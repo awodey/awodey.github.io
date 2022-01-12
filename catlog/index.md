@@ -24,10 +24,10 @@ Using sheaves, topos theory also subsumes Kripke semantics for modal and intuiti
 Locally cartesian closed categories provide semantics for dependent type theories.  
 Time permitting, we may consider Martin-L"of type theory and the recent extension to Homotopy type theory.
 
-### Prerequisites:
+### Prerequisites
 80-413/713 Category Theory or equivalent.
 
-### Topics may include the following:
+### Topics
 
 - Functorial semantics for algebraic theories
 - Functorial semantics for elementary logic
@@ -56,7 +56,7 @@ Time permitting, we may consider Martin-L"of type theory and the recent extensio
 - Mac Lane, S.: Categories for the Working Mathematician. Springer, 1971. (the standard reference)
 - McLarty, C.: Elementary Categories, Elementary Toposes. Oxford Logic Guides 21, Oxford University Press, 1992.
 
-### Requirements and evaluation
+### Requirements
 
 Grades will be based on 4 problem sets and a presentation in class, with a brief written report.
 
