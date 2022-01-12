@@ -1,7 +1,8 @@
 # Categorical Logic
 ## 80-514/814
 ## Spring 2022
-### Course Information
+
+### Course information
 
 - Place: BH 150
 - Time: TR 3-4:30
@@ -55,7 +56,7 @@ Time permitting, we may consider Martin-L"of type theory and the recent extensio
 - Mac Lane, S.: Categories for the Working Mathematician. Springer, 1971. (the standard reference)
 - McLarty, C.: Elementary Categories, Elementary Toposes. Oxford Logic Guides 21, Oxford University Press, 1992.
 
-### Requirements and Evaluation
+### Requirements and evaluation
 
 Grades will be based on 4 problem sets and a presentation in class, with a brief written report.
 
