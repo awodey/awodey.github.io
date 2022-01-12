@@ -1,2 +1,2 @@
 # awodey.github.io
-Steve Awodey's GitHub pages
+Steve Awodey's GitHub Pages
