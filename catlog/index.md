@@ -62,8 +62,8 @@ Grades will be based on 4 problem sets and a presentation in class, with a brief
 
 ### Course materials
 
-- [Lecture notes are here](../../)
-- [Problem sets are here](../../)
+- [Lecture notes](../../)
+- [Problem sets](../../)
 
 
 <hr WIDTH="100%">
