@@ -1,157 +1,23 @@
-<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
-<html xmlns:v="urn:schemas-microsoft-com:vml"
-xmlns:o="urn:schemas-microsoft-com:office:office"
-xmlns:w="urn:schemas-microsoft-com:office:word"
-xmlns="http://www.w3.org/TR/REC-html40">
-
-<head>
-<meta name=Title content="Steve Awodey">
-<meta name=Keywords content="">
-<meta http-equiv=Content-Type content="text/html; charset=utf-8">
-<meta name=ProgId content=Word.Document>
-<meta name=Generator content="Microsoft Word 11">
-<meta name=Originator content="Microsoft Word 11">
-<link rel=File-List href="index_files/filelist.xml">
-<link rel=Edit-Time-Data href="index_files/editdata.mso">
-<!--[if !mso]>
-<style>
-v\:* {behavior:url(#default#VML);}
-o\:* {behavior:url(#default#VML);}
-w\:* {behavior:url(#default#VML);}
-.shape {behavior:url(#default#VML);}
-</style>
-<![endif]-->
-<title>Steve Awodey</title>
-<!--[if gte mso 9]><xml>
- <o:DocumentProperties>
-  <o:Author>Steve Awodey</o:Author>
-  <o:Template>Normal</o:Template>
-  <o:LastAuthor>Steve Awodey</o:LastAuthor>
-  <o:Revision>3</o:Revision>
-  <o:Created>2008-01-10T13:35:00Z</o:Created>
-  <o:LastSaved>2008-01-10T13:40:00Z</o:LastSaved>
-  <o:Pages>2</o:Pages>
-  <o:Words>905</o:Words>
-  <o:Characters>5161</o:Characters>
-  <o:Lines>43</o:Lines>
-  <o:Paragraphs>10</o:Paragraphs>
-  <o:CharactersWithSpaces>6338</o:CharactersWithSpaces>
-  <o:Version>11.0</o:Version>
- </o:DocumentProperties>
- <o:OfficeDocumentSettings>
-  <o:AllowPNG/>
- </o:OfficeDocumentSettings>
-</xml><![endif]-->
-<style>
-<!--
- /* Font Definitions */
-@font-face
-	{font-family:"geneva";
-	panose-1:0 2 2 6 3 5 4 5 2 3;
-	mso-font-charset:0;
-	mso-generic-font-family:auto;
-	mso-font-pitch:variable;
-	mso-font-signature:50331648 0 0 0 1 0;}
-@font-face
-	{font-family:Geneva;
-	mso-font-charset:0;
-	mso-generic-font-family:auto;
-	mso-font-pitch:variable;
-	mso-font-signature:50331648 0 0 0 1 0;}
-@font-face
-	{font-family:"Gill Sans";
-	panose-1:0 2 11 5 2 2 1 4 2 2;
-	mso-font-charset:0;
-	mso-generic-font-family:auto;
-	mso-font-pitch:variable;
-	mso-font-signature:50331648 0 0 0 1 0;}
- /* Style Definitions */
-p.MsoNormal, li.MsoNormal, div.MsoNormal
-	{mso-style-parent:"";
-	margin-right:0in;
-	mso-margin-top-alt:auto;
-	mso-margin-bottom-alt:auto;
-	margin-left:0in;geneva
-	mso-pagination:widow-orphan;
-	font-size:10.0pt;
-	font-family:Times;}
-a:link, span.MsoHyperlink
-	{color:blue;
-	text-decoration:underline;
-	text-underline:single;}
-a:visited, span.MsoHyperlinkFollowed
-	{color:blue;
-	text-decoration:underline;
-	text-underline:single;}
-p
-	{margin-right:0in;
-	mso-margin-top-alt:auto;
-	mso-margin-bottom-alt:auto;
-	margin-left:0in;
-	mso-pagination:widow-orphan;
-	font-size:10.0pt;
-	font-family:Times;}
-table.MsoNormalTable
-	{mso-style-parent:"";
-	font-size:10.0pt;
-	font-family:"geneva";}
-@page Section1
-	{size:8.5in 11.0in;
-	margin:1.0in 1.25in 1.0in 1.25in;
-	mso-header-margin:.5in;
-	mso-footer-margin:.5in;
-	mso-paper-source:0;}
-div.Section1
-	{page:Section1;}
--->
-</style>
-<!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="1027"/>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <o:shapelayout v:ext="edit">
-  <o:idmap v:ext="edit" data="1"/>
- </o:shapelayout></xml><![endif]-->
-</head>
-
-<body bgcolor="lightblue">
 
 <img src="http://www.andrew.cmu.edu/user/awodey/awodeypic.jpg" height="200" width="200" align="right" border="1">
 
 <p>&nbsp;
 </p>
 
-<p class=MsoNormal align=left style='margin:0in;margin-bottom:.0001pt;text-align:left'>
-<span style='font-size:14.0pt;font-family:Geneva'><b>Steve Awodey</b></span>
-<span style='font-family:"Gill Sans"'><br></span>
-<span style='font-size:14.0pt;font-family:Geneva'><b>Professor</b></span><span style='font-family:"Gill Sans"'><br></span>
-<span style='font-size:14.0pt;font-family:Geneva'><b>Departments of Philosophy and Mathematics</b></span>
-<span style='font-family:"Gill Sans"'><br></span>
-<span style='font-size:14.0pt;font-family:Geneva'><b>Carnegie Mellon University</b></span>
-<span style='font-family:Geneva'> <o:p></o:p></span></p>
+# Steve Awodey
+# Professor
+# Departments of Philosophy and Mathematics
+# Carnegie Mellon University
 
-<hr size=2 width="100%" align=left>
+## Research Areas
+### Category Theory, Logic, Homotopy Type Theory
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-size:12.0pt;font-family:Geneva'><b>Research Areas</b></span><span
-style='font-family:Geneva'> <o:p></o:p></span></p>
+## Current Projects
 
-<p><span style='font-family:Geneva'>&nbsp;&nbsp;&nbsp; Category Theory, Logic, Homotopy Type Theory</p>
+- [Homotopy Type Theory:](www.cmu.edu/dietrich/philosophy/hott/) More information on this general research program can be found on the site [HomotopyTypeTheory.org](homotopytypetheory.org)
 
-<hr size=2 width="100%" align=center>
-
-</span></div>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'>
-<span style='font-size:12.0pt;font-family:Geneva'><b>Current Projects</b></span>
-<span style='font-family:Geneva'> <o:p></o:p></span></p>
-
-<p><span style='font-family:"Gill Sans"'>
-<a href="https://www.cmu.edu/dietrich/philosophy/hott/"><span style='font-family:Geneva'>Homotopy Type Theory</span></a></span><span style='font-family:Geneva'>. More information on this research program in general can be found on <a href="http://homotopytypetheory.org"><span style='font-family:Geneva'>HomotopyTypeTheory.org</span></a></span><span style='font-family:Geneva'>.
-
-<p><span style='font-family:"Gill Sans"'><a
-href="http://www.phil.cmu.edu/projects/ast/"><span style='font-family:Geneva'>Algebraic Set Theory</span></a></span><span style='font-family:Geneva'>. An older website containing some information about AST and links to some papers.<o:p></o:p></span></p>
-
-<o:p></o:p></span></p>
+- [Algebraic Set Theory:](www.phil.cmu.edu/projects/ast/) An older website containing some information about AST and links to some papers.
+	
 
 <hr size=2 width="100%" align=center>
 
