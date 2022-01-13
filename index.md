@@ -1,7 +1,7 @@
 ## Recent preprints
 
-- Kripke-Joyal forcing for type theory and uniform fibrations. S. Awodey, N. Gambino, S. Hazratpour. [arXiv](https://arxiv.org/abs/2110.14576)
 - A Quillen model structure on cartesia cubical sets. [the current draft](https://github.com/awodey/math/blob/master/QMS/qms.pdf)
+- Kripke-Joyal forcing for type theory and uniform fibrations. S. Awodey, N. Gambino, S. Hazratpour. [arXiv](https://arxiv.org/abs/2110.14576)
 
 ## Course materials
 
