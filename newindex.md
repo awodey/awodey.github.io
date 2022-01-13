@@ -1,16 +1,8 @@
-
-<img src="http://www.andrew.cmu.edu/user/awodey/awodeypic.jpg" height="200" width="200" align="right" border="1">
-
-<p>&nbsp;
-</p>
-
 # Steve Awodey
-# Professor
-# Departments of Philosophy and Mathematics
+# Professor, Departments of Philosophy and Mathematics
 # Carnegie Mellon University
 
-## Research Areas
-### Category Theory, Logic, Homotopy Type Theory
+## Research Areas: Category Theory, Logic, Homotopy Type Theory
 
 ## Current Projects
 
@@ -19,25 +11,15 @@
 - [Algebraic Set Theory:](www.phil.cmu.edu/projects/ast/) An older website containing some information about AST and links to some papers.
 	
 
-<hr size=2 width="100%" align=center>
+## Books
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'>
-<span style='font-size:12.0pt;font-family:Geneva'><b>The HoTT Book</b></span>
-<span style='font-family:Geneva'> <o:p></o:p></span></p>
+### The HoTT Book
 
-<p><span style='font-family:Geneva'><b>&nbsp;&nbsp;&nbsp;
-Homotopy Type Theory: Univalent Foundations of Mathematics</b></span><span style='font-family:Geneva'><o:p></o:p>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Univalent Foundations Program, Institute for Advanced Study, 2013.</i><o:p></o:p>
-</span></p>
+- [Homotopy Type Theory: Univalent Foundations of Mathematics, Univalent Foundations Program, Institute for Advanced Study, 2013.](www.homotopytypetheory.org/book)
 
 <p><span style='font-family:Geneva'>
 	<img src="http://www.andrew.cmu.edu/user/awodey/cover-web.png" height="200" width="150" align="left" border="1">
 	</span></p>
-
-<p><span style='font-family:Geneva'>
-<a href="http://www.homotopytypetheory.org/book">
-<span style='font-family:Geneva'>More information.</span></a></span>
-<span style='font-family:Geneva'><o:p></o:p></span></p>
 
 <hr size=2 width="100%" align=center>
 
