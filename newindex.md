@@ -12,11 +12,11 @@
 
 ## Books
 
-- [The HoTT Book](www.homotopytypetheory.org/book). Homotopy Type Theory: Univalent Foundations of Mathematics, The Univalent Foundations Program, Institute for Advanced Study, 2013.
+- [The HoTT Book](www.homotopytypetheory.org/book). _Homotopy Type Theory: Univalent Foundations of Mathematics_, The Univalent Foundations Program, Institute for Advanced Study, 2013.
 
 ![HoTTbook](http://www.andrew.cmu.edu/user/awodey/cover-web.png)
  
-- [Category Theory Textbook](www.oup.co.uk/isbn/9780199237180). Category Theory, Oxford Logic Guides, Oxford University Press, 2006. Second edition, 2010.
+- [Category Theory Textbook](www.oup.co.uk/isbn/9780199237180). _Category Theory_, Oxford Logic Guides, Oxford University Press, 2006. Second edition, 2010.
 [Errata](www.andrew.cmu.edu/user/awodey/CT2errata2010.pdf)
 
 ![CATbook](http://www.andrew.cmu.edu/user/awodey/catcover.pdf)
@@ -25,7 +25,7 @@
 ## Slides and Resources
 
 - [Univalence in &infin;-topoi.](www.andrew.cmu.edu/user/awodey/talks/CT2020-21.pdf)
-Slides from a lecture at the conference _International Category Theory 2020->21_, held in Genoa, Italy, August-September 2021.
+Slides from a lecture at the conference _Category Theory 2020->21_, held in Genoa, Italy, August-September 2021.
 
 
 
