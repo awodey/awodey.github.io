@@ -15,7 +15,7 @@
 
 - [The HoTT Book](www.homotopytypetheory.org/book).
 
-![book](www.andrew.cmu.edu/user/awodey/cover-web.png)
+![book](http://www.andrew.cmu.edu/user/awodey/cover-web.png)
 
 Homotopy Type Theory: Univalent Foundations of Mathematics, Univalent Foundations Program, Institute for Advanced Study, 2013.
 
