@@ -14,13 +14,15 @@
 ## Books
 
 - [The HoTT Book](www.homotopytypetheory.org/book).
-![HoTTbook](http://www.andrew.cmu.edu/user/awodey/cover-web.png)
 Homotopy Type Theory: Univalent Foundations of Mathematics, Univalent Foundations Program, Institute for Advanced Study, 2013.
+
+![HoTTbook](http://www.andrew.cmu.edu/user/awodey/cover-web.png)
  
-- [Category Theory Textbook](www.oup.co.uk/isbn/9780199237180)
-![CATbook](http://www.andrew.cmu.edu/user/awodey/catcover.pdf)
+- [Category Theory Textbook](www.oup.co.uk/isbn/9780199237180).
 Category Theory, Oxford Logic Guides, Oxford University Press, 2006. Second edition, 2010.
 [Errata](www.andrew.cmu.edu/user/awodey/CT2errata2010.pdf)
+
+![CATbook](http://www.andrew.cmu.edu/user/awodey/catcover.pdf)
 
 <hr size=2 width="100%" align=center>
 	
