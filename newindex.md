@@ -17,6 +17,8 @@
 
 - [Homotopy Type Theory: Univalent Foundations of Mathematics, Univalent Foundations Program, Institute for Advanced Study, 2013.](www.homotopytypetheory.org/book)
 
+![Image](www.andrew.cmu.edu/user/awodey/cover-web.png)
+
 <p><span style='font-family:Geneva'>
 	<img src="http://www.andrew.cmu.edu/user/awodey/cover-web.png" height="200" width="150" align="left" border="1">
 	</span></p>
