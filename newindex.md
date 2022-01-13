@@ -25,12 +25,12 @@
 ## Slides and Resources
 
 - [Univalence in &infin;-topoi.](www.andrew.cmu.edu/user/awodey/talks/CT2020-21.pdf)
-Slides from a lecture at the conference International Category Theory 2020->21 held in Genoa, Italy, August-September 2021.
+Slides from a lecture at the conference _International Category Theory 2020->21_, held in Genoa, Italy, August-September 2021.
 
 
 
 - [Quillen model structures on cubical sets.](www.andrew.cmu.edu/user/awodey/talks/HoTT2019.pdf)
-Slides from a lecture at the conference Homotopy Type Theory 2019 held at CMU, July 2019.
+Slides from a lecture at the conference _Homotopy Type Theory 2019_, held at CMU, July 2019.
 
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
