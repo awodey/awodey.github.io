@@ -5,19 +5,19 @@
 
 ## Current Research
 
-- [Homotopy Type Theory:](http://www.cmu.edu/dietrich/philosophy/hott/) More information on this research program can be found on the site [HomotopyTypeTheory.org](homotopytypetheory.org)
+- [Homotopy Type Theory:](http://www.cmu.edu/dietrich/philosophy/hott/) More information on this research program can be found on the site [HomotopyTypeTheory.org](http://homotopytypetheory.org)
 
 - [Algebraic Set Theory:](http://www.phil.cmu.edu/projects/ast/) An older website containing some information about AST and links to some papers.
 	
 
 ## Books
 
-- [The HoTT Book](www.homotopytypetheory.org/book). _Homotopy Type Theory: Univalent Foundations of Mathematics_, The Univalent Foundations Program, Institute for Advanced Study, 2013.
+- [The HoTT Book](http://www.homotopytypetheory.org/book). _Homotopy Type Theory: Univalent Foundations of Mathematics_, The Univalent Foundations Program, Institute for Advanced Study, 2013.
 
 ![HoTTbook](http://www.andrew.cmu.edu/user/awodey/cover-web.png)
  
-- [Category Theory Textbook](www.oup.co.uk/isbn/9780199237180). _Category Theory_, Oxford Logic Guides, Oxford University Press, 2006. Second edition, 2010.
-[Errata](www.andrew.cmu.edu/user/awodey/CT2errata2010.pdf)
+- [Category Theory Textbook](http://www.oup.co.uk/isbn/9780199237180). _Category Theory_, Oxford Logic Guides, Oxford University Press, 2006. Second edition, 2010.
+[Errata](http://www.andrew.cmu.edu/user/awodey/CT2errata2010.pdf)
 
 ![CATbook](http://www.andrew.cmu.edu/user/awodey/catcover.pdf)
 
