@@ -5,9 +5,9 @@
 
 ## Current Research
 
-- [Homotopy Type Theory:](www.cmu.edu/dietrich/philosophy/hott/) More information on this research program can be found on the site [HomotopyTypeTheory.org](homotopytypetheory.org)
+- [Homotopy Type Theory:](http://www.cmu.edu/dietrich/philosophy/hott/) More information on this research program can be found on the site [HomotopyTypeTheory.org](homotopytypetheory.org)
 
-- [Algebraic Set Theory:](www.phil.cmu.edu/projects/ast/) An older website containing some information about AST and links to some papers.
+- [Algebraic Set Theory:](http://www.phil.cmu.edu/projects/ast/) An older website containing some information about AST and links to some papers.
 	
 
 ## Books
