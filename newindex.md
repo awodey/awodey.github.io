@@ -14,48 +14,17 @@
 ## Books
 
 - [The HoTT Book](www.homotopytypetheory.org/book).
-
-![book](http://www.andrew.cmu.edu/user/awodey/cover-web.png)
-
+![HoTTbook](http://www.andrew.cmu.edu/user/awodey/cover-web.png)
 Homotopy Type Theory: Univalent Foundations of Mathematics, Univalent Foundations Program, Institute for Advanced Study, 2013.
-
-<p><span style='font-family:Geneva'>
-	<img src="http://www.andrew.cmu.edu/user/awodey/cover-web.png" height="200" width="150" align="left" border="1">
-	</span></p>
-
-<hr size=2 width="100%" align=center>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'>
-<span style='font-size:12.0pt;font-family:Geneva'><b>Textbook</b></span>
-<span style='font-family:Geneva'> <o:p></o:p></span></p>
-
-<p><span style='font-family:Geneva'><b>&nbsp;&nbsp;&nbsp;
-Category Theory</b></span>
-<span style='font-family:Geneva'>, Oxford Logic Guides, Oxford University Press, 2006. Second edition, 2010.<o:p></o:p>
-</span></p>
-
-<p><span style='font-family:Geneva'><b>
-	<img src="http://www.andrew.cmu.edu/user/awodey/catcover.pdf" height="200" width="150" align="left" border="1">
-	</b></span><o:p></o:p></p>
-
-<p><span style='font-family:"Gill Sans"'><a
-href="http://www.oup.co.uk/isbn/9780199237180"><span style='font-family:Geneva'>More information.</span></a></span><span style='font-family:Geneva'> <o:p></o:p></span></p>
-
-<p><span style='font-family:"Gill Sans"'><a
-href="CT2errata2010.pdf"><span style='font-family:Geneva'>List of errata.</span></a></span><span style='font-family:Geneva'> <o:p></o:p></span></p>
-
-<div class=MsoNormal align=center style='margin:0in;margin-bottom:.0001pt;
-text-align:center'><span style='font-family:"Gill Sans"'>
+ 
+- [Category Theory Textbook](www.oup.co.uk/isbn/9780199237180)
+![CATbook](http://www.andrew.cmu.edu/user/awodey/catcover.pdf)
+Category Theory, Oxford Logic Guides, Oxford University Press, 2006. Second edition, 2010.
+[Errata](www.andrew.cmu.edu/user/awodey/CT2errata2010.pdf)
 
 <hr size=2 width="100%" align=center>
-
-</span></div>
-
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-size:12.0pt;font-family:Geneva'><b>Slides and Resources</b></span><span
-style='font-family:Geneva'> </span><span style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
+	
+## Slides and Resources
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
