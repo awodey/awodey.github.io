@@ -3,7 +3,7 @@
 
 ## Research Areas: Category Theory, Logic, Homotopy Type Theory
 
-## Current Projects
+## Current Research
 
 - [Homotopy Type Theory:](www.cmu.edu/dietrich/philosophy/hott/) More information on this research program can be found on the site [HomotopyTypeTheory.org](homotopytypetheory.org)
 
@@ -21,31 +21,17 @@
 
 ![CATbook](http://www.andrew.cmu.edu/user/awodey/catcover.pdf)
 
-<hr size=2 width="100%" align=center>
 	
 ## Slides and Resources
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="talks/CT2020-21.pdf"><span
-style='font-family:Geneva'>Univalence in &infin;-topoi.</span></a></span><span
-style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
+- (www.andrew.cmu.edu/user/awodey/talks/CT2020-21.pdf)[Univalence in &infin;-topoi.]
+Slides from a lecture at the conference International Category Theory 2020->21 held in Genoa, Italy, August-September 2021.
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>Slides from a lecture at the conference International Category Theory 2020->21 held in Genoa, Italy, August-September 2021.  </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="talks/HoTT2019.pdf"><span
-style='font-family:Geneva'>Quillen model structures on cubical sets.</span></a></span><span
-style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>Slides from a lecture at the conference Homotopy Type Theory 2019 held at CMU, July 2019.  </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
+- (www.andrew.cmu.edu/user/awodey/talks/HoTT2019.pdf[Quillen model structures on cubical sets.] 
+Slides from a lecture at the conference Homotopy Type Theory 2019 held at CMU, July 2019.
+
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
