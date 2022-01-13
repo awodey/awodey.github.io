@@ -8,7 +8,7 @@
 - [Category Theory](../../) 
 - [Categorical Logic](./catlog/) 
 
-## [a more elaborate website](./longindex.md)
+# [a more elaborate website](./longindex.md)
 
 
 <hr WIDTH="100%">
