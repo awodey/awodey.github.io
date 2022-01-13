@@ -17,8 +17,7 @@
 
 ![HoTTbook](http://www.andrew.cmu.edu/user/awodey/cover-web.png)
  
-- [Category Theory Textbook](www.oup.co.uk/isbn/9780199237180).
-Category Theory, Oxford Logic Guides, Oxford University Press, 2006. Second edition, 2010.
+- [Category Theory Textbook](www.oup.co.uk/isbn/9780199237180). Category Theory, Oxford Logic Guides, Oxford University Press, 2006. Second edition, 2010.
 [Errata](www.andrew.cmu.edu/user/awodey/CT2errata2010.pdf)
 
 ![CATbook](http://www.andrew.cmu.edu/user/awodey/catcover.pdf)
