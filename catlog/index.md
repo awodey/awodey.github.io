@@ -65,6 +65,14 @@ Grades will be based on 4 problem sets and a presentation in class, with a brief
 - [Lecture notes](../../)
 - [Problem sets](../../)
 
+### Updates
+Watch this space for news and information!
+
+- Tuesday 1/18: Class begins! 
+  Meet on Zoom for a course overview, instructions, and some planning.
+  
+- Thursday 1/20: CT review (on zoom).
+
 
 <hr WIDTH="100%">
 <div CLASS="bottom"><a href="http://www.andrew.cmu.edu/~awodey/"></a></div>
