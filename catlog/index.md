@@ -71,6 +71,7 @@ Watch this space for news and information!
 
 - Jan 18: Class begins! 
   Meet on zoom for a course overview, instructions, and some planning.
+  Have a look at the first set of [course notes](/notes/catlog.pdf) providing a _review of basic category theory_.
   
 - Jan 20: CT review (on zoom).
 
