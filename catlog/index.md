@@ -63,7 +63,7 @@ Grades will be based on 4 problem sets and a presentation in class, with a brief
 
 ### Course materials
 
-- [Lecture notes](../../CatLogNotes/)
+- [Lecture notes](../../awodey/CatLogNotes/)
 - [Problem sets](../../)
 
 ### Updates
