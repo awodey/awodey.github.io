@@ -10,6 +10,7 @@
 - Office: Baker 135F
 - Office Hour: Tuesday 2-3, or by appointment
 - Email: awodey@andrew
+- _Zoom meeting id and passcode are on canvas_ 
 
 ### Overview
 This course focuses on applications of category theory in logic. 
@@ -69,7 +70,7 @@ Grades will be based on 4 problem sets and a presentation in class, with a brief
 Watch this space for news and information!
 
 - Jan 18: Class begins! 
-  Meet on Zoom for a course overview, instructions, and some planning.
+  Meet on zoom for a course overview, instructions, and some planning.
   
 - Jan 20: CT review (on zoom).
 
