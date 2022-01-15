@@ -11,7 +11,7 @@
 - Office Hour: Tuesday 2-3, or by appointment
 - Email: awodey@andrew
 - Canvas: [https://canvas.cmu.edu/courses/28133](https://canvas.cmu.edu/courses/28133)
-- _Zoom meeting id and passcode are on canvas_ 
+- Zoom meeting id: 948 0306 2750 (_passcode is on canvas_)
 
 ### Overview
 This course focuses on applications of category theory in logic. 
