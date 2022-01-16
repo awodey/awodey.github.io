@@ -41,43 +41,17 @@ Slides from a lecture at the Isaac Newton Institute Program _Big Proof_, held in
 	
 - [A Cubical Model of Homotopy Type Theory.](www.andrew.cmu.edu/user/awodey/preprints/stockholm.pdf)
 Notes from a series of lectures to the Stockholm Logic Group, June 2016. 
+	
+- [Recent Work in Homotopy Type Theory.](www.andrew.cmu.edu/user/awodey/hott/ams2014.pdf)
+Slides from a talk at an AMS meeting, January 2014. 
+
+- [Homotopy Type Theory and Univalent Foundations.](www.andrew.cmu.edu/user/awodey/hott/CMUslides.pdf)
+Slides from a talk at CMU, March 2012.  
+	
+- [Introduction to the Univalent Foundations of Mathematics: Constructive Type Theory and Homotopy Theory.](www.andrew.cmu.edu/user/awodey/hott/IAStalk.pdf)
+Notes from a talk at IAS, December 2010. 
 
 </details>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="hott/ams2014.pdf"><span
-style='font-family:Geneva'>Recent Work in Homotopy Type Theory.</span></a></span><span
-style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>Slides from a talk at an AMS meeting, January 2014.  </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="hott/CMUslides.pdf"><span
-style='font-family:Geneva'>Homotopy Type Theory and Univalent Foundations.</span></a></span><span
-style='font-family:Geneva'> <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>Slides from a talk at CMU, March 2012.  </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="hott/IAStalk.pdf"><span
-style='font-family:Geneva'>Introduction to the Univalent Foundations of Mathematics: Constructive Type Theory and Homotopy Theory.</span></a></span><span
-style='font-family:Geneva'> <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>Notes from a talk at IAS, December 2010.  </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
-<div class=MsoNormal align=center style='margin:0in;margin-bottom:.0001pt;
-text-align:center'><span style='font-family:"Gill Sans"'>
 
 <hr size=2 width="100%" align=center>
 
