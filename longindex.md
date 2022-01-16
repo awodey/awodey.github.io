@@ -22,6 +22,17 @@
 ![CATbook](http://www.andrew.cmu.edu/user/awodey/catcover.pdf)
 
 	
+	
+<details>
+<summary>Intro:</summary>
+
+#### Sub intro
+
+Details
+
+</details>
+	
+	
 ## Slides and Resources
 
 - [Univalence in &infin;-topoi.](www.andrew.cmu.edu/user/awodey/talks/CT2020-21.pdf)
