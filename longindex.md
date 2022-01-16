@@ -40,16 +40,16 @@ Slides from the 2019 _Skolem Lecture_, held in Oslo, April 2019.
 Slides from a lecture at the Isaac Newton Institute Program _Big Proof_, held in Cambridge, July 2017. 
 	
 - [A Cubical Model of Homotopy Type Theory.](www.andrew.cmu.edu/user/awodey/preprints/stockholm.pdf)
-Notes from a series of lectures to the Stockholm Logic Group, June 2016. 
+Notes from a series of lectures to the Stockholm Logic Group, held in June 2016. 
 	
 - [Recent Work in Homotopy Type Theory.](www.andrew.cmu.edu/user/awodey/hott/ams2014.pdf)
-Slides from a talk at an AMS meeting, January 2014. 
+Slides from a talk at an AMS meeting in January 2014. 
 
 - [Homotopy Type Theory and Univalent Foundations.](www.andrew.cmu.edu/user/awodey/hott/CMUslides.pdf)
-Slides from a talk at CMU, March 2012.  
+Slides from a talk at CMU in March 2012.  
 	
 - [Introduction to the Univalent Foundations of Mathematics: Constructive Type Theory and Homotopy Theory.](www.andrew.cmu.edu/user/awodey/hott/IAStalk.pdf)
-Notes from a talk at IAS, December 2010. 
+Notes from a talk at IAS in December 2010. 
 
 </details>
 
