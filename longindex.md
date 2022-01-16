@@ -24,34 +24,23 @@
 	
 ## Lecture notes and slides	
 <details>
-<summary>more...</summary>
-
-- [Univalence in &infin;-topoi.](www.andrew.cmu.edu/user/awodey/talks/CT2020-21.pdf)
+	- [Univalence in &infin;-topoi.](www.andrew.cmu.edu/user/awodey/talks/CT2020-21.pdf)
 Slides from a lecture at the conference _Category Theory 2020->21_, held in Genoa, Italy, August-September 2021.
+<summary>more...</summary>
 
 - [Quillen model structures on cubical sets.](www.andrew.cmu.edu/user/awodey/talks/HoTT2019.pdf)
 Slides from a lecture at the conference _Homotopy Type Theory 2019_, held at CMU, July 2019.
-
 
 - [Intensionality, Invariance, and Univalence.](www.andrew.cmu.edu/user/awodey/talks/skolem.pdf)
 Slides from the 2019 _Skolem Lecture_, held in Oslo, April 2019. 
 	
 - [Impredicative Encodings in HoTT (or: Toward a Realizability ∞-Topos).](www.andrew.cmu.edu/user/awodey/talks/BigProofs.pdf)
 Slides from a lecture at the Isaac Newton Institute Program _Big Proof_, held in Cambridge, July 2017. 
+	
+- [A Cubical Model of Homotopy Type Theory.](www.andrew.cmu.edu/user/awodey/preprints/stockholm.pdf)
+Notes from a series of lectures to the Stockholm Logic Group, June 2016. 
 
 </details>
-
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="preprints/stockholm.pdf"><span
-style='font-family:Geneva'>A Cubical Model of Homotopy Type Theory.</span></a></span><span
-style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>Notes from a series of lectures to the Stockholm Logic Group, June 2016.  </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
