@@ -20,11 +20,7 @@ of a logical theory is a set-valued functor on a structured category determined
 by the theory. This gives rise to a syntax-invariant notion of a logical theory
 and introduces many algebraic methods into logic, leading naturally to
 the universal and other general models that distinguish functorial from
-classical semantics.  The lambda-calculus, for example, is treated via cartesian closed categories. 
-Similarly higher-order logic is modelled by the categorical notion of a topos.  
-Using sheaves, topos theory subsumes Kripke semantics for modal and intuitionistic logics. 
-And locally cartesian closed categories provide semantics for dependent type theories.  
-Time permitting, we may consider Martin-L"of type theory and its recent extension to Homotopy type theory.
+classical semantics.  The lambda-calculus, for example, is treated via cartesian closed categories. Similarly higher-order logic is modelled by the categorical notion of a topos.  Using sheaves, topos theory subsumes Kripke semantics for modal and intuitionistic logics. And locally cartesian closed categories provide semantics for dependent type theories.  Time permitting, we may consider Martin-L"of type theory and its recent extension to Homotopy type theory.
 
 ### Prerequisites
 80-413/713 Category Theory or equivalent.
