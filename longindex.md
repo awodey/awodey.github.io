@@ -23,10 +23,11 @@
 
 	
 ## Lecture notes and slides	
-<details>
 	- [Univalence in &infin;-topoi.](www.andrew.cmu.edu/user/awodey/talks/CT2020-21.pdf)
 Slides from a lecture at the conference _Category Theory 2020->21_, held in Genoa, Italy, August-September 2021.
-<summary>more...</summary>
+
+<details>
+	<summary>more...</summary>
 
 - [Quillen model structures on cubical sets.](www.andrew.cmu.edu/user/awodey/talks/HoTT2019.pdf)
 Slides from a lecture at the conference _Homotopy Type Theory 2019_, held at CMU, July 2019.
