@@ -10,7 +10,8 @@
 - Office: Baker 135F
 - Office Hour: Tuesday 2-3, or by appointment
 - Email: awodey@andrew
-- _Zoom meeting id and passcode are on canvas_ 
+- Canvas: [https://canvas.cmu.edu/courses/28133](https://canvas.cmu.edu/courses/28133)
+- Zoom meeting id: 948 0306 2750 (_passcode is on canvas_)
 
 ### Overview
 This course focuses on applications of category theory in logic. 
@@ -69,9 +70,9 @@ Grades will be based on 4 problem sets and a presentation in class, with a brief
 ### Updates
 Watch this space for news and information!
 
-- Have a look at the first set of [course notes](/catlog/notes/catlog0.pdf) giving a _review of basic category theory_.
+- Have a look at the first set of [lecture notes](/catlog/notes/catlog0.pdf) giving a _review of basic category theory_.
 - Jan 18: Class begins! 
-  Meet on zoom for a course overview, discussion of the [course notes](/catlog/notes/catlog0.pdf), and some planning.
+  Meet on zoom for a course overview, discussion of the [lecture notes](/catlog/notes/catlog0.pdf), and some planning.
 - Jan 20: CT review (on zoom).
 
 
