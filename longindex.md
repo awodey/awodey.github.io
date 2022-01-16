@@ -34,10 +34,10 @@ Slides from a lecture at the conference _Homotopy Type Theory 2019_, held at CMU
 
 
 - [Intensionality, Invariance, and Univalence.](www.andrew.cmu.edu/user/awodey/talks/skolem.pdf)
-Slides from the 2019 Skolem Lecture held in Oslo, April 2019. 
+Slides from the 2019 _Skolem Lecture_, held in Oslo, April 2019. 
 	
 - [Impredicative Encodings in HoTT (or: Toward a Realizability ∞-Topos).](www.andrew.cmu.edu/user/awodey/talks/BigProofs.pdf)
-Slides from a lecture at the Isaac Newton Institute Program on Big Proof held in Cambridge, July 2017. 
+Slides from a lecture at the Isaac Newton Institute Program _Big Proof_, held in Cambridge, July 2017. 
 
 </details>
 
