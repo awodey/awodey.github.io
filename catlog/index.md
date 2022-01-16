@@ -17,14 +17,14 @@
 This course focuses on applications of category theory in logic. 
 A leading idea is functorial semantics, according to which a model
 of a logical theory is a set-valued functor on a structured category determined
-by the theory. This gives rise to a syntax-invariant notion of a theory
+by the theory. This gives rise to a syntax-invariant notion of a logical theory
 and introduces many algebraic methods into logic, leading naturally to
 the universal and other general models that distinguish functorial from
 classical semantics.  The lambda-calculus, for example, is treated via cartesian closed categories. 
-Similarly higher-order logic is modelled by the categorical notion of a topos. 
-Using sheaves, topos theory also subsumes Kripke semantics for modal and intuitionistic logics. 
-Locally cartesian closed categories provide semantics for dependent type theories.  
-Time permitting, we may consider Martin-L"of type theory and the recent extension to Homotopy type theory.
+Similarly higher-order logic is modelled by the categorical notion of a topos.  
+Using sheaves, topos theory subsumes Kripke semantics for modal and intuitionistic logics. 
+And locally cartesian closed categories provide semantics for dependent type theories.  
+Time permitting, we may consider Martin-L"of type theory and its recent extension to Homotopy type theory.
 
 ### Prerequisites
 80-413/713 Category Theory or equivalent.
