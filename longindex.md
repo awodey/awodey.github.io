@@ -439,7 +439,7 @@ Mathematica</i></span><span style='font-family:Geneva'> (3), vol. 4 (1996), pp.
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"Geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-<a href="preprints/ac.pdf"><span style='font-family:Geneva'>
+<a href="http://www.andrew.cmu.edu/user/awodey/preprints/ac.pdf"><span style='font-family:Geneva'>
 Axiom of choice and excluded middle in categorical logic.</span></a>&nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:12.0pt;
@@ -457,48 +457,47 @@ Ph.D. Dissertation, The University of Chicago, 1997.
 ## Students
 	
 - Clive Newstead,
-<a href="students/NewsteadThesis.pdf"><span style='font-family:Geneva'>Algebraic models of dependent type theory</span></a>, 
+<a href="http://www.andrew.cmu.edu/user/awodey/students/NewsteadThesis.pdf"><span style='font-family:Geneva'>Algebraic models of dependent type theory</span></a>, 
 CMU, Mathematics, 2018.
 
 - Egbert Rijke,
-<a href="students/RijkeThesis.pdf"><span style='font-family:Geneva'>Classifying Types
-Topics in synthetic homotopy theory</span></a>, 
+<a href="http://www.andrew.cmu.edu/user/awodey/students/RijkeThesis.pdf"><span style='font-family:Geneva'>Classifying Types: Topics in synthetic homotopy theory</span></a>, 
 CMU, Pure and Applied Logic, 2018.
 
 - Kristina Sojakove,
-<a href="students/SojakovaThesis.pdf"><span style='font-family:Geneva'>Higher Inductive Types as Homotopy-Initial Algebras</span></a>, 
+<a href="http://www.andrew.cmu.edu/user/awodey/students/SojakovaThesis.pdf"><span style='font-family:Geneva'>Higher Inductive Types as Homotopy-Initial Algebras</span></a>, 
 CMU, Computer Science, 2016.
 
 - Spencer Breiner,
-<a href="students/breiner.pdf"><span style='font-family:Geneva'>Scheme representation for first-logic</span></a>, 
+<a href="http://www.andrew.cmu.edu/user/awodey/students/breiner.pdf"><span style='font-family:Geneva'>Scheme representation for first-logic</span></a>, 
 CMU, Pure and Applied Logic, 2014.
 
 - Peter LeFanu Lumsdaine,
-<a href="students/lumsdaine.pdf"><span style='font-family:Geneva'>Higher categories from type theory</span></a>, 
+<a href="http://www.andrew.cmu.edu/user/awodey/students/lumsdaine.pdf"><span style='font-family:Geneva'>Higher categories from type theory</span></a>, 
 CMU, Mathematics, 2010.
 
 - Kohei Kishida,
-<a href="students/kishida.pdf">Generalized topological semantics for first-order modal logic</a>, 
+<a href="http://www.andrew.cmu.edu/user/awodey/students/kishida.pdf">Generalized topological semantics for first-order modal logic</a>, 
 University of Pittsburgh, Philosophy, 2010.
 
 - Henrik Forssell,
-<a href="students/forssell.pdf">First-order logical duality</a>, 
+<a href="http://www.andrew.cmu.edu/user/awodey/students/forssell.pdf">First-order logical duality</a>, 
 CMU, Philosophy, 2008.
 
 - Michael Warren,
-<a href="students/warren.pdf">Homotopy-theoretic aspects of constructive type theory</a>, 
+<a href="http://www.andrew.cmu.edu/user/awodey/students/warren.pdf">Homotopy-theoretic aspects of constructive type theory</a>, 
 CMU, Philosophy, 2008.
 
 - Matthew Jackson,
-<a href="students/jackson.pdf">A sheaf-theoretic approach to measure theory</a>, 
+<a href="http://www.andrew.cmu.edu/user/awodey/students/jackson.pdf">A sheaf-theoretic approach to measure theory</a>, 
 University of Pittsburgh, Mathematics, 2006.
 
 - Jonas Eliasson,
-<a href="students/eliasson.pdf">Ultrasheaves</a>, 
+<a href="http://www.andrew.cmu.edu/user/awodey/students/eliasson.pdf">Ultrasheaves</a>, 
 University of Uppsala, Mathematics, 2003.
 
 - Jesse Hughes,
-<a href="students/hughes.pdf">A study of categories of algebras and coalgebras</a>, 
+<a href="http://www.andrew.cmu.edu/user/awodey/students/hughes.pdf">A study of categories of algebras and coalgebras</a>, 
 CMU, Philosophy, 2001.
 	
 </details>
