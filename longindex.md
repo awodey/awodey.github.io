@@ -71,45 +71,24 @@ Notes from a talk at IAS in December 2010.
 
 - Impredicative encodings of (higher) inductive types. S. Awodey, J. Frey, S. Speight, _LICS_ 2018. [arXiv:1802.02820](https://arxiv.org/abs/1802.02820)
 
-- A cubical model of homotopy type theory. _Annals of Pure and Applied Logic_, 2018. [arXiv:1607.06413](https://arxiv.org/abs/1607.06413)
-
-
-- Homotopy-initial algebras in type theory. S. Awodey, N. Gambino, K. Sojakova, _Journal of the Association for Computing Machinery_, 2017. [arXiv:1504.05531](https://arxiv.org/abs/1504.05531)
+<details>
+	<summary>more...</summary>
 	
+- A cubical model of homotopy type theory. _Annals of Pure and Applied Logic_, 2018. 
+	[arXiv:1607.06413](https://arxiv.org/abs/1607.06413)
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="preprints/iasletter.pdf"><span
-style='font-family:Geneva'> Univalent Foundations and the Large Scale Formalization of Mathematics.</span></a></span><span
-style='font-family:Geneva'> &nbsp; <o:p></o:p></span></p>
+- Homotopy-initial algebras in type theory. S. Awodey, N. Gambino, K. Sojakova, _Journal of the Association for Computing Machinery_, 2017. 			[arXiv:1504.05531](https://arxiv.org/abs/1504.05531)
+	
+- Natural models of homotopy type theory. _Mathematical Structures in Computer Science_, December 2016. 
+	[arXiv:1406.3219](https://arxiv.org/abs/1406.3219)
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey, T. Coquand,
-<i>The IAS Letter</i>, Institute for Advanced Study, 2013.  </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="preprints/natural.pdf"><span
-style='font-family:Geneva'>Natural models of homotopy type theory.</span></a></span><span
-style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey, December 2016.  </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="preprints/toposmodal.pdf"><span
-style='font-family:Geneva'>Topos semantics for higher-order modal logic.</span></a></span><span
-style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey, K. Kishida, H.-C. Kotzsch, 2014.  </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
+- Topos semantics for higher-order modal logic. S. Awodey, K. Kishida, H.-C. Kotzsch, _Logique & Analyse_, February 2014.
+	[arXiv:1403.0020](https://arxiv.org/abs/1403.0020)
+	
+- Univalent Foundations and the Large Scale Formalization of Mathematics. S. Awodey, T. Coquand, _The IAS Letter_, Institute for Advanced Study, Spring 2013. 
+	[preprint](http://www.andrew.cmu.edu/user/awodey/preprints/iasletter.pdf)
+	
+	
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
