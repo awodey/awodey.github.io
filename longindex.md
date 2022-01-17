@@ -58,23 +58,15 @@ Notes from a talk at IAS in December 2010.
 </span></div>
 
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-size:12.0pt;font-family:Geneva'><b>Selected Preprints</b></span><span
-style='font-family:Geneva'> </span><span style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
+## Preprints
+
+- [Kripke-Joyal forcing for type theory and uniform fibrations.](https://arxiv.org/abs/2110.14576)
+S. Awodey, N. Gambino, S. Hazratpour, October 2021. 
 
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="https://arxiv.org/abs/2110.14576"><span
-style='font-family:Geneva'>Kripke-Joyal forcing for type theory and uniform fibrations.</span></a></span><span
-style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey, N. Gambino, S. Hazratpour, October 2021.  </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
-
+<details>
+	<summary>more...</summary>
+	
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
@@ -236,6 +228,8 @@ style='font-family:Geneva'> <i>Bulletin of Symbolic Logic.</i>
 text-align:center'><span style='font-family:"Gill Sans"'><span
 style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
 
+	</details>
+		
 <hr size=2 width="100%" align=center>
 
 </span></div>
