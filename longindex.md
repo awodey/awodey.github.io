@@ -67,6 +67,8 @@ Notes from a talk at IAS in December 2010.
 	
 </details>
 
+<br>
+
 ## Publications
 
 - Impredicative encodings of (higher) inductive types. S. Awodey, J. Frey, S. Speight, _LICS_ 2018. [arXiv:1802.02820](https://arxiv.org/abs/1802.02820)
@@ -444,6 +446,8 @@ Axiom of choice and excluded middle in categorical logic.</span></a>&nbsp;&nbsp;
 margin-left:0in;text-indent:.5in'><span style='font-family:Geneva'>Unpublished MS (1995). <o:p></o:p></span></p>
 
 </details>
+
+<br>
 
 ## Dissertation
 	
