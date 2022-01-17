@@ -85,7 +85,7 @@ Notes from a talk at IAS in December 2010.
 - Topos semantics for higher-order modal logic. S. Awodey, K. Kishida, H.-C. Kotzsch, _Logique & Analyse_, February 2014.
 	[arXiv:1403.0020](https://arxiv.org/abs/1403.0020)
 	
-- Univalent Foundations and the Large Scale Formalization of Mathematics. S. Awodey, T. Coquand, _The IAS Letter_, Institute for Advanced Study, Spring 2013. 
+- Univalent foundations and the large scale formalization of mathematics. S. Awodey, T. Coquand, _The IAS Letter_, Institute for Advanced Study, Spring 2013. 
 	[preprint](http://www.andrew.cmu.edu/user/awodey/preprints/iasletter.pdf)
 	
 	
