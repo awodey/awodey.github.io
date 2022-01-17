@@ -3,7 +3,7 @@
 
 #### Research Areas: Category Theory, Logic, Homotopy Type Theory
 
-## Current Research Projects
+## Projects
 
 - [Homotopy Type Theory:](http://www.cmu.edu/dietrich/philosophy/hott/ ) More information on this research program can be found on the site [HomotopyTypeTheory.org](http://homotopytypetheory.org)
 
