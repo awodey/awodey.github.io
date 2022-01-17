@@ -9,7 +9,6 @@
 
 - [Algebraic Set Theory:](http://www.phil.cmu.edu/projects/ast/) An older website containing some information about AST and links to some papers.
 	
-
 ## Books
 
 - [The HoTT Book](http://www.homotopytypetheory.org/book). _Homotopy Type Theory: Univalent Foundations of Mathematics_, The Univalent Foundations Program, Institute for Advanced Study, 2013.
@@ -21,7 +20,6 @@
 
 ![CATbook](http://www.andrew.cmu.edu/user/awodey/catcover.pdf)
 
-	
 ## Lecture notes and slides	
 	
 - [Univalence in &infin;-topoi.](http://www.andrew.cmu.edu/user/awodey/talks/CT2020-21.pdf)
@@ -50,6 +48,8 @@ Slides from a talk at CMU in March 2012.
 	
 - [Introduction to the Univalent Foundations of Mathematics: Constructive Type Theory and Homotopy Theory.](http://www.andrew.cmu.edu/user/awodey/hott/IAStalk.pdf)
 Notes from a talk at IAS in December 2010. 
+	
+</details>
 
 ## Current Preprints
 
@@ -59,42 +59,71 @@ Notes from a talk at IAS in December 2010.
 <details>
 	<summary>more...</summary>
 	
+- Sheaf representations and duality in logic. June 2019. [arXiv:2001.09195](https://arxiv.org/abs/2001.09195)
+
+- A proposition is the (homotopy) type of its proofs. January 2016. [arXiv:2001.09195](https://arxiv.org/abs/2001.09195)
+
+- Univalence as a principle of logic.  October 2016. [preprint](http://www.andrew.cmu.edu/user/awodey/preprints/uapl.pdf)
+
+- Polynomial pseudomonads and dependent type theory. S.  Awodey, C. Newstead, February 2018. [arXiv:1802.00997](https://arxiv.org/abs/1802.00997)
+	
+</details>
+		
+<hr size=2 width="100%" align=center>
+
+</span></div>
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="preprints/lambek.pdf"><span
-style='font-family:Geneva'>Sheaf Representations and Duality in Logic.</span></a></span><span
-style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey, June 2019.  </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
-
-
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="preprints/tait.pdf"><span
-style='font-family:Geneva'>A proposition is the (homotopy) type of its proofs.</span></a></span><span
-style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey, January 2016.  </span><span
-style='font-family:"Gill Sans"'><br>
+style='font-size:12.0pt;font-family:Geneva'><b>Selected Publications</b></span><span
+style='font-family:Geneva'> </span><span style='font-family:"Gill Sans"'><br>
 </span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="preprints/uapl.pdf"><span
-style='font-family:Geneva'>Univalence as a principle of logic.</span></a></span><span
+</span><span style='font-family:"Gill Sans"'><a href="preprints/impred.pdf"><span
+style='font-family:Geneva'>Impredicative encodings of (higher) inductive types.</span></a></span><span
 style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey, October 2016.  </span><span
+style='font-family:Geneva'>S. Awodey, J. Frey, S. Speight, <i>LICS</i>, 2018.  </span><span
 style='font-family:"Gill Sans"'><br>
 </span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
 
+<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
+style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
+</span><span style='font-family:"Gill Sans"'><a href="https://arxiv.org/abs/1607.06413"><span
+style='font-family:Geneva'> A cubical model of homotopy type theory.</span></a></span><span
+style='font-family:Geneva'> &nbsp; <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
+style='font-family:Geneva'>S. Awodey,
+<i>Annals of Pure and Applied Logic</i>, 2018.  </span><span
+style='font-family:"Gill Sans"'><br>
+</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
+style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
+</span><span style='font-family:"Gill Sans"'><a href="https://arxiv.org/abs/1504.05531"><span
+style='font-family:Geneva'> Homotopy-initial algebras in type theory.</span></a></span><span
+style='font-family:Geneva'> &nbsp; <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
+style='font-family:Geneva'>S. Awodey, N. Gambino, K. Sojakova,
+<i>Journal of the Association for Computing Machinery</i>, 2017.  </span><span
+style='font-family:"Gill Sans"'><br>
+</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
+style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
+</span><span style='font-family:"Gill Sans"'><a href="preprints/iasletter.pdf"><span
+style='font-family:Geneva'> Univalent Foundations and the Large Scale Formalization of Mathematics.</span></a></span><span
+style='font-family:Geneva'> &nbsp; <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
+style='font-family:Geneva'>S. Awodey, T. Coquand,
+<i>The IAS Letter</i>, Institute for Advanced Study, 2013.  </span><span
+style='font-family:"Gill Sans"'><br>
+</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
@@ -152,6 +181,7 @@ style='font-family:"Gill Sans"'><br>
 </span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
 
 
+
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
 </span><span style='font-family:"Gill Sans"'><a href="preprints/fold.pdf"><span
@@ -184,8 +214,6 @@ style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
 style='font-family:Geneva'>S. Awodey, 2009.  </span><span
 style='font-family:"Gill Sans"'><br>
 </span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
-
-
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
@@ -220,65 +248,7 @@ style='font-family:Geneva'> <i>Bulletin of Symbolic Logic.</i>
 text-align:center'><span style='font-family:"Gill Sans"'><span
 style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
 
-	</details>
-		
-<hr size=2 width="100%" align=center>
 
-</span></div>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-size:12.0pt;font-family:Geneva'><b>Selected Publications</b></span><span
-style='font-family:Geneva'> </span><span style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="preprints/impred.pdf"><span
-style='font-family:Geneva'>Impredicative encodings of (higher) inductive types.</span></a></span><span
-style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey, J. Frey, S. Speight, <i>LICS</i>, 2018.  </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="https://arxiv.org/abs/1607.06413"><span
-style='font-family:Geneva'> A cubical model of homotopy type theory.</span></a></span><span
-style='font-family:Geneva'> &nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey,
-<i>Annals of Pure and Applied Logic</i>, 2018.  </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="https://arxiv.org/abs/1504.05531"><span
-style='font-family:Geneva'> Homotopy-initial algebras in type theory.</span></a></span><span
-style='font-family:Geneva'> &nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey, N. Gambino, K. Sojakova,
-<i>Journal of the Association for Computing Machinery</i>, 2017.  </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
-
-
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="preprints/iasletter.pdf"><span
-style='font-family:Geneva'> Univalent Foundations and the Large Scale Formalization of Mathematics.</span></a></span><span
-style='font-family:Geneva'> &nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey, T. Coquand,
-<i>The IAS Letter</i>, Institute for Advanced Study, 2013.  </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
