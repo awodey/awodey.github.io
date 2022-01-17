@@ -462,47 +462,38 @@ CMU, Pure and Applied Logic, 2018.
 - Kristina Sojakove,
 <a href="students/SojakovaThesis.pdf"><span style='font-family:Geneva'>Higher Inductive Types as Homotopy-Initial Algebras</span></a>, 
 CMU, Computer Science, 2016.
-</span>
 
 - Spencer Breiner,
 <a href="students/breiner.pdf"><span style='font-family:Geneva'>Scheme representation for first-logic</span></a>, 
 CMU, Pure and Applied Logic, 2014.
-</span>
 
 - Peter LeFanu Lumsdaine,
 <a href="students/lumsdaine.pdf"><span style='font-family:Geneva'>Higher categories from type theory</span></a>, 
 CMU, Mathematics, 2010.
-</span>
 
 - Kohei Kishida,
 <a href="students/kishida.pdf">Generalized topological semantics for first-order modal logic</a>, 
 University of Pittsburgh, Philosophy, 2010.
-</span>
 
 - Henrik Forssell,
 <a href="students/forssell.pdf">First-order logical duality</a>, 
 CMU, Philosophy, 2008.
-</span>
 
 - Michael Warren,
 <a href="students/warren.pdf">Homotopy-theoretic aspects of constructive type theory</a>, 
 CMU, Philosophy, 2008.
-</span>
 
 - Matthew Jackson,
 <a href="students/jackson.pdf">A sheaf-theoretic approach to measure theory</a>, 
 University of Pittsburgh, Mathematics, 2006.
-</span>
 
 - Jonas Eliasson,
 <a href="students/eliasson.pdf">Ultrasheaves</a>, 
 University of Uppsala, Mathematics, 2003.
-</span>
 
 - Jesse Hughes,
 <a href="students/hughes.pdf">A study of categories of algebras and coalgebras</a>, 
 CMU, Philosophy, 2001.
-</span>
 
 ## Editorial
 
