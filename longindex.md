@@ -94,10 +94,11 @@ Notes from a talk at IAS in December 2010.
 - Structuralism, invariance, and univalence. _Philosophia Mathematica_, 2013. 
 	[pdf](http://www.andrew.cmu.edu/user/awodey/preprints/siu.pdf)
 
-- >Voevodsky's univalence axiom in homotopy type theory. S. Awodey, A. Pelayo, and M. Warren, _Notices of the American Mathematical Sciety_, 2013. 
+- Voevodsky's univalence axiom in homotopy type theory. S. Awodey, A. Pelayo, and M. Warren, _Notices of the American Mathematical Sciety_, 2013. 
 	[pdf](http://www.andrew.cmu.edu/user/awodey/preprints/NoticesAMS.pdf)
 
-- Type theory and homotopy. In Dybjer, P., Lindström, Sten, Palmgren, Erik (eds.), _Epistemology versus Ontology: Essays on the Foundations of Mathematics in Honour of Per Martin-Löf_. Springer, 2010. 
+- Type theory and homotopy. In Dybjer, P., Lindström, Sten, Palmgren, Erik (eds.), _Epistemology versus Ontology: 
+	Essays on the Foundations of Mathematics in Honour of Per Martin-Löf_. Springer, 2010. 
 	[arXiv:1010.1810](https://arxiv.org/abs/1010.1810)
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
