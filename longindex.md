@@ -24,6 +24,7 @@
 	
 - [Univalence in &infin;-topoi.](http://www.andrew.cmu.edu/user/awodey/talks/CT2020-21.pdf)
 Slides from a lecture at the conference _Category Theory 2020->21_, held in Genoa in August-September 2021.
+
 <details><summary>more...</summary>
 	<br>
 
@@ -46,6 +47,8 @@ Slides from a talk at CMU in March 2012.
 Notes from a talk at IAS in December 2010. 
 	
 </details>
+
+<br>
 
 ## Preprints
 
