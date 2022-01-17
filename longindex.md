@@ -65,6 +65,9 @@ Notes from a talk at IAS in December 2010.
 
 - Univalence as a principle of logic.  October 2016. [preprint](http://www.andrew.cmu.edu/user/awodey/preprints/uapl.pdf)
 	
+- Axiom of choice and excluded middle in categorical logic. Spring 1995.
+	[Unpublished MS](http://www.andrew.cmu.edu/user/awodey/preprints/ac.pdf)
+
 </details>
 
 <br>
@@ -125,7 +128,6 @@ Notes from a talk at IAS in December 2010.
 - Relating first-order set theories, toposes and categories of classes. Steve Awodey, Carsten Butz, Alex Simpson, and Thomas Streicher. 
 	_Annals of Pure and Applied Logic_, 2013. [pdf](https://www.phil.cmu.edu/projects/ast/Papers/Awodey-Butz-Simpson-Streicher-APAL-2013.pdf)
 	
-
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
 </span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/astIntroFinal.pdf"><span
@@ -133,14 +135,14 @@ style='font-family:Geneva'>A brief introduction to algebraic set theory.</span><
 style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey,  <i>The Bulletin of Symbolic Logic</i>, 2008.  </span><span
+style='font-family:Geneva'>S. Awodey, <i>The Bulletin of Symbolic Logic</i>, 2008.  </span><span
 style='font-family:"Gill Sans"'><br>
 </span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/FoS4.phil.pdf"><span
-style='font-family:Geneva'>Topology and modality: The topological
+</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/FoS4.phil.pdf">
+<span style='font-family:Geneva'>Topology and modality: The topological
 interpretation of first-order modal logic.</span></a></span><span
 style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
 
@@ -167,7 +169,8 @@ style='font-family:Geneva'>Carnap's Dream: G&ouml;del, Wittgenstein, and <i>Logi
 style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey, A.W. Carus, <i>Synthese</i>, 2007. </span><span style='font-family:Geneva'> </span><span style='font-family:"Gill Sans"'><br>
+style='font-family:Geneva'>S. Awodey, A.W. Carus, <i>Synthese</i>, 2007. </span>
+<span style='font-family:Geneva'> </span><span style='font-family:"Gill Sans"'><br>
 </span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
@@ -351,14 +354,6 @@ Structure in mathematics and logic: a categorical perspective.
 margin-left:0in;text-indent:.5in'><span style='font-family:Geneva'><i>Philosophia
 Mathematica</i></span><span style='font-family:Geneva'> (3), vol. 4 (1996), pp.
 209--237. <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"Geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-<a href="http://www.andrew.cmu.edu/user/awodey/preprints/ac.pdf"><span style='font-family:Geneva'>
-Axiom of choice and excluded middle in categorical logic.</span></a>&nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:12.0pt;
-margin-left:0in;text-indent:.5in'><span style='font-family:Geneva'>Unpublished MS (1995). <o:p></o:p></span></p>
 
 </details>
 
