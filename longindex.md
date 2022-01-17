@@ -521,11 +521,8 @@ CMU, Philosophy, 2001.
 ## Editorial
 
 - [The Journal of Symbolic Logic](https://www.cambridge.org/core/journals/journal-of-symbolic-logic)
-
 - [Mathematical Logic Quarterly](https://onlinelibrary.wiley.com/journal/15213870)
-
 - [The Collected Works of Rudolf Carnap](http://www.phil.cmu.edu/projects/carnap/)
-
 
 ## Courses
 	
@@ -543,5 +540,4 @@ CMU, Philosophy, 2001.
 ## Contact Information
 
 Steve Awodey, Department of Philosophy, Carnegie Mellon University, Pittsburgh, PA 15213
-
 Office BH 135F, Phone (412) 268-8947, Fax (412) 268-1440, Email awodey(at)cmu.edu
