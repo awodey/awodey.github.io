@@ -514,7 +514,7 @@ CMU, Philosophy, 2001.
 - [The Carnap Blog](http://www.awcarus.com)
 - [Marc Awodey Memorial](http://www.marcawodey.org)
 
-## Contact Information
+## Contact
 
 Steve Awodey, Department of Philosophy, Carnegie Mellon University, Pittsburgh, PA 15213
 
