@@ -450,73 +450,61 @@ Ph.D. Dissertation, The University of Chicago, 1997.
 
 ## PhD Students
 
-<p><span style='font-family:"Geneva"'>·&nbsp;
-Clive Newstead,
+- Clive Newstead,
 <a href="students/NewsteadThesis.pdf"><span style='font-family:Geneva'>Algebraic models of dependent type theory</span></a>, 
 CMU, Mathematics, 2018.
 </span>
 
-<p><span style='font-family:"Geneva"'>·&nbsp;
-Egbert Rijke,
+- Egbert Rijke,
 <a href="students/RijkeThesis.pdf"><span style='font-family:Geneva'>Classifying Types
 Topics in synthetic homotopy theory</span></a>, 
 CMU, Pure and Applied Logic, 2018.
 </span>
 
-<p><span style='font-family:"Geneva"'>·&nbsp;
-Kristina Sojakove,
+- Kristina Sojakove,
 <a href="students/SojakovaThesis.pdf"><span style='font-family:Geneva'>Higher Inductive Types as Homotopy-Initial Algebras</span></a>, 
 CMU, Computer Science, 2016.
 </span>
 
-<p><span style='font-family:"Geneva"'>·&nbsp;
-Spencer Breiner,
+- Spencer Breiner,
 <a href="students/breiner.pdf"><span style='font-family:Geneva'>Scheme representation for first-logic</span></a>, 
 CMU, Pure and Applied Logic, 2014.
 </span>
 
-<p><span style='font-family:"Geneva"'>·&nbsp;
-Peter LeFanu Lumsdaine,
+- Peter LeFanu Lumsdaine,
 <a href="students/lumsdaine.pdf"><span style='font-family:Geneva'>Higher categories from type theory</span></a>, 
 CMU, Mathematics, 2010.
 </span>
 
-<p><span style='font-family:"Geneva"'>·&nbsp;
-Kohei Kishida,
+- Kohei Kishida,
 <a href="students/kishida.pdf">Generalized topological semantics for first-order modal logic</a>, 
 University of Pittsburgh, Philosophy, 2010.
 </span>
 
-<p><span style='font-family:"Geneva"'>·&nbsp;
-Henrik Forssell,
+- Henrik Forssell,
 <a href="students/forssell.pdf">First-order logical duality</a>, 
 CMU, Philosophy, 2008.
 </span>
 
-<p><span style='font-family:"Geneva"'>·&nbsp;
-Michael Warren,
+- Michael Warren,
 <a href="students/warren.pdf">Homotopy-theoretic aspects of constructive type theory</a>, 
 CMU, Philosophy, 2008.
 </span>
 
-<p><span style='font-family:"Geneva"'>·&nbsp;
-Matthew Jackson,
+- Matthew Jackson,
 <a href="students/jackson.pdf">A sheaf-theoretic approach to measure theory</a>, 
 University of Pittsburgh, Mathematics, 2006.
 </span>
 
-<p><span style='font-family:"Geneva"'>·&nbsp;
-Jonas Eliasson,
+- Jonas Eliasson,
 <a href="students/eliasson.pdf">Ultrasheaves</a>, 
 University of Uppsala, Mathematics, 2003.
 </span>
 
-<p><span style='font-family:"Geneva"'>·&nbsp;
-Jesse Hughes,
+- Jesse Hughes,
 <a href="students/hughes.pdf">A study of categories of algebras and coalgebras</a>, 
 CMU, Philosophy, 2001.
 </span>
-
 
 ## Editorial
 
@@ -532,7 +520,7 @@ CMU, Philosophy, 2001.
 
 ## Links
 	
-- [CMU Pure and Applied Logic Program](http://logic.cmu.edu)
+- [Pure and Applied Logic Program](http://logic.cmu.edu)
 - [The HoTT Wiki](https://ncatlab.org/homotopytypetheory/show/HomePage)
 - [The Carnap Blog](http://www.awcarus.com)
 - [Marc Awodey Memorial](http://www.marcawodey.org)
