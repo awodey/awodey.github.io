@@ -69,36 +69,13 @@ Notes from a talk at IAS in December 2010.
 
 ## Selected Publications
 
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="preprints/impred.pdf"><span
-style='font-family:Geneva'>Impredicative encodings of (higher) inductive types.</span></a></span><span
-style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey, J. Frey, S. Speight, <i>LICS</i>, 2018.  </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
-
-
+- Impredicative encodings of (higher) inductive types. S. Awodey, J. Frey, S. Speight, _LICS_ 2018. [arXiv:1802.02820](https://arxiv.org/abs/1802.02820)
 
 - A cubical model of homotopy type theory. _Annals of Pure and Applied Logic_, 2018. [arXiv:1607.06413](https://arxiv.org/abs/1607.06413)
 
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="https://arxiv.org/abs/1504.05531"><span
-style='font-family:Geneva'> Homotopy-initial algebras in type theory.</span></a></span><span
-style='font-family:Geneva'> &nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey, N. Gambino, K. Sojakova,
-<i>Journal of the Association for Computing Machinery</i>, 2017.  </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
-
-
+- Homotopy-initial algebras in type theory. S. Awodey, N. Gambino, K. Sojakova, _Journal of the Association for Computing Machinery_, 2017. [arXiv:1504.05531](https://arxiv.org/abs/1504.05531)
+	
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
