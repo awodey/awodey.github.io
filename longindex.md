@@ -93,7 +93,7 @@ Notes from a talk at IAS in December 2010.
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="preprints/siu.pdf"><span
+</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/siu.pdf"><span
 style='font-family:Geneva'>Structuralism, invariance, and univalence.</span></a></span><span
 style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
 
@@ -104,7 +104,7 @@ style='font-family:"Gill Sans"'><br>
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="preprints/NoticesAMS.pdf"><span
+</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/NoticesAMS.pdf"><span
 style='font-family:Geneva'>Voevodsky's univalence axiom in homotopy type theory.</span></a></span><span
 style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
 
@@ -115,7 +115,7 @@ style='font-family:"Gill Sans"'><br>
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="preprints/TTH.pdf"><span
+</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/TTH.pdf"><span
 style='font-family:Geneva'>Type theory and homotopy.</span></a></span><span
 style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
 
@@ -126,7 +126,7 @@ style='font-family:"Gill Sans"'><br>
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="preprints/fold.pdf"><span
+</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/fold.pdf"><span
 style='font-family:Geneva'>First-order logical duality.</span></a></span><span
 style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
 
@@ -137,7 +137,7 @@ style='font-family:"Gill Sans"'><br>
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="preprints/MLC.pdf"><span
+</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/MLC.pdf"><span
 style='font-family:Geneva'>Martin-L&ouml;f complexes.</span></a></span><span
 style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
 
@@ -148,7 +148,7 @@ style='font-family:"Gill Sans"'><br>
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="preprints/stcsFinal.pdf"><span
+</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/stcsFinal.pdf"><span
 style='font-family:Geneva'>From sets, to types, to categories, to sets.</span></a></span><span
 style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
 
@@ -181,7 +181,7 @@ style='font-family:Geneva'>S. Awodey, C. Butz, A. Simpson, T. Streicher, June
 2003. </span>
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'>
-<span style='font-family:"Gill Sans"'><a href="preprints/BSL.pdf">
+<span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/BSL.pdf">
 <span style='font-family:Geneva'>Research announcement.</span></a></span><span
 style='font-family:Geneva'> <i>Bulletin of Symbolic Logic.</i> 
 <br>
@@ -192,7 +192,7 @@ style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="preprints/sheaves.pdf"><span
+</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/sheaves.pdf"><span
 style='font-family:Geneva'>Lawvere-Tierney sheaves in algebraic set theory.</span></a></span><span
 style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
 
@@ -203,7 +203,7 @@ style='font-family:"Gill Sans"'><br>
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="preprints/homotopy.pdf"><span
+</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/homotopy.pdf"><span
 style='font-family:Geneva'>Homotopy theoretic models of identity types.</span></a></span><span
 style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
 
@@ -214,7 +214,7 @@ style='font-family:Geneva'>S. Awodey, M. Warren, <i> Mathematical Proceedings of
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="preprints/astIntroFinal.pdf"><span
+</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/astIntroFinal.pdf"><span
 style='font-family:Geneva'>A brief introduction to algebraic set theory.</span></a></span><span
 style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
 
@@ -225,7 +225,7 @@ style='font-family:"Gill Sans"'><br>
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="preprints/FoS4.phil.pdf"><span
+</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/FoS4.phil.pdf"><span
 style='font-family:Geneva'>Topology and modality: The topological
 interpretation of first-order modal logic.</span></a></span><span
 style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
@@ -237,17 +237,18 @@ style='font-family:Geneva'>S. Awodey, K. Kishida, <i>The Review of Symbolic Logi
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="preprints/aps.pdf"><span
+</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/aps.pdf"><span
 style='font-family:Geneva'>Saunders Mac Lane (memorial notice).</span></a></span><span
 style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey, <i>Proceedings of the American Philosophical Society</i>, 2007. </span><span style='font-family:Geneva'> </span><span style='font-family:"Gill Sans"'><br>
+style='font-family:Geneva'>S. Awodey, <i>Proceedings of the American Philosophical Society</i>, 2007. </span>
+<span style='font-family:Geneva'> </span><span style='font-family:"Gill Sans"'><br>
 </span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="preprints/CD.pdf"><span
+</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/CD.pdf"><span
 style='font-family:Geneva'>Carnap's Dream: G&ouml;del, Wittgenstein, and <i>Logical Syntax</i>.</span></a></span><span
 style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
 
@@ -257,7 +258,7 @@ style='font-family:Geneva'>S. Awodey, A.W. Carus, <i>Synthese</i>, 2007. </span>
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="preprints/stfr.pdf"><span
+</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/stfr.pdf"><span
 style='font-family:Geneva'>Sheaf toposes for realizability (2004).</span></a></span><span
 style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
 
@@ -295,7 +296,7 @@ of Categories</i></span><span style='font-family:Geneva'> 15(1), CT 2004, pp.
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="preprints/udn.pdf"><span
+</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/udn.pdf"><span
 style='font-family:Geneva'>Ultrasheaves and double negation.</span></a></span><span
 style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
 
@@ -321,7 +322,7 @@ Computation</i></span><span style='font-family:Geneva'> 14(4), pp. 447--471
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
 </span><span style='font-family:"Gill Sans"'><a
-href="preprints/awodeyVhellman.pdf"><span style='font-family:Geneva'>An answer
+href="http://www.andrew.cmu.edu/user/awodey/preprints/awodeyVhellman.pdf"><span style='font-family:Geneva'>An answer
 to G. Hellman's question &quot;Does category theory provide a framework for
 mathematical structuralism?&quot;</span></a></span><span style='font-family:
 Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
@@ -369,7 +370,7 @@ Applied Algebra</i></span><span style='font-family:Geneva'>, 177 (2003), pp.
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="preprints/lrtmlc.ps.gz"><span
+</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/lrtmlc.ps.gz"><span
 style='font-family:Geneva'>Local realizability toposes and a modal logic for
 computability.</span></a></span><span style='font-family:Geneva'>
 &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
@@ -382,7 +383,7 @@ vol. 12 (2002), pp. 319-334. </span><span style='font-family:"Gill Sans"'><br>
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="preprints/topcomp.pdf"><span
+</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/topcomp.pdf"><span
 style='font-family:Geneva'>Topological completeness for higher-order logic.</span></a></span><span
 style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
 
@@ -394,7 +395,7 @@ style='font-family:"Gill Sans"'><br>
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="preprints/toprep.ps.gz"><span
+</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/toprep.ps.gz"><span
 style='font-family:Geneva'>Topological representation of the lambda-calculus.</span></a></span><span
 style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
 
@@ -406,7 +407,7 @@ style='font-family:"Gill Sans"'><br>
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="preprints/sheafrep.ps.gz"><span
+</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/sheafrep.ps.gz"><span
 style='font-family:Geneva'>Sheaf representation for topoi.</span></a></span><span
 style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
 
