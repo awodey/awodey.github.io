@@ -162,27 +162,15 @@ style='font-family:Geneva'>S. Awodey, C. Butz, A. Simpson, T. Streicher, June
 <span style='font-family:Geneva'>Research announcement.</span></a></span><span
 style='font-family:Geneva'> <i>Bulletin of Symbolic Logic.</i> <br>
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/sheaves.pdf"><span
-style='font-family:Geneva'>Lawvere-Tierney sheaves in algebraic set theory.</span></a></span><span
-style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
+- Lawvere-Tierney sheaves in algebraic set theory. S. Awodey, N. Gambino, P. Lumsdaine, M. Warren. _Journal of Symbolic Logic_, 2009. 
+	[pdf](http://www.andrew.cmu.edu/user/awodey/preprints/sheaves.pdf)
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey, N. Gambino, P. Lumsdaine, M. Warren, <i>Journal of Symbolic Logic</i>, 2009.  </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
+- Homotopy theoretic models of identity types. S. Awodey, M. Warren. _Mathematical Proceedings of the Cambridge Philosophical Society_, 2009. 
+	[pdf](http://www.andrew.cmu.edu/user/awodey/preprints/homotopy.pdf)	
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/homotopy.pdf"><span
-style='font-family:Geneva'>Homotopy theoretic models of identity types.</span></a></span><span
-style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey, M. Warren, <i> Mathematical Proceedings of the Cambridge Philosophical Society</i>, 2009. 
-</span><span style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
+- Relating first-order set theories, toposes and categories of classes. Steve Awodey, Carsten Butz, Alex Simpson, and Thomas Streicher. 
+	_Annals of Pure and Applied Logic_, 2013. [pdf](https://www.phil.cmu.edu/projects/ast/Papers/Awodey-Butz-Simpson-Streicher-APAL-2013.pdf)
+	
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
