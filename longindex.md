@@ -51,13 +51,6 @@ Slides from a talk at CMU in March 2012.
 - [Introduction to the Univalent Foundations of Mathematics: Constructive Type Theory and Homotopy Theory.](http://www.andrew.cmu.edu/user/awodey/hott/IAStalk.pdf)
 Notes from a talk at IAS in December 2010. 
 
-</details>
-
-<hr size=2 width="100%" align=center>
-
-</span></div>
-
-
 ## Current Preprints
 
 - Kripke-Joyal forcing for type theory and uniform fibrations.  S. Awodey, N. Gambino, S. Hazratpour, October 2021. [arxiv2110.14576](https://arxiv.org/abs/2110.14576)
