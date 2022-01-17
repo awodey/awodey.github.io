@@ -517,159 +517,33 @@ Jesse Hughes,
 CMU, Philosophy, 2001.
 </span>
 
-&nbsp; <o:p></o:p></span></p>
 
-<hr size=2 width="100%" align=center>
+## Editorial
 
-</span></div>
+- [The Journal of Symbolic Logic](https://www.cambridge.org/core/journals/journal-of-symbolic-logic)
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-size:12.0pt;font-family:Geneva'><b>Editorial Activities</b></span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
+- [Mathematical Logic Quarterly](https://onlinelibrary.wiley.com/journal/15213870)
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'>
-<span style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;</span>
-<span style='font-family:"Gill Sans"'>
-<a href="https://www.cambridge.org/core/journals/journal-of-symbolic-logic">
-<span style='font-family:Geneva'>The Journal of Symbolic Logic</span></a></span>
-<span style='font-family:Geneva'>
-<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'>
-<span style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;</span>
-<span style='font-family:"Gill Sans"'>
-<a href="https://onlinelibrary.wiley.com/journal/15213870">
-<span style='font-family:Geneva'>Mathematical Logic Quarterly</span></a></span>
-<span style='font-family:Geneva'>
-<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'>
-<span style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;</span>
-<span style='font-family:"Gill Sans"'>
-<a href="http://www.phil.cmu.edu/projects/carnap/">
-<span style='font-family:Geneva'>The Collected Works of Rudolf Carnap</span></a></span>
-<span style='font-family:Geneva'>
-<o:p></o:p></span></p>
+- [The Collected Works of Rudolf Carnap](http://www.phil.cmu.edu/projects/carnap/)
 
 
-&nbsp; <o:p></o:p></span></p>
+## Courses
+	
+- [Category Theory](http://www.andrew.cmu.edu/course/80-413-713/)
+- [Categorical Logic](https://awodey.github.io/catlog/)
+- [Formal Logic](http://www.andrew.cmu.edu/course/80-310-610/)
 
-<div class=MsoNormal align=center style='margin:0in;margin-bottom:.0001pt;text-align:center'>
-<span style='font-family:"Gill Sans"'>
-<hr size=2 width="100%" align=center>
-</span></div>
+## Links
+	
+- [CMU Pure and Applied Logic Program](http://logic.cmu.edu)
+- [The HoTT Wiki](https://ncatlab.org/homotopytypetheory/show/HomePage)
+- [The Carnap Blog](http://www.awcarus.com)
+- [Marc Awodey Memorial](http://www.marcawodey.org)
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'>
-<span style='font-size:12.0pt;font-family:Geneva'><b>Course Materials</b></span>
-<span style='font-family:"Gill Sans"'>
-<br></span>
-<span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
+## Contact Information
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'>
-<span style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span>
-<span style='font-family:"Gill Sans"'>
-<a href="http://www.andrew.cmu.edu/course/80-413-713/">
-<span style='font-family:Geneva'>Category Theory</span></a></span>
-<span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'>
-<span style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'>
-	<a href="https://awodey.github.io/catlog/">
-		<span style='font-family:Geneva'>Categorical Logic</span></a></span>
-		<span style='font-family:Geneva'> &nbsp; <o:p></o:p></span></p>
-
-<!--
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a
-href="http://www.andrew.cmu.edu/course/80-317/"><span style='font-family:Geneva'>Constructive
-Logic</span></a></span><span style='font-family:Geneva'> &nbsp; <o:p></o:p></span></p>
--->
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'>
-<span style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;</span>
-<span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/course/80-310-610/">
-<span style='font-family:Geneva'>Formal Logic</span><br>
-<br>
-</a><o:p></o:p></span></p>
-
-
-<div class=MsoNormal align=center style='margin:0in;margin-bottom:.0001pt;text-align:center'>
-<span style='font-family:"Gill Sans"'>
-<hr size=2 width="100%" align=center>
-</span></div>
-
-
-<p><span style='font-size:12pt;font-family:Geneva'>
-<b>Other Links</b></span>
-<p>
-
-<span style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;</span>
-<a href="http://logic.cmu.edu"><span style='font-family:Geneva'>CMU Pure and Applied Logic Program</span></a>
-
-<!--
-<br><span style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;</span>
-<a href="http://hss.cmu.edu/philosophy"><span style='font-family:Geneva'>Philosophy Department</span></a>
--->
-
-<br><span style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;</span>
-<a href="https://ncatlab.org/homotopytypetheory/show/HomePage"><span style='font-family:Geneva'>The HoTT Wiki</span></a></span><span
-style='font-family:Geneva'> </span><span style='font-family:"Gill Sans"'>
-
-<br><span style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;</span>
-<a href="http://www.awcarus.com"><span style='font-family:Geneva'>The Carnap Blog</span></a></span><span
-style='font-family:Geneva'> </span><span style='font-family:"Gill Sans"'>
-
-<!--
-<br>
-<a href="fewo.htm"><span style='font-family:Geneva'>Ferienwohnung &quot;Cölber
-Mühle&quot; bei Marburg</span></a></span><span style='font-family:Geneva'> </span><span
-style='font-family:"Gill Sans"'>
--->
-
-<!--
-<br><span style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;</span>
-<a href="http://www.andrew.cmu.edu/user/awodey/CToctoberfest/Octoberfest.html"><span style='font-family:Geneva'>Category Theory Octoberfest 2017</span></a>
--->
-
-
-<br><span style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;</span>
-<a href="http://www.marcawodey.org"><span style='font-family:Geneva'>Marc Awodey Memorial</span></a>
-<br>
-
-<hr size=2 width="100%" align=center>
-</span></div>
-
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-size:12.0pt;font-family:Geneva'><b>Contact Information</b></span><span
-style='font-family:Geneva'> <o:p></o:p></span></p>
-
-<p><span style='font-family:Geneva'>Steve Awodey </span><span style='font-family:
-"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>Department of Philosophy </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>Carnegie Mellon University </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>Pittsburgh, PA&nbsp; 15213 <o:p></o:p></span></p>
-
-<p><span style='font-family:Geneva'>Office: BH 135F </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>Phone: (412) 268-8947 </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>Fax: (412) 268-1440 </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>E-Mail: awodey(at)cmu.edu </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; </span><span style='font-family:
-"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
-
-</div>
-</body>
-
-</html>
-
+Steve Awodey, Department of Philosophy, Carnegie Mellon University, Pittsburgh, PA 15213
+Office: BH 135F
+Phone: (412) 268-8947
+Fax: (412) 268-1440
+Email: awodey(at)cmu.edu
