@@ -25,7 +25,7 @@
 - [Univalence in &infin;-topoi.](http://www.andrew.cmu.edu/user/awodey/talks/CT2020-21.pdf)
 Slides from a lecture at the conference _Category Theory 2020->21_, held in Genoa in August-September 2021.
 
-<details>
+- <details>
 	<summary>more...</summary>
 
 - [Quillen model structures on cubical sets.](http://www.andrew.cmu.edu/user/awodey/talks/HoTT2019.pdf)
