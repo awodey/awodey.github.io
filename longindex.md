@@ -30,25 +30,25 @@ Slides from a lecture at the conference _Category Theory 2020->21_, held in Geno
 <details>
 	<summary>more...</summary>
 
-- [Quillen model structures on cubical sets.](www.andrew.cmu.edu/user/awodey/talks/HoTT2019.pdf)
+- [Quillen model structures on cubical sets.](http://www.andrew.cmu.edu/user/awodey/talks/HoTT2019.pdf)
 Slides from a lecture at the conference _Homotopy Type Theory 2019_, held at CMU in July 2019.
 
-- [Intensionality, Invariance, and Univalence.](www.andrew.cmu.edu/user/awodey/talks/skolem.pdf)
+- [Intensionality, Invariance, and Univalence.](http://www.andrew.cmu.edu/user/awodey/talks/skolem.pdf)
 Slides from the 2019 _Skolem Lecture_, held in Oslo in April 2019. 
 	
-- [Impredicative Encodings in HoTT (or: Toward a Realizability ∞-Topos).](www.andrew.cmu.edu/user/awodey/talks/BigProofs.pdf)
+- [Impredicative Encodings in HoTT (or: Toward a Realizability ∞-Topos).](http://www.andrew.cmu.edu/user/awodey/talks/BigProofs.pdf)
 Slides from a lecture at the Isaac Newton Institute Program _Big Proof_, held in Cambridge in July 2017. 
 	
-- [A Cubical Model of Homotopy Type Theory.](www.andrew.cmu.edu/user/awodey/preprints/stockholm.pdf)
+- [A Cubical Model of Homotopy Type Theory.](http://www.andrew.cmu.edu/user/awodey/preprints/stockholm.pdf)
 Notes from a series of lectures to the Stockholm Logic Group, held in June 2016. 
 	
-- [Recent Work in Homotopy Type Theory.](www.andrew.cmu.edu/user/awodey/hott/ams2014.pdf)
+- [Recent Work in Homotopy Type Theory.](http://www.andrew.cmu.edu/user/awodey/hott/ams2014.pdf)
 Slides from a talk at an AMS meeting in January 2014. 
 
-- [Homotopy Type Theory and Univalent Foundations.](www.andrew.cmu.edu/user/awodey/hott/CMUslides.pdf)
+- [Homotopy Type Theory and Univalent Foundations.](http://www.andrew.cmu.edu/user/awodey/hott/CMUslides.pdf)
 Slides from a talk at CMU in March 2012.  
 	
-- [Introduction to the Univalent Foundations of Mathematics: Constructive Type Theory and Homotopy Theory.](www.andrew.cmu.edu/user/awodey/hott/IAStalk.pdf)
+- [Introduction to the Univalent Foundations of Mathematics: Constructive Type Theory and Homotopy Theory.](http://www.andrew.cmu.edu/user/awodey/hott/IAStalk.pdf)
 Notes from a talk at IAS in December 2010. 
 
 </details>
