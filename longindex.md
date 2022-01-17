@@ -64,8 +64,6 @@ Notes from a talk at IAS in December 2010.
 - Univalence as a principle of logic.  October 2016. [preprint](http://www.andrew.cmu.edu/user/awodey/preprints/uapl.pdf)
 	
 </details>
-		
-<hr size=2 width="100%" align=center>
 
 ## Publications
 
@@ -88,7 +86,6 @@ Notes from a talk at IAS in December 2010.
 - Univalent foundations and the large scale formalization of mathematics. S. Awodey, T. Coquand, 
 	_The IAS Letter_, Institute for Advanced Study, Spring 2013. 
 	[preprint](http://www.andrew.cmu.edu/user/awodey/preprints/iasletter.pdf)
-
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
@@ -444,11 +441,7 @@ Axiom of choice and excluded middle in categorical logic.</span></a>&nbsp;&nbsp;
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:12.0pt;
 margin-left:0in;text-indent:.5in'><span style='font-family:Geneva'>Unpublished MS (1995). <o:p></o:p></span></p>
 
-	
 </details>
-
-<hr size=2 width="100%" align=center>
-
 
 ## Dissertation
 	
