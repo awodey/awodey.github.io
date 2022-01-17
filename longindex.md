@@ -89,40 +89,16 @@ Notes from a talk at IAS in December 2010.
 	
 - Univalent foundations and the large scale formalization of mathematics. S. Awodey, T. Coquand, 
 	_The IAS Letter_, Institute for Advanced Study, Spring 2013. 
-	[preprint](http://www.andrew.cmu.edu/user/awodey/preprints/iasletter.pdf)
+	[pdf](http://www.andrew.cmu.edu/user/awodey/preprints/iasletter.pdf)
 
-- <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/siu.pdf"><span
-style='font-family:Geneva'>Structuralism, invariance, and univalence.</span></a></span><span
-style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
+- Structuralism, invariance, and univalence. _Philosophia Mathematica_, 2013. 
+	[pdf](http://www.andrew.cmu.edu/user/awodey/preprints/siu.pdf)
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey, 2013.  </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
+- >Voevodsky's univalence axiom in homotopy type theory. S. Awodey, A. Pelayo, and M. Warren, _Notices of the American Mathematical Sciety_, 2013. 
+	[pdf](http://www.andrew.cmu.edu/user/awodey/preprints/NoticesAMS.pdf)
 
-- <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/NoticesAMS.pdf"><span
-style='font-family:Geneva'>Voevodsky's univalence axiom in homotopy type theory.</span></a></span><span
-style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey, A. Pelayo, and M. Warren, 2013.  </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
-
-- <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/TTH.pdf"><span
-style='font-family:Geneva'>Type theory and homotopy.</span></a></span><span
-style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey, 2010.  </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
+- Type theory and homotopy. In Dybjer, P., Lindström, Sten, Palmgren, Erik (eds.), _Epistemology versus Ontology: Essays on the Foundations of Mathematics in Honour of Per Martin-Löf_. Springer, 2010. 
+	[arXiv:1010.1810](https://arxiv.org/abs/1010.1810)
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
