@@ -160,12 +160,7 @@ style='font-family:Geneva'>S. Awodey, C. Butz, A. Simpson, T. Streicher, June
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'>
 <span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/BSL.pdf">
 <span style='font-family:Geneva'>Research announcement.</span></a></span><span
-style='font-family:Geneva'> <i>Bulletin of Symbolic Logic.</i> 
-<br>
-
-<div class=MsoNormal align=center style='margin:0in;margin-bottom:.0001pt;
-text-align:center'><span style='font-family:"Gill Sans"'><span
-style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
+style='font-family:Geneva'> <i>Bulletin of Symbolic Logic.</i> <br>
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
