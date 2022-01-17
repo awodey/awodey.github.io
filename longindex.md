@@ -20,7 +20,7 @@
 
 ![CATbook](http://www.andrew.cmu.edu/user/awodey/catcover.pdf)
 
-## Lecture notes and slides	
+## Lectures	
 	
 - [Univalence in &infin;-topoi.](http://www.andrew.cmu.edu/user/awodey/talks/CT2020-21.pdf)
 Slides from a lecture at the conference _Category Theory 2020->21_, held in Genoa in August-September 2021.
@@ -48,7 +48,7 @@ Notes from a talk at IAS in December 2010.
 	
 </details>
 
-## Current Preprints
+## Preprints
 
 - Kripke-Joyal forcing for type theory and uniform fibrations.  S. Awodey, N. Gambino, S. Hazratpour, October 2021. [arxiv2110.14576](https://arxiv.org/abs/2110.14576)
 
@@ -67,7 +67,7 @@ Notes from a talk at IAS in December 2010.
 		
 <hr size=2 width="100%" align=center>
 
-## Selected Publications
+## Publications
 
 - Impredicative encodings of (higher) inductive types. S. Awodey, J. Frey, S. Speight, _LICS_ 2018. [arXiv:1802.02820](https://arxiv.org/abs/1802.02820)
 
@@ -85,10 +85,10 @@ Notes from a talk at IAS in December 2010.
 - Topos semantics for higher-order modal logic. S. Awodey, K. Kishida, H.-C. Kotzsch, _Logique & Analyse_, February 2014.
 	[arXiv:1403.0020](https://arxiv.org/abs/1403.0020)
 	
-- Univalent foundations and the large scale formalization of mathematics. S. Awodey, T. Coquand, _The IAS Letter_, Institute for Advanced Study, Spring 2013. 
+- Univalent foundations and the large scale formalization of mathematics. S. Awodey, T. Coquand, 
+	_The IAS Letter_, Institute for Advanced Study, Spring 2013. 
 	[preprint](http://www.andrew.cmu.edu/user/awodey/preprints/iasletter.pdf)
-	
-	
+
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
@@ -122,8 +122,6 @@ style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
 style='font-family:Geneva'>S. Awodey, 2010.  </span><span
 style='font-family:"Gill Sans"'><br>
 </span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
-
-
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
@@ -190,8 +188,6 @@ style='font-family:Geneva'> <i>Bulletin of Symbolic Logic.</i>
 <div class=MsoNormal align=center style='margin:0in;margin-bottom:.0001pt;
 text-align:center'><span style='font-family:"Gill Sans"'><span
 style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
-
-
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
@@ -448,12 +444,11 @@ Axiom of choice and excluded middle in categorical logic.</span></a>&nbsp;&nbsp;
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:12.0pt;
 margin-left:0in;text-indent:.5in'><span style='font-family:Geneva'>Unpublished MS (1995). <o:p></o:p></span></p>
 
-<div class=MsoNormal align=center style='margin:0in;margin-bottom:.0001pt;
-text-align:center'><span style='font-family:"Gill Sans"'>
+	
+</details>
 
 <hr size=2 width="100%" align=center>
 
-</span></div>
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-size:12.0pt;font-family:Geneva'><b>Dissertation</b></span><span
