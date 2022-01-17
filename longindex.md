@@ -453,13 +453,11 @@ Ph.D. Dissertation, The University of Chicago, 1997.
 - Clive Newstead,
 <a href="students/NewsteadThesis.pdf"><span style='font-family:Geneva'>Algebraic models of dependent type theory</span></a>, 
 CMU, Mathematics, 2018.
-</span>
 
 - Egbert Rijke,
 <a href="students/RijkeThesis.pdf"><span style='font-family:Geneva'>Classifying Types
 Topics in synthetic homotopy theory</span></a>, 
 CMU, Pure and Applied Logic, 2018.
-</span>
 
 - Kristina Sojakove,
 <a href="students/SojakovaThesis.pdf"><span style='font-family:Geneva'>Higher Inductive Types as Homotopy-Initial Algebras</span></a>, 
