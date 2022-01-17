@@ -451,7 +451,7 @@ margin-left:0in;text-indent:.5in'><span style='font-family:Geneva'>Unpublished M
 
 ## Dissertation
 	
-[Logic in Topoi: Functorial Semantics for Higher-Order Logic.](http://www.andrew.cmu.edu/user/awodey/thesis/thesis.ps.gz)
+[Logic in Topoi: Functorial Semantics for Higher-Order Logic.](/papers/awodey_thesis.pdf)
 Ph.D. Dissertation, The University of Chicago, 1997.
 
 ## Students
