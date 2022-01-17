@@ -450,41 +450,12 @@ margin-left:0in;text-indent:.5in'><span style='font-family:Geneva'>Unpublished M
 <hr size=2 width="100%" align=center>
 
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-size:12.0pt;font-family:Geneva'><b>Dissertation</b></span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
+## Dissertation
+	
+[Logic in Topoi: Functorial Semantics for Higher-Order Logic.](http://www.andrew.cmu.edu/user/awodey/thesis/thesis.ps.gz)
+Ph.D. Dissertation, The University of Chicago, 1997.
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="thesis/thesis.ps.gz"><span
-style='font-family:Geneva'>Logic in Topoi: Functorial Semantics for
-Higher-Order Logic</span></a></span><span style='font-family:Geneva'>
-&nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:12.0pt;
-margin-left:0in;text-indent:.5in'><span style='font-family:Geneva'>Ph.D.
-Dissertation, The University of Chicago (1997). </span><span style='font-family:
-"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp; [</span><span style='font-family:"Gill Sans"'><a
-href="thesis/thesisab.ps.gz"><span style='font-family:Geneva'>Abstract]</span></a></span><span
-style='font-family:Geneva'> [</span><span style='font-family:"Gill Sans"'><a
-href="thesis/thesissum.ps.gz"><span style='font-family:Geneva'>Summary]</span></a></span><span
-style='font-family:Geneva'> <o:p></o:p></span></p>
-
-
-<div class=MsoNormal align=center style='margin:0in;margin-bottom:.0001pt;text-align:center'>
-<span style='font-family:"Gill Sans"'>
-<hr size=2 width="100%" align=center>
-</span></div>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'>
-<span style='font-size:12.0pt;font-family:Geneva'>
-<b>PhD Students</b></span>
-<span style='font-family:"Gill Sans"'>
-<br>
-</span>
+## PhD Students
 
 <p><span style='font-family:"Geneva"'>·&nbsp;
 Clive Newstead,
