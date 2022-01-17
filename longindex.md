@@ -101,45 +101,20 @@ Notes from a talk at IAS in December 2010.
 	Essays on the Foundations of Mathematics in Honour of Per Martin-Löf_. Springer, 2010. 
 	[arXiv:1010.1810](https://arxiv.org/abs/1010.1810)
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/fold.pdf"><span
-style='font-family:Geneva'>First-order logical duality.</span></a></span><span
-style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
+- First-order logical duality. S. Awodey and H. Forssell, _Annals of Pure and Applied Logic_, 2013. 
+	[arXiv:1008.3145](https://arxiv.org/abs/1008.3145)
+	
+- Martin-L&ouml;f complexes. S. Awodey, P. Hofstra, M. Warren, 2009. 
+	[pdf](http://www.andrew.cmu.edu/user/awodey/preprints/MLC.pdf)
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey and H. Forssell, 2010.  </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
+- From sets, to types, to categories, to sets. 2009. 
+	[pdf](https://www.andrew.cmu.edu/user/awodey/preprints/stcsFinal.pdf)
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/MLC.pdf"><span
-style='font-family:Geneva'>Martin-L&ouml;f complexes.</span></a></span><span
-style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
+- Algebraic models of theories of sets and classes in categories of ideals. S. Awodey, H. Forssell, M. Warren, June 2006.  
+	[pdf](https://www.phil.cmu.edu/projects/ast/Papers/afw_06.pdf)
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey, P. Hofstra, M. Warren, 2009.  </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/stcsFinal.pdf"><span
-style='font-family:Geneva'>From sets, to types, to categories, to sets.</span></a></span><span
-style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey, 2009.  </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
-
-- Algebraic models of theories of sets and classes. S. Awodey, H. Forssell, M. Warren, June 2006.
-[pdf](http://www.phil.cmu.edu/projects/ast/)
-
-- Relating topos theory and set theory via categories of classes. S. Awodey, C. Butz, A. Simpson, T. Streicher. 
-	_Bulletin of Symbolic Logic_, June 2003. 
-[Research announcement](http://www.andrew.cmu.edu/user/awodey/preprints/BSL.pdf)
+- Relating topos theory and set theory via categories of classes. S. Awodey, C. Butz, A. Simpson, T. Streicher. _Bulletin of Symbolic Logic_, June 2003. 
+	[Research announcement](http://www.andrew.cmu.edu/user/awodey/preprints/BSL.pdf)
 
 - Lawvere-Tierney sheaves in algebraic set theory. S. Awodey, N. Gambino, P. Lumsdaine, M. Warren. _Journal of Symbolic Logic_, 2009. 
 	[pdf](http://www.andrew.cmu.edu/user/awodey/preprints/sheaves.pdf)
