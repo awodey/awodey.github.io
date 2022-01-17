@@ -448,7 +448,7 @@ margin-left:0in;text-indent:.5in'><span style='font-family:Geneva'>Unpublished M
 [Logic in Topoi: Functorial Semantics for Higher-Order Logic.](http://www.andrew.cmu.edu/user/awodey/thesis/thesis.ps.gz)
 Ph.D. Dissertation, The University of Chicago, 1997.
 
-## Students <details><summary>more...</summary>
+## Students
 	
 - Clive Newstead,
 <a href="students/NewsteadThesis.pdf"><span style='font-family:Geneva'>Algebraic models of dependent type theory</span></a>, 
