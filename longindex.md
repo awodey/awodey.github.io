@@ -49,13 +49,13 @@ Notes from a talk at IAS in December 2010.
 	
 </details>
 
-<br>
 ## Preprints
 
 - Kripke-Joyal forcing for type theory and uniform fibrations.  S. Awodey, N. Gambino, S. Hazratpour, October 2021. [arxiv2110.14576](https://arxiv.org/abs/2110.14576)
 
-<details>
-<summary>more...</summary>
+<details><summary>more...
+	</summary>
+	<br>
 	
 - Sheaf representations and duality in logic. June 2019. [arXiv:2001.09195](https://arxiv.org/abs/2001.09195)
 
@@ -71,8 +71,8 @@ Notes from a talk at IAS in December 2010.
 
 - Impredicative encodings of (higher) inductive types. S. Awodey, J. Frey, S. Speight, _LICS_ 2018. [arXiv:1802.02820](https://arxiv.org/abs/1802.02820)
 
-<details>
-	<summary>more...</summary>
+<details><summary>more...</summary>
+	<br>
 	
 - A cubical model of homotopy type theory. _Annals of Pure and Applied Logic_, 2018. 
 	[arXiv:1607.06413](https://arxiv.org/abs/1607.06413)
