@@ -24,9 +24,7 @@
 	
 - [Univalence in &infin;-topoi.](http://www.andrew.cmu.edu/user/awodey/talks/CT2020-21.pdf)
 Slides from a lecture at the conference _Category Theory 2020->21_, held in Genoa in August-September 2021.
-
-<details>
-	<summary>more...</summary>
+<details><summary>more...</summary>
 	<br>
 
 - [Quillen model structures on cubical sets.](http://www.andrew.cmu.edu/user/awodey/talks/HoTT2019.pdf)
@@ -53,8 +51,7 @@ Notes from a talk at IAS in December 2010.
 
 - Kripke-Joyal forcing for type theory and uniform fibrations.  S. Awodey, N. Gambino, S. Hazratpour, October 2021. [arxiv2110.14576](https://arxiv.org/abs/2110.14576)
 
-<details><summary>more...
-	</summary>
+<details><summary>more...</summary>
 	<br>
 	
 - Sheaf representations and duality in logic. June 2019. [arXiv:2001.09195](https://arxiv.org/abs/2001.09195)
