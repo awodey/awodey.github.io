@@ -37,9 +37,6 @@ Slides from the 2019 _Skolem Lecture_, held in Oslo in April 2019.
 - [Impredicative Encodings in HoTT (or: Toward a Realizability ∞-Topos).](http://www.andrew.cmu.edu/user/awodey/talks/BigProofs.pdf)
 Slides from a lecture at the Isaac Newton Institute Program _Big Proof_, held in Cambridge in July 2017. 
 	
-- [A Cubical Model of Homotopy Type Theory.](http://www.andrew.cmu.edu/user/awodey/preprints/stockholm.pdf)
-Notes from a series of lectures to the Stockholm Logic Group, held in June 2016. 
-	
 - [Recent Work in Homotopy Type Theory.](http://www.andrew.cmu.edu/user/awodey/hott/ams2014.pdf)
 Slides from a talk at an AMS meeting in January 2014. 
 
@@ -55,28 +52,23 @@ Notes from a talk at IAS in December 2010.
 
 - Kripke-Joyal forcing for type theory and uniform fibrations.  S. Awodey, N. Gambino, S. Hazratpour, October 2021. [arxiv2110.14576](https://arxiv.org/abs/2110.14576)
 
-
 <details>
-	<summary>more...</summary>
+<summary>more...</summary>
 	
 - Sheaf representations and duality in logic. June 2019. [arXiv:2001.09195](https://arxiv.org/abs/2001.09195)
+
+- Polynomial pseudomonads and dependent type theory. S.  Awodey, C. Newstead, February 2018. [arXiv:1802.00997](https://arxiv.org/abs/1802.00997)
 
 - A proposition is the (homotopy) type of its proofs. January 2016. [arXiv:2001.09195](https://arxiv.org/abs/2001.09195)
 
 - Univalence as a principle of logic.  October 2016. [preprint](http://www.andrew.cmu.edu/user/awodey/preprints/uapl.pdf)
-
-- Polynomial pseudomonads and dependent type theory. S.  Awodey, C. Newstead, February 2018. [arXiv:1802.00997](https://arxiv.org/abs/1802.00997)
 	
 </details>
 		
 <hr size=2 width="100%" align=center>
 
-</span></div>
+## Selected Publications
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-size:12.0pt;font-family:Geneva'><b>Selected Publications</b></span><span
-style='font-family:Geneva'> </span><span style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
@@ -89,17 +81,10 @@ style='font-family:Geneva'>S. Awodey, J. Frey, S. Speight, <i>LICS</i>, 2018.  <
 style='font-family:"Gill Sans"'><br>
 </span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="https://arxiv.org/abs/1607.06413"><span
-style='font-family:Geneva'> A cubical model of homotopy type theory.</span></a></span><span
-style='font-family:Geneva'> &nbsp; <o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey,
-<i>Annals of Pure and Applied Logic</i>, 2018.  </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
+
+- A cubical model of homotopy type theory. _Annals of Pure and Applied Logic_, 2018. [arXiv:1607.06413](https://arxiv.org/abs/1607.06413)
+
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
@@ -112,6 +97,8 @@ style='font-family:Geneva'>S. Awodey, N. Gambino, K. Sojakova,
 <i>Journal of the Association for Computing Machinery</i>, 2017.  </span><span
 style='font-family:"Gill Sans"'><br>
 </span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
+
+
 
 <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
 style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
