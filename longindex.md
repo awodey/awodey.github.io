@@ -134,33 +134,12 @@ style='font-family:Geneva'>S. Awodey, 2009.  </span><span
 style='font-family:"Gill Sans"'><br>
 </span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a
-href="http://www.phil.cmu.edu/projects/ast/"><span style='font-family:Geneva'>Algebraic
-models of theories of sets and classes.</span></a></span><span
-style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
+- Algebraic models of theories of sets and classes. S. Awodey, H. Forssell, M. Warren, June 2006.
+[pdf](http://www.phil.cmu.edu/projects/ast/)
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey, H. Forssell, M. Warren, June 2006. </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a
-href="http://www.phil.cmu.edu/projects/ast/"><span style='font-family:Geneva'>Relating
-topos theory and set theory via categories of classes.</span></a></span><span
-style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey, C. Butz, A. Simpson, T. Streicher, June
-2003. </span>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'>
-<span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/BSL.pdf">
-<span style='font-family:Geneva'>Research announcement.</span></a></span><span
-style='font-family:Geneva'> <i>Bulletin of Symbolic Logic.</i> <br>
+- Relating topos theory and set theory via categories of classes. S. Awodey, C. Butz, A. Simpson, T. Streicher. 
+	_Bulletin of Symbolic Logic_, June 2003. 
+[Research announcement](http://www.andrew.cmu.edu/user/awodey/preprints/BSL.pdf)
 
 - Lawvere-Tierney sheaves in algebraic set theory. S. Awodey, N. Gambino, P. Lumsdaine, M. Warren. _Journal of Symbolic Logic_, 2009. 
 	[pdf](http://www.andrew.cmu.edu/user/awodey/preprints/sheaves.pdf)
