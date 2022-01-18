@@ -70,7 +70,7 @@ Watch this space for news and information!
 - Have a look at the first set of [lecture notes](/catlog/notes/catlog0.pdf) for a _review of basic category theory_.
 - Jan 18: Class begins! 
   Meet on zoom for a course overview, discussion of the [lecture notes](/catlog/notes/catlog0.pdf), and some planning.
-- Jan 20: CT review continues (on zoom).
+- There is a [course zulip](https://baker.hott.dev/#narrow/stream/31-Categorical-Logic) for announcements and discussion.
 
 
 <hr WIDTH="100%">
