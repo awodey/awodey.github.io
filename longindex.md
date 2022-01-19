@@ -76,7 +76,7 @@ Notes from a talk at IAS in December 2010.
 
 ## Publications
 
-- Impredicative encodings of (higher) inductive types. S. Awodey, J. Frey, S. Speight, _LICS_ 2018. [arXiv:1802.02820](https://arxiv.org/abs/1802.02820)
+- Impredicative encodings of (higher) inductive types. S. Awodey, J. Frey, S. Speight, _Logic in Computer Science_ (LICS 2018). [arXiv:1802.02820](https://arxiv.org/abs/1802.02820)
 
 <details><summary>more...</summary>
 	<br>
