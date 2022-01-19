@@ -61,9 +61,11 @@ Notes from a talk at IAS in December 2010.
 
 - Polynomial pseudomonads and dependent type theory. S.  Awodey, C. Newstead, February 2018. [arXiv:1802.00997](https://arxiv.org/abs/1802.00997)
 
-- A proposition is the (homotopy) type of its proofs. January 2016. [arXiv:2001.09195](https://arxiv.org/abs/2001.09195)
-
-- Univalence as a principle of logic.  October 2016. [preprint](http://www.andrew.cmu.edu/user/awodey/preprints/uapl.pdf)
+- Univalence as a principle of logic. _Indagationes Mathematicae_: Special Issue L.E.J. Brouwer, 50 years later,
+	D. van Dalen, et al. (ed.s), 2018. 
+	[preprint](http://www.andrew.cmu.edu/user/awodey/preprints/uapl.pdf)
+	
+- A proposition is the (homotopy) type of its proofs. January 2016. [arXiv:1701.02024](https://arxiv.org/abs/1701.02024)
 	
 - Axiom of choice and excluded middle in categorical logic. Spring 1995.
 	[Unpublished MS](http://www.andrew.cmu.edu/user/awodey/preprints/ac.pdf)
@@ -74,7 +76,7 @@ Notes from a talk at IAS in December 2010.
 
 ## Publications
 
-- Impredicative encodings of (higher) inductive types. S. Awodey, J. Frey, S. Speight, _LICS_ 2018. [arXiv:1802.02820](https://arxiv.org/abs/1802.02820)
+- Impredicative encodings of (higher) inductive types. S. Awodey, J. Frey, S. Speight, _Logic in Computer Science_ (LICS 2018). [arXiv:1802.02820](https://arxiv.org/abs/1802.02820)
 
 <details><summary>more...</summary>
 	<br>
