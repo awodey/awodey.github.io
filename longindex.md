@@ -64,6 +64,8 @@ Notes from a talk at IAS in December 2010.
 - A proposition is the (homotopy) type of its proofs. January 2016. [arXiv:1701.02024](https://arxiv.org/abs/1701.02024)
 
 - Univalence as a principle of logic.  October 2016. [preprint](http://www.andrew.cmu.edu/user/awodey/preprints/uapl.pdf)
+	Published in _Indagationes Mathematicae_: Special Issue L.E.J. Brouwer, 50 years later
+	Dirk van Dalen, Geurt Jongbloed, Jan Willem Klop, Jan van Mill (ed.s), 2018.
 	
 - Axiom of choice and excluded middle in categorical logic. Spring 1995.
 	[Unpublished MS](http://www.andrew.cmu.edu/user/awodey/preprints/ac.pdf)
