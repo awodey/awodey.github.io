@@ -71,7 +71,7 @@ Watch this space for news and information!
 - Jan 18: Class begins! 
   Meet on zoom for a course overview, discussion of the [lecture notes](/catlog/notes/catlog0.pdf), and some planning.
 - There is a [course zulip](https://baker.hott.dev/#narrow/stream/31-Categorical-Logic) for announcements and discussion.
-
+- Posted the notes on [algebraic theories](/catlog/notes/catlog1.pdf) for those who want to work ahead.
 
 <hr WIDTH="100%">
 <div CLASS="bottom"><a href="http://www.andrew.cmu.edu/~awodey/"></a></div>
