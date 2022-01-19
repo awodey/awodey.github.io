@@ -68,8 +68,8 @@ Grades will be based on 4 problem sets and a presentation in class, with a brief
 Watch this space for news and information!
 
 - Have a look at the first set of [lecture notes](/catlog/notes/catlog0.pdf) for a _review of basic category theory_.
-- Jan 18: Class begins! 
-  Meet on zoom for a course overview, discussion of the [lecture notes](/catlog/notes/catlog0.pdf), and some planning.
+- Jan 18: Class begins! Meet on zoom for a course overview and some planning.
+- Jan 20: Meet on zoom for a review of category theory, as in the [lecture notes](/catlog/notes/catlog0.pdf).
 - There is a [course zulip](https://baker.hott.dev/#narrow/stream/31-Categorical-Logic) for announcements and discussion.
 - Posted the notes on [algebraic theories](/catlog/notes/catlog1.pdf) for those who want to work ahead.
 
