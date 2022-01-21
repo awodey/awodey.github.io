@@ -67,6 +67,9 @@ Notes from a talk at IAS in December 2010.
 	
 - A proposition is the (homotopy) type of its proofs. January 2016. [arXiv:1701.02024](https://arxiv.org/abs/1701.02024)
 	
+- Homotopy and type theory (Project description). 2009.
+	[Unpublished grant proposal](/papers/proposal2009.pdf)
+
 - Axiom of choice and excluded middle in categorical logic. Spring 1995.
 	[Unpublished MS](http://www.andrew.cmu.edu/user/awodey/preprints/ac.pdf)
 
