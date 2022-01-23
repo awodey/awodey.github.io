@@ -73,8 +73,8 @@ Watch this space for news and information!
 - Jan 18: Class begins! Meet on zoom for a course overview and some planning.
 - Jan 20: Meet on zoom for a review of category theory, as in the [lecture notes](/catlog/notes/catlog0.pdf).
 - There is a [course zulip](https://baker.hott.dev/#narrow/stream/31-Categorical-Logic) for announcements and discussion.
-- Posted the notes on [algebraic theories](/catlog/notes/catlog1.pdf) for those who want to work ahead.
-- Added a [Course outline](/catlog/outline.md).
+- Posted the first half of the notes on [algebraic theories](/catlog/notes/catlog1A.pdf) for those who want to work ahead.
+- Added a [course outline](/catlog/outline.md).
 
 
 <hr WIDTH="100%">
