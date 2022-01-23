@@ -9,7 +9,7 @@
 - Higher logic and Higher algebra
  
 ### Review of Category Theory (weeks 1-2)
-- Cats, functors, natural transformations
+- cats, functors, natural transformations
 - representables, presheaves, Yoneda
 - limits and colimits
 - adjoints and monads
