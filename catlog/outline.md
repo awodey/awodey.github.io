@@ -16,7 +16,7 @@
   
 ### Algebraic Theories (weeks 3-4)
 - Equational theories and varieties of algebras
-- Classifying category and univeral model
+- Classifying category and universal model
 - The Representation Theorem
 - Lawvere Duality
 - Summary of functorial semantics for algebraic theories
