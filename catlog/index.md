@@ -62,7 +62,8 @@ Grades will be based on 4 problem sets and a presentation in class, with a brief
 ### Course materials
 
 - [Lecture notes](/catlog/notes/)
-- [Problem sets](../../)
+- [Problem sets](/catlog/hw/)
+- [Outline](/catlog/outline.md)
 
 ### Updates
 Watch this space for news and information!
@@ -72,6 +73,7 @@ Watch this space for news and information!
 - Jan 20: Meet on zoom for a review of category theory, as in the [lecture notes](/catlog/notes/catlog0.pdf).
 - There is a [course zulip](https://baker.hott.dev/#narrow/stream/31-Categorical-Logic) for announcements and discussion.
 - Posted the notes on [algebraic theories](/catlog/notes/catlog1.pdf) for those who want to work ahead.
+
 
 <hr WIDTH="100%">
 <div CLASS="bottom"><a href="http://www.andrew.cmu.edu/~awodey/"></a></div>
