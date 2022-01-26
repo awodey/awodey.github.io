@@ -20,7 +20,7 @@
 
 
 	<p><span style='font-family:Geneva'>
-	<img src="http://www.andrew.cmu.edu/user/awodey/cover-web.png" height="200" width="150" align="left" border="1">
+	<img src="http://www.andrew.cmu.edu/user/awodey/cover-web.png" height="300" width="200" align="left" border="1">
 	</span></p>
 
 
@@ -35,7 +35,7 @@
 
 
 <p><span style='font-family:Geneva'><b>
-	<img src="http://www.andrew.cmu.edu/user/awodey/catcover.pdf" height="200" width="150" align="left" border="1">
+	<img src="http://www.andrew.cmu.edu/user/awodey/catcover.pdf" height="300" width="200" align="left" border="1">
 	</b></span></p>
 
 
