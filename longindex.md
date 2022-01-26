@@ -18,21 +18,17 @@
 
 ### Books
 
-<p><span style='font-family:Geneva'>
-	<img src="http://www.andrew.cmu.edu/user/awodey/cover-web.png" height="300" width="200" align="left" border="5">
-	</span></p>
-
-<br>
-
 - [The HoTT Book](http://www.homotopytypetheory.org/book). 
 	_Homotopy Type Theory: Univalent Foundations of Mathematics_, The Univalent Foundations Program, 
 	Institute for Advanced Study, 2013.
 
-<br>
-
 - [Category Theory Textbook](http://www.oup.co.uk/isbn/9780199237180). 
 	_Category Theory_, Oxford Logic Guides 52, Oxford University Press, 2006. Second edition, 2010.
 	[Errata](http://www.andrew.cmu.edu/user/awodey/CT2errata2010.pdf)
+
+<p><span style='font-family:Geneva'>
+	<img src="http://www.andrew.cmu.edu/user/awodey/cover-web.png" height="300" width="200" align="left" border="5">
+	</span></p>
 <p><span style='font-family:Geneva'><b>
 	<img src="http://www.andrew.cmu.edu/user/awodey/catcover.pdf" height="300" width="200" align="right" border="1">
 	</b></span></p>
