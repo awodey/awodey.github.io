@@ -1,22 +1,29 @@
 ## Steve Awodey
-#### Professor, Departments of Philosophy and Mathematics, <br> Carnegie Mellon University
+#### Professor, Departments of Philosophy and Mathematics
+	<br> Carnegie Mellon University
 
 #### Research Areas: Category Theory, Logic, Homotopy Type Theory
 
 ## Projects
 
-- [Homotopy Type Theory:](http://www.cmu.edu/dietrich/philosophy/hott/ ) More information on this research program can be found on the site [HomotopyTypeTheory.org](http://homotopytypetheory.org)
+- [Homotopy Type Theory:](http://www.cmu.edu/dietrich/philosophy/hott/ ) 
+	More information on this research program can be found on the site 
+	[HomotopyTypeTheory.org](http://homotopytypetheory.org)
 
-- [Algebraic Set Theory:](http://www.phil.cmu.edu/projects/ast/) An older website containing some information about AST and links to some papers.
+- [Algebraic Set Theory:](http://www.phil.cmu.edu/projects/ast/) 
+	An older website containing some information about AST and links to some papers.
 	
 ## Books
 
-- [The HoTT Book](http://www.homotopytypetheory.org/book). _Homotopy Type Theory: Univalent Foundations of Mathematics_, The Univalent Foundations Program, Institute for Advanced Study, 2013.
+- [The HoTT Book](http://www.homotopytypetheory.org/book). 
+	_Homotopy Type Theory: Univalent Foundations of Mathematics_, The Univalent Foundations Program, 
+	Institute for Advanced Study, 2013.
 
 ![HoTTbook](http://www.andrew.cmu.edu/user/awodey/cover-web.png)
  
-- [Category Theory Textbook](http://www.oup.co.uk/isbn/9780199237180). _Category Theory_, Oxford Logic Guides 52, Oxford University Press, 2006. Second edition, 2010.
-[Errata](http://www.andrew.cmu.edu/user/awodey/CT2errata2010.pdf)
+- [Category Theory Textbook](http://www.oup.co.uk/isbn/9780199237180). 
+	_Category Theory_, Oxford Logic Guides 52, Oxford University Press, 2006. Second edition, 2010.
+	[Errata](http://www.andrew.cmu.edu/user/awodey/CT2errata2010.pdf)
 
 ![CATbook](http://www.andrew.cmu.edu/user/awodey/catcover.pdf)
 
@@ -52,20 +59,25 @@ Notes from a talk at IAS in December 2010.
 
 ## Preprints
 
-- Kripke-Joyal forcing for type theory and uniform fibrations.  S. Awodey, N. Gambino, S. Hazratpour, October 2021. [arxiv2110.14576](https://arxiv.org/abs/2110.14576)
+- Kripke-Joyal forcing for type theory and uniform fibrations.  
+	S. Awodey, N. Gambino, S. Hazratpour, October 2021. 
+	[arxiv2110.14576](https://arxiv.org/abs/2110.14576)
 
 <details><summary>more...</summary>
 	<br>
 	
-- Sheaf representations and duality in logic. June 2019. [arXiv:2001.09195](https://arxiv.org/abs/2001.09195)
+- Sheaf representations and duality in logic. June 2019. 
+	[arXiv:2001.09195](https://arxiv.org/abs/2001.09195)
 
-- Polynomial pseudomonads and dependent type theory. S.  Awodey, C. Newstead, February 2018. [arXiv:1802.00997](https://arxiv.org/abs/1802.00997)
+- Polynomial pseudomonads and dependent type theory. S.  Awodey, C. Newstead, February 2018. 
+	[arXiv:1802.00997](https://arxiv.org/abs/1802.00997)
 
-- Univalence as a principle of logic. _Indagationes Mathematicae_: Special Issue L.E.J. Brouwer, 50 years later,
+- Univalence as a principle of logic. _Indagationes Mathematicae_: Special Issue L.E.J. Brouwer, 50 years later, 
 	D. van Dalen, et al. (ed.s), 2018. 
 	[preprint](http://www.andrew.cmu.edu/user/awodey/preprints/uapl.pdf)
 	
-- A proposition is the (homotopy) type of its proofs. January 2016. [arXiv:1701.02024](https://arxiv.org/abs/1701.02024)
+- A proposition is the (homotopy) type of its proofs. January 2016. 
+	[arXiv:1701.02024](https://arxiv.org/abs/1701.02024)
 	
 - Homotopy and type theory (Project description). October 2009.
 	[Unpublished grant proposal](/papers/proposal2009.pdf)
