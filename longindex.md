@@ -3,6 +3,8 @@
 
 #### Research Areas: Category Theory, Logic, Homotopy Type Theory
 
+<hr>
+
 ### Projects
 
 - [Homotopy Type Theory:](http://www.cmu.edu/dietrich/philosophy/hott/ ) 
@@ -12,7 +14,7 @@
 - [Algebraic Set Theory:](http://www.phil.cmu.edu/projects/ast/) 
 	An older website containing some information about AST and links to some papers.
 	
-<hr size=0 width="100%" align=center>
+<hr>
 
 ### Books
 
@@ -32,7 +34,7 @@
 	_Category Theory_, Oxford Logic Guides 52, Oxford University Press, 2006. Second edition, 2010.
 	[Errata](http://www.andrew.cmu.edu/user/awodey/CT2errata2010.pdf)
 
-<hr size=0 width="100%" align=center>
+<hr>
 
 ### Lectures	
 	
@@ -63,6 +65,8 @@ Notes from a talk at IAS in December 2010.
 </details>
 
 <br>
+
+<hr>
 
 ### Preprints
 
@@ -95,6 +99,8 @@ Notes from a talk at IAS in December 2010.
 </details>
 
 <br>
+
+<hr>
 
 ### Publications
 
@@ -383,10 +389,14 @@ Mathematica</i></span><span style='font-family:Geneva'> (3), vol. 4 (1996), pp.
 
 <br>
 
+<hr>
+
 ### Dissertation
 	
 [Logic in Topoi: Functorial Semantics for Higher-Order Logic.](/papers/awodey_thesis.pdf)
 Ph.D. Dissertation, The University of Chicago, 1997.
+
+<hr>
 
 ### Students
 	
@@ -436,11 +446,15 @@ CMU, Philosophy, 2001.
 	
 </details>
 
+<hr>
+
 ### Editorial
 
 - [The Journal of Symbolic Logic](https://www.cambridge.org/core/journals/journal-of-symbolic-logic)
 - [Mathematical Logic Quarterly](https://onlinelibrary.wiley.com/journal/15213870)
 - [The Collected Works of Rudolf Carnap](http://www.phil.cmu.edu/projects/carnap/)
+
+<hr>
 
 ### Courses
 	
@@ -448,12 +462,16 @@ CMU, Philosophy, 2001.
 - [Categorical Logic](https://www.andrew.cmu.edu/user/awodey/catlog/)
 - [Formal Logic](http://www.andrew.cmu.edu/course/80-310-610/)
 
+<hr>
+
 ### Links
 	
 - [Pure and Applied Logic Program](http://logic.cmu.edu)
 - [The HoTT Wiki](https://ncatlab.org/homotopytypetheory/show/HomePage)
 - [The Carnap Blog](http://www.awcarus.com)
 - [Marc Awodey Memorial](http://www.marcawodey.org)
+
+<hr>
 
 ### Contact
 
