@@ -1,4 +1,4 @@
-# Course outline for Categorical Logic
+## Course Outline for Categorical Logic
 ## 80-514/814
 ## Spring 2022
 
