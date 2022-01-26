@@ -4,7 +4,7 @@
 
 <hr>
 
-### Projects
+## Projects
 
 - [Homotopy Type Theory:](http://www.cmu.edu/dietrich/philosophy/hott/ ) 
 	More information on this research program can be found on the site 
@@ -15,7 +15,7 @@
 	
 <hr>
 
-### Books
+## Books
 
 - [The HoTT Book](http://www.homotopytypetheory.org/book). 
 	_Homotopy Type Theory: Univalent Foundations of Mathematics_, The Univalent Foundations Program, 
@@ -36,7 +36,7 @@
 
 <hr size=2 width="100%" align=center>
 
-### Lectures	
+## Lectures	
 	
 - [Univalence in &infin;-topoi.](http://www.andrew.cmu.edu/user/awodey/talks/CT2020-21.pdf)
 Slides from a lecture at the conference _Category Theory 2020->21_, held in Genoa in August-September 2021.
@@ -68,7 +68,7 @@ Notes from a talk at IAS in December 2010.
 
 <hr>
 
-### Preprints
+## Preprints
 
 - Kripke-Joyal forcing for type theory and uniform fibrations.  
 	S. Awodey, N. Gambino, S. Hazratpour, October 2021. 
@@ -102,7 +102,7 @@ Notes from a talk at IAS in December 2010.
 
 <hr>
 
-### Publications
+## Publications
 
 - Impredicative encodings of (higher) inductive types. S. Awodey, J. Frey, S. Speight, _Logic in Computer Science_ (LICS 2018). [arXiv:1802.02820](https://arxiv.org/abs/1802.02820)
 
@@ -389,16 +389,12 @@ Mathematica</i></span><span style='font-family:Geneva'> (3), vol. 4 (1996), pp.
 
 <br>
 
-<hr>
-
-### Dissertation
-	
-[Logic in Topoi: Functorial Semantics for Higher-Order Logic.](/papers/awodey_thesis.pdf)
+- Dissertation: [Logic in Topoi: Functorial Semantics for Higher-Order Logic.](/papers/awodey_thesis.pdf)
 Ph.D. Dissertation, The University of Chicago, 1997.
 
 <hr>
 
-### Students
+## Students
 	
 - Clive Newstead,
 <a href="http://www.andrew.cmu.edu/user/awodey/students/NewsteadThesis.pdf"><span style='font-family:Geneva'>Algebraic models of dependent type theory</span></a>, 
@@ -448,7 +444,7 @@ CMU, Philosophy, 2001.
 
 <hr>
 
-### Editorial
+## Editorial
 
 - [The Journal of Symbolic Logic](https://www.cambridge.org/core/journals/journal-of-symbolic-logic)
 - [Mathematical Logic Quarterly](https://onlinelibrary.wiley.com/journal/15213870)
@@ -456,7 +452,7 @@ CMU, Philosophy, 2001.
 
 <hr>
 
-### Courses
+## Courses
 	
 - [Category Theory](http://www.andrew.cmu.edu/course/80-413-713/)
 - [Categorical Logic](https://www.andrew.cmu.edu/user/awodey/catlog/)
@@ -464,7 +460,7 @@ CMU, Philosophy, 2001.
 
 <hr>
 
-### Links
+## Links
 	
 - [Pure and Applied Logic Program](http://logic.cmu.edu)
 - [The HoTT Wiki](https://ncatlab.org/homotopytypetheory/show/HomePage)
@@ -473,7 +469,7 @@ CMU, Philosophy, 2001.
 
 <hr>
 
-### Contact
+#### Contact
 
 Steve Awodey, Department of Philosophy, Carnegie Mellon University, Pittsburgh, PA 15213
 
