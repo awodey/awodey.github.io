@@ -1,4 +1,4 @@
-# Course outline for [Categorical Logic](/catlog/)
+# Course outline for Categorical Logic
 ## 80-514/814
 ## Spring 2022
 
@@ -81,4 +81,3 @@
 ### Student presentations (weeks 11-12)
 - 2 presentations/class meeting = 8 talks
 - leaves 2 weeks for further topics and overruns
-- small change here 
