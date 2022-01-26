@@ -27,10 +27,10 @@
 	[Errata](http://www.andrew.cmu.edu/user/awodey/CT2errata2010.pdf)
 
 <p><span style='font-family:Geneva'>
-	<img src="http://www.andrew.cmu.edu/user/awodey/cover-web.png" height="300" width="200" align="left" border="5">
+	<img src="http://www.andrew.cmu.edu/user/awodey/cover-web.png" height="300" width="200" align="left" border="1">
 	</span></p>
 <p><span style='font-family:Geneva'><b>
-	<img src="http://www.andrew.cmu.edu/user/awodey/catcover.pdf" height="300" width="200" align="right" border="5">
+	<img src="http://www.andrew.cmu.edu/user/awodey/catcover.pdf" height="300" width="200" align="right" border="1">
 	</b></span></p>
 	
 <br>
