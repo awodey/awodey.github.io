@@ -24,7 +24,7 @@
 
 <br>
 
-[The HoTT Book](http://www.homotopytypetheory.org/book). 
+- [The HoTT Book](http://www.homotopytypetheory.org/book). 
 	_Homotopy Type Theory: Univalent Foundations of Mathematics_, The Univalent Foundations Program, 
 	Institute for Advanced Study, 2013.
 
@@ -36,7 +36,7 @@
 
 <br>
 
-[Category Theory Textbook](http://www.oup.co.uk/isbn/9780199237180). 
+- [Category Theory Textbook](http://www.oup.co.uk/isbn/9780199237180). 
 	_Category Theory_, Oxford Logic Guides 52, Oxford University Press, 2006. Second edition, 2010.
 	[Errata](http://www.andrew.cmu.edu/user/awodey/CT2errata2010.pdf)
 
