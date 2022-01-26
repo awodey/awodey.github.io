@@ -27,6 +27,7 @@
 	_Homotopy Type Theory: Univalent Foundations of Mathematics_, The Univalent Foundations Program, 
 	Institute for Advanced Study, 2013.
 
+</span></p>
 
 <p><span style='font-family:Geneva'><b>
 	<img src="http://www.andrew.cmu.edu/user/awodey/catcover.pdf" height="300" width="200" align="left" border="1">
