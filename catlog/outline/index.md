@@ -1,4 +1,4 @@
-## Course Outline for [Categorical Logic](/catlog/)
+## Outline for [Categorical Logic](/catlog/)
 ## 80-514/814
 ## Spring 2022
 
