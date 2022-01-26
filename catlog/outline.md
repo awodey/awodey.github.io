@@ -1,4 +1,6 @@
-## Course outline for [Categorical Logic](/catlog/)
+# Course outline for [Categorical Logic](/catlog/)
+## 80-514/814
+## Spring 2022
 
 (14 weeks) 
 
