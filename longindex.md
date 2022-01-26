@@ -437,7 +437,7 @@ CMU, Philosophy, 2001.
 ### Courses
 	
 - [Category Theory](http://www.andrew.cmu.edu/course/80-413-713/)
-- [Categorical Logic](http://www.andrew.cmu.edu/course/80-516-816/)
+- [Categorical Logic](http://www.andrew.cmu.edu/course/80-514-814/)
 - [Formal Logic](http://www.andrew.cmu.edu/course/80-310-610/)
 
 ### Links
