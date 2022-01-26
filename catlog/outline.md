@@ -79,3 +79,4 @@
 ### Student presentations (weeks 11-12)
 - 2 presentations/class meeting = 8 talks
 - leaves 2 weeks for further topics and overruns
+- small change here 
