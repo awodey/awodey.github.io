@@ -30,16 +30,13 @@
 
 <br>
 
-<p><span style='font-family:Geneva'><b>
-	<img src="http://www.andrew.cmu.edu/user/awodey/catcover.pdf" height="300" width="200" align="left" border="1">
-	</b></span></p>
-
-<br>
-
 - [Category Theory Textbook](http://www.oup.co.uk/isbn/9780199237180). 
 	_Category Theory_, Oxford Logic Guides 52, Oxford University Press, 2006. Second edition, 2010.
 	[Errata](http://www.andrew.cmu.edu/user/awodey/CT2errata2010.pdf)
-
+<p><span style='font-family:Geneva'><b>
+	<img src="http://www.andrew.cmu.edu/user/awodey/catcover.pdf" height="300" width="200" align="left" border="1">
+	</b></span></p>
+	
 <br>
 
 <hr size=2 width="100%" align=center>
