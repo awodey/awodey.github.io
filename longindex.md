@@ -1,4 +1,4 @@
-# Steve Awodey
+## Steve Awodey
 #### Professor, Departments of Philosophy and Mathematics, <br> Carnegie Mellon University
 
 #### Research Areas: Category Theory, Logic, Homotopy Type Theory
@@ -440,4 +440,4 @@ CMU, Philosophy, 2001.
 
 Steve Awodey, Department of Philosophy, Carnegie Mellon University, Pittsburgh, PA 15213
 
-Office BH 135F, Phone (412) 268-8947, Fax (412) 268-1440, Email awodey(at)cmu.edu
+Office BH 135F, Phone (412) 268-8947, Fax (412) 268-1440, Email awodey(at)cmu(dot)edu
