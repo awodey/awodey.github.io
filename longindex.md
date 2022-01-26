@@ -19,7 +19,7 @@
 	Institute for Advanced Study, 2013.
 
 
-	<p><span style='font-family:Geneva'>
+<p><span style='font-family:Geneva'>
 	<img src="http://www.andrew.cmu.edu/user/awodey/cover-web.png" height="300" width="200" align="left" border="1">
 	</span></p>
 
