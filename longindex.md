@@ -38,7 +38,8 @@
 	_Category Theory_, Oxford Logic Guides 52, Oxford University Press, 2006. Second edition, 2010.
 	[Errata](http://www.andrew.cmu.edu/user/awodey/CT2errata2010.pdf)
 
-<o:p></o:p></span></p>
+
+</span></p>
 
 <hr size=2 width="100%" align=center>
 
