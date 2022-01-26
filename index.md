@@ -1,4 +1,3 @@
-## The basics
 ## Recent preprints
 
 - A Quillen model structure on cartesian cubical sets. [the current draft](https://github.com/awodey/math/blob/master/QMS/qms.pdf)
