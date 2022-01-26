@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 <!-- logo: /photos/awodeyBW.jpeg -->
 markdown: CommonMarkGhPages
+include: /catlog/docs/outline.md
