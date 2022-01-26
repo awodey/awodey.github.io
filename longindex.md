@@ -1,5 +1,6 @@
 ## Steve Awodey
-#### Professor, Departments of Philosophy and Mathematics, Carnegie Mellon University
+#### Professor, Departments of Philosophy and Mathematics
+#### Carnegie Mellon University
 
 #### Research Areas: Category Theory, Logic, Homotopy Type Theory
 
