@@ -7,7 +7,7 @@
 
 - [Category Theory](../../) 
 - [Categorical Logic](./catlog/) 
-- [Categorical Logic 2](./catlog/index2.md)
+- [Categorical Logic 2](./catlog/docs/index2.md)
 
 [A more elaborate website (under construction)](./longindex.md)
 
