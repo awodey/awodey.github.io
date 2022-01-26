@@ -1,4 +1,3 @@
-# Categorical Logic 
 # Experiment
 ## 80-514/814
 ## Spring 2022
