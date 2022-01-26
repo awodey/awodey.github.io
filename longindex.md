@@ -12,6 +12,8 @@
 - [Algebraic Set Theory:](http://www.phil.cmu.edu/projects/ast/) 
 	An older website containing some information about AST and links to some papers.
 	
+<hr size=1 width="100%" align=center>
+
 ### Books
 
 <p><span style='font-family:Geneva'>
@@ -30,7 +32,7 @@
 	_Category Theory_, Oxford Logic Guides 52, Oxford University Press, 2006. Second edition, 2010.
 	[Errata](http://www.andrew.cmu.edu/user/awodey/CT2errata2010.pdf)
 
-</span></div>
+<hr size=1 width="100%" align=center>
 
 ### Lectures	
 	
