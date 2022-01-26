@@ -36,7 +36,7 @@
 
 <p><span style='font-family:Geneva'><b>
 	<img src="http://www.andrew.cmu.edu/user/awodey/catcover.pdf" height="200" width="150" align="left" border="1">
-	</b></span><o:p></o:p></p>
+	</b></span></p>
 
 
 ![CATbook](http://www.andrew.cmu.edu/user/awodey/catcover.pdf)
