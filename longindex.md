@@ -18,13 +18,30 @@
 	_Homotopy Type Theory: Univalent Foundations of Mathematics_, The Univalent Foundations Program, 
 	Institute for Advanced Study, 2013.
 
+
+	<p><span style='font-family:Geneva'>
+	<img src="http://www.andrew.cmu.edu/user/awodey/cover-web.png" height="200" width="150" align="left" border="1">
+	</span></p>
+
+
+
 ![HoTTbook](http://www.andrew.cmu.edu/user/awodey/cover-web.png)
+
+
  
 - [Category Theory Textbook](http://www.oup.co.uk/isbn/9780199237180). 
 	_Category Theory_, Oxford Logic Guides 52, Oxford University Press, 2006. Second edition, 2010.
 	[Errata](http://www.andrew.cmu.edu/user/awodey/CT2errata2010.pdf)
 
+
+<p><span style='font-family:Geneva'><b>
+	<img src="http://www.andrew.cmu.edu/user/awodey/catcover.pdf" height="200" width="150" align="left" border="1">
+	</b></span><o:p></o:p></p>
+
+
 ![CATbook](http://www.andrew.cmu.edu/user/awodey/catcover.pdf)
+
+
 
 ### Lectures	
 	
