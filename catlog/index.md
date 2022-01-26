@@ -61,7 +61,7 @@ Grades will be based on 4 problem sets and a presentation in class, with a brief
 
 ### Course materials
 
-- [Course outline](./docs/index.md)
+- [Course outline](./outline/)
 - [Lecture notes](/catlog/notes/)
 - [Problem sets](/catlog/hw/)
 
