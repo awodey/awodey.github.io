@@ -75,6 +75,7 @@ Watch this space for news and information!
 - There is a [course zulip](https://baker.hott.dev/#narrow/stream/31-Categorical-Logic) for announcements and discussion.
 - Posted the first half of the notes on [algebraic theories](/catlog/notes/catlog1A.pdf) for those who want to work ahead.
 - Added a [course outline](./outline/).
+- The notes on [algebraic theories](/catlog/notes/catlog1.pdf) are now complete.
 
 
 <hr WIDTH="100%">
