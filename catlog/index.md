@@ -76,7 +76,7 @@ Watch this space for news and information!
 - Posted the first half of the notes on [algebraic theories](/catlog/notes/catlog1A.pdf) for those who want to work ahead.
 - Added a [course outline](./outline/).
 - The notes on [algebraic theories](/catlog/notes/catlog1.pdf) are now complete.
-
+- The first half of the notes on [propositional logic](/catlog/notes/catlog2A.pdf) are now online.
 
 <hr WIDTH="100%">
 <div CLASS="bottom"><a href="http://www.andrew.cmu.edu/~awodey/"></a></div>
