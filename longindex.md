@@ -404,7 +404,7 @@ CMU, Mathematics, 2018.
 <a href="http://www.andrew.cmu.edu/user/awodey/students/RijkeThesis.pdf"><span style='font-family:Geneva'>Classifying Types: Topics in synthetic homotopy theory</span></a>, 
 CMU, Pure and Applied Logic, 2018.
 
-- Kristina Sojakove,
+- Kristina Sojakova,
 <a href="http://www.andrew.cmu.edu/user/awodey/students/SojakovaThesis.pdf"><span style='font-family:Geneva'>Higher Inductive Types as Homotopy-Initial Algebras</span></a>, 
 CMU, Computer Science, 2016.
 
