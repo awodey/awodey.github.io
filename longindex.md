@@ -38,11 +38,14 @@
 
 ## Lectures	
 	
-- [Univalence in &infin;-topoi.](http://www.andrew.cmu.edu/user/awodey/talks/CT2020-21.pdf)
-Slides from a lecture at the conference _Category Theory 2020->21_, held in Genoa in August-September 2021.
+- [Polynomial functors and type theory.](https://www.cmu.edu/dietrich/philosophy/hott/slides/polytutorial.pdf)
+Slides from a tutorial at the _2022 Workshop on Polynomial Functors_, held online at the Topos Institute in March 2022.
 
 <details><summary>more...</summary>
 	<br>
+
+- [Univalence in &infin;-topoi.](http://www.andrew.cmu.edu/user/awodey/talks/CT2020-21.pdf)
+Slides from a lecture at the conference _Category Theory 2020->21_, held in Genoa in August-September 2021.
 
 - [Quillen model structures on cubical sets.](http://www.andrew.cmu.edu/user/awodey/talks/HoTT2019.pdf)
 Slides from a lecture at the conference _Homotopy Type Theory 2019_, held at CMU in July 2019.
