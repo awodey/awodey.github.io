@@ -78,6 +78,7 @@ Watch this space for news and information!
 - The notes on [algebraic theories](/catlog/notes/catlog1.pdf) are now complete.
 - The first half of the notes on [propositional logic](/catlog/notes/catlog2A.pdf) are now online.
 - No class on Tuesday, March 15. Your assignment instead is to watch my tutorial on polynomial functors (both lectures), either live or the recording, in the [Topos Institute Polynomial Workshop](https://topos.site/p-func-workshop).
+- The notes on [propositional logic](/catlog/notes/catlog2.pdf) are now complete.
 
 <hr WIDTH="100%">
 <div CLASS="bottom"><a href="http://www.andrew.cmu.edu/~awodey/"></a></div>
