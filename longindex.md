@@ -38,11 +38,13 @@
 
 ## Lectures	
 	
-- [Polynomial functors and type theory.](https://www.cmu.edu/dietrich/philosophy/hott/slides/polytutorial.pdf)
-Slides from a tutorial at the _2022 Workshop on Polynomial Functors_, held online at the Topos Institute in March 2022.
+- [Kripke-Joyal forcing for Martin-Löf type theory](/talks/ASL_KJ.pdf) Slides from a talk at the special session on Homotopy Type Theory at the _ASL annnual meeting_, held at Cornell University in April 2022.
 
 <details><summary>more...</summary>
 	<br>
+
+- [Polynomial functors and type theory.](https://www.cmu.edu/dietrich/philosophy/hott/slides/polytutorial.pdf)
+Slides from a tutorial at the _2022 Workshop on Polynomial Functors_, held online at the Topos Institute in March 2022.
 
 - [Univalence in &infin;-topoi.](http://www.andrew.cmu.edu/user/awodey/talks/CT2020-21.pdf)
 Slides from a lecture at the conference _Category Theory 2020->21_, held in Genoa in August-September 2021.
