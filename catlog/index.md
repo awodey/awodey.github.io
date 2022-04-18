@@ -79,6 +79,9 @@ Watch this space for news and information!
 - The first half of the notes on [propositional logic](/catlog/notes/catlog2A.pdf) are now online.
 - No class on Tuesday, March 15. Your assignment instead is to watch my tutorial on polynomial functors (both lectures), either live or the recording, in the [Topos Institute Polynomial Workshop](https://topos.site/p-func-workshop).
 - The notes on [propositional logic](/catlog/notes/catlog2.pdf) are now complete.
+- The first half of the notes on [lambda-calculus](/catlog/notes/catlog3A.pdf) are now online.
+- The third and final [problem set](/catlog/hw/catloghw3.pdf) is online.
+- If you haven't chosen a final topic, talk to me about it soon.  Students lectures will be in the last week of the semester, 4/26,28.
 
 <hr WIDTH="100%">
 <div CLASS="bottom"><a href="http://www.andrew.cmu.edu/~awodey/"></a></div>
