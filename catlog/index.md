@@ -82,6 +82,7 @@ Watch this space for news and information!
 - The first half of the notes on [lambda-calculus](/catlog/notes/catlog3A.pdf) are now online.
 - The third and final [problem set](/catlog/hw/catloghw3.pdf) is online.
 - If you haven't chosen a final topic, talk to me about it soon.  Students lectures will be in the last week of the semester, 4/26,28.
+- The notes on [lambda-calculus](/catlog/notes/catlog3.pdf) are now complete.
 
 <hr WIDTH="100%">
 <div CLASS="bottom"><a href="http://www.andrew.cmu.edu/~awodey/"></a></div>
