@@ -1,5 +1,6 @@
 ## Recent preprints
 
+- A remark on Hofmann-Streicher universes. [draft](./papers/universes.pdf)
 - A Quillen model structure on cartesian cubical sets. [the current draft](https://github.com/awodey/math/blob/master/QMS/qms.pdf)
 - Kripke-Joyal forcing for type theory and uniform fibrations. S. Awodey, N. Gambino, S. Hazratpour. [arXiv](https://arxiv.org/abs/2110.14576)
 
