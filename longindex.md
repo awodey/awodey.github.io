@@ -75,6 +75,8 @@ Notes from a talk at IAS in December 2010.
 
 ## Preprints
 
+- A remark on Hofmann-Streicher universes. [draft](./papers/universes.pdf)
+
 - Kripke-Joyal forcing for type theory and uniform fibrations.  
 	S. Awodey, N. Gambino, S. Hazratpour, October 2021. 
 	[arxiv2110.14576](https://arxiv.org/abs/2110.14576)
