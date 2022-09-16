@@ -9,6 +9,10 @@
 - [Category Theory](../../) 
 - [Categorical Logic](./catlog/) 
 
+## Other stuff
+
+- [Fischbachau Autumn School](./notes/) 
+
 
 [A more elaborate website (under construction)](./longindex.md)
 
