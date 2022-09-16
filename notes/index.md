@@ -1,3 +1,3 @@
-## Lecture notes for [Categorical Logic](/notes/PC/)
+## Lecture notes for [Categorical Logic](/notes/)
 
 - [PCcatlog.pdf](PCcatlog.pdf)
