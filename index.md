@@ -11,7 +11,7 @@
 
 ## Other stuff
 
-- [Fischbachau Autumn School](./fischbachau/) 
+- [Fischbachau Autumn School](/fischbachau/) 
 
 
 [A more elaborate website (under construction)](./longindex.md)
