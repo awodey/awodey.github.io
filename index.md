@@ -11,7 +11,7 @@
 
 ## Other stuff
 
-- [Fischbachau Autumn School](./notes/PCcatlog.pdf) 
+- [Fischbachau Autumn School](./Fischbachau/) 
 
 
 [A more elaborate website (under construction)](./longindex.md)
