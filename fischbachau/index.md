@@ -2,3 +2,4 @@
 
 - [PCcatlog.pdf](PCcatlog.pdf)
 - [CategoricalLogicI.pdf](CategoricalLogicI.pdf)
+- [CategoricalLogicII.pdf](CategoricalLogicII.pdf)
