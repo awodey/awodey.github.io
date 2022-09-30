@@ -1,5 +1,6 @@
 ## Lecture notes for [Fischbachau Autumn School](/fischbachau/)
 
-- [PCcatlog.pdf](PCcatlog.pdf)
-- [CategoricalLogicI.pdf](CategoricalLogicI.pdf)
-- [CategoricalLogicII.pdf](CategoricalLogicII.pdf)
+- [Catlog Notes.pdf](PCcatlog.pdf)
+- [Categorical Logic, Lecture I.pdf](CategoricalLogicI.pdf)
+- [Categorical Logic, Lecture II.pdf](CategoricalLogicII.pdf)
+- [Categorical Logic, Lecture III.pdf](CategoricalLogicIII.pdf)
