@@ -1,18 +1,18 @@
 # Steve Awodey
 ### Professor, Departments of Philosophy and Mathematics <br> Carnegie Mellon University
-### Research Areas: Category Theory, Logic, Homotopy Type Theory
+### Category Theory, Logic, Homotopy Type Theory
 
 <hr>
 
 ## Projects
 
-- [Homotopy Type Theory:](http://www.cmu.edu/dietrich/philosophy/hott/ ) 
-	More information on this research program can be found on the site 
+- [Homotopy Type Theory.](http://www.cmu.edu/dietrich/philosophy/hott/ ) 
+	See also: 
 	[HomotopyTypeTheory.org](http://homotopytypetheory.org)
 
-- [Algebraic Set Theory:](http://www.phil.cmu.edu/projects/ast/) 
-	An older website containing some information about AST and links to some papers.
-	
+- [Algebraic Set Theory (archive).](http://www.phil.cmu.edu/projects/ast/) 
+	Information and links to some papers.
+
 <hr>
 
 ## Books
@@ -21,22 +21,16 @@
 	_Homotopy Type Theory: Univalent Foundations of Mathematics_, The Univalent Foundations Program, 
 	Institute for Advanced Study, 2013.
 
-- [Category Theory Textbook](http://www.oup.co.uk/isbn/9780199237180). 
-	_Category Theory_, Oxford Logic Guides 52, Oxford University Press, 2006. Second edition, 2010.
-	[Errata](http://www.andrew.cmu.edu/user/awodey/CT2errata2010.pdf)
+![HoTTcover](/images/HoTTcover.png)
 
-<p><span style='font-family:Geneva'>
-	<img src="http://www.andrew.cmu.edu/user/awodey/cover-web.png" height="300" width="200" align="left" border="1">
-	</span></p>
-<p><span style='font-family:Geneva'><b>
-	<img src="http://www.andrew.cmu.edu/user/awodey/catcover.pdf" height="300" width="200" align="right" border="1">
-	</b></span></p>
-	
-<br>
+- [Category Theory Textbook](http://www.oup.co.uk/isbn/9780199237180). _Category Theory_, Oxford Logic Guides 52, Oxford University Press, 2006. Second edition, 2010.
+[Errata](CT2errata2010.pdf)
 
-<hr size=2 width="100%" align=center>
+![CATcover](/images/CATcover.pdf)
 
-## Lectures	
+<hr> 
+
+## Recent Lectures	
 	
 - [Kripke-Joyal forcing for Martin-Löf type theory](/talks/ASL_KJ.pdf) Slides from a talk at the special session on Homotopy Type Theory at the _ASL annnual meeting_, held at Cornell University in April 2022.
 
@@ -75,7 +69,7 @@ Notes from a talk at IAS in December 2010.
 
 ## Preprints
 
-- A remark on Hofmann-Streicher universes. [draft](./papers/universes.pdf)
+- On Hofmann-Streicher universes. [arXiv:2205.10917](https://arxiv.org/abs/2205.10917)
 
 - Kripke-Joyal forcing for type theory and uniform fibrations.  
 	S. Awodey, N. Gambino, S. Hazratpour, October 2021. 
@@ -84,9 +78,6 @@ Notes from a talk at IAS in December 2010.
 <details><summary>more...</summary>
 	<br>
 	
-- Sheaf representations and duality in logic. June 2019. 
-	[arXiv:2001.09195](https://arxiv.org/abs/2001.09195)
-
 - Polynomial pseudomonads and dependent type theory. S.  Awodey, C. Newstead, February 2018. 
 	[arXiv:1802.00997](https://arxiv.org/abs/1802.00997)
 
@@ -111,10 +102,13 @@ Notes from a talk at IAS in December 2010.
 
 ## Publications
 
-- Impredicative encodings of (higher) inductive types. S. Awodey, J. Frey, S. Speight, _Logic in Computer Science_ (LICS 2018). [arXiv:1802.02820](https://arxiv.org/abs/1802.02820)
+- Sheaf representations and duality in logic. In Claudia Casadio & Philip J. Scott (eds.), Joachim Lambek: The Interplay of Mathematics, Logic, and Linguistics. Springer Verlag. pp. 39-57 (2021)
+	[arXiv:2001.09195](https://arxiv.org/abs/2001.09195)
 
 <details><summary>more...</summary>
 	<br>
+
+- Impredicative encodings of (higher) inductive types. S. Awodey, J. Frey, S. Speight, _Logic in Computer Science_ (LICS 2018). [arXiv:1802.02820](https://arxiv.org/abs/1802.02820)
 	
 - A cubical model of homotopy type theory. _Annals of Pure and Applied Logic_, 2018. 
 	[arXiv:1607.06413](https://arxiv.org/abs/1607.06413)
@@ -464,7 +458,7 @@ CMU, Philosophy, 2001.
 - [Category Theory](http://www.andrew.cmu.edu/course/80-413-713/)
 - [Categorical Logic](https://www.andrew.cmu.edu/user/awodey/catlog/)
 - [Formal Logic](http://www.andrew.cmu.edu/course/80-310-610/)
-
+- [Logic and Proof (Fischbachau Herbstschule)](/fischbachau)
 <hr>
 
 ## Links
