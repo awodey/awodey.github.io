@@ -6,11 +6,9 @@
 
 ## Research
 
-- [Homotopy Type Theory.](http://www.cmu.edu/dietrich/philosophy/hott/ ) 
-	See also: 
-	[HomotopyTypeTheory.org](http://homotopytypetheory.org)
-
-- [Algebraic Set Theory.](http://www.phil.cmu.edu/projects/ast/) 
+- [Homotopy Type Theory](http://www.cmu.edu/dietrich/philosophy/hott/) 
+	
+- [Algebraic Set Theory](http://www.phil.cmu.edu/projects/ast/) 
 	 (Archive)
 
 <hr>
