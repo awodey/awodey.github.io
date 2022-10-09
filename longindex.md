@@ -1,10 +1,10 @@
 # Steve Awodey
-## Professor, Departments of Philosophy and Mathematics <br> Carnegie Mellon University
-### Category Theory, Logic, Homotopy Type Theory
+### Professor of Philosophy and Mathematics
+### Carnegie Mellon University
 
 <hr>
 
-## Projects
+## Research
 
 - [Homotopy Type Theory.](http://www.cmu.edu/dietrich/philosophy/hott/ ) 
 	See also: 
@@ -17,14 +17,14 @@
 
 ## Books
 
-- [The HoTT Book](http://www.homotopytypetheory.org/book). 
-	_Homotopy Type Theory: Univalent Foundations of Mathematics_, The Univalent Foundations Program, 
-	Institute for Advanced Study, 2013.
+- [Homotopy Type Theory: Univalent Foundations of Mathematics](http://www.homotopytypetheory.org/book). 
+	The Univalent Foundations Program, Institute for Advanced Study, 2013.
 
 ![HoTTcover](/images/HoTTcover.png)
 
-- [Category Theory Textbook](http://www.oup.co.uk/isbn/9780199237180). _Category Theory_, Oxford Logic Guides 52, Oxford University Press, 2006. Second edition, 2010.
-[Errata](CT2errata2010.pdf)
+- [Category Theory](http://www.oup.co.uk/isbn/9780199237180). \
+	Oxford Logic Guides 52, Oxford University Press, 2006. Second edition, 2010.
+	[Errata](CT2errata2010.pdf)
 
 ![CATcover](/images/CATcover.pdf)
 
@@ -289,7 +289,7 @@ CMU, Philosophy, 2001.
 ## Links
 	
 - [Pure and Applied Logic Program](http://logic.cmu.edu)
-- [The HoTT Wiki (nLab)](https://ncatlab.org/homotopytypetheory/show/HomePage)
+- [HomotopyTypeTheory.org](http://homotopytypetheory.org)
 - [The Carnap Blog](http://www.awcarus.com)
 - [Marc Awodey Memorial](http://www.marcawodey.org)
 
