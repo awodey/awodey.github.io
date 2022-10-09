@@ -1,5 +1,5 @@
 # Steve Awodey
-### Professor of Philosophy and Mathematics
+### Professor, Philosophy and Mathematics
 ### Carnegie Mellon University
 
 <hr>
@@ -7,7 +7,6 @@
 ## Research
 
 - [Homotopy Type Theory](http://www.cmu.edu/dietrich/philosophy/hott/) 
-	
 - [Algebraic Set Theory](http://www.phil.cmu.edu/projects/ast/) 
 	 (Archive)
 
