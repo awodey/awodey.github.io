@@ -10,8 +10,8 @@
 	See also: 
 	[HomotopyTypeTheory.org](http://homotopytypetheory.org)
 
-- [Algebraic Set Theory (archive).](http://www.phil.cmu.edu/projects/ast/) 
-	Information and links to some papers.
+- [Algebraic Set Theory.](http://www.phil.cmu.edu/projects/ast/) 
+	 (Archive)
 
 <hr>
 
@@ -30,7 +30,7 @@
 
 <hr> 
 
-## Recent Lectures	
+## Lectures	
 	
 - [Kripke-Joyal forcing for Martin-Löf type theory](/talks/ASL_KJ.pdf) Slides from a talk at the special session on Homotopy Type Theory at the _ASL annnual meeting_, held at Cornell University in April 2022.
 
@@ -81,10 +81,6 @@ Notes from a talk at IAS in December 2010.
 - Polynomial pseudomonads and dependent type theory. S.  Awodey, C. Newstead, February 2018. 
 	[arXiv:1802.00997](https://arxiv.org/abs/1802.00997)
 
-- Univalence as a principle of logic. _Indagationes Mathematicae_: Special Issue L.E.J. Brouwer, 50 years later, 
-	D. van Dalen, et al. (ed.s), 2018. 
-	[preprint](http://www.andrew.cmu.edu/user/awodey/preprints/uapl.pdf)
-	
 - A proposition is the (homotopy) type of its proofs. January 2016. 
 	[arXiv:1701.02024](https://arxiv.org/abs/1701.02024)
 	
@@ -109,6 +105,10 @@ Notes from a talk at IAS in December 2010.
 	<br>
 
 - Impredicative encodings of (higher) inductive types. S. Awodey, J. Frey, S. Speight, _Logic in Computer Science_ (LICS 2018). [arXiv:1802.02820](https://arxiv.org/abs/1802.02820)
+
+- Univalence as a principle of logic. _Indagationes Mathematicae_: Special Issue L.E.J. Brouwer, 50 years later, 
+	D. van Dalen, et al. (ed.s), 2018. 
+	[preprint](http://www.andrew.cmu.edu/user/awodey/preprints/uapl.pdf)
 	
 - A cubical model of homotopy type theory. _Annals of Pure and Applied Logic_, 2018. 
 	[arXiv:1607.06413](https://arxiv.org/abs/1607.06413)
@@ -159,287 +159,112 @@ Notes from a talk at IAS in December 2010.
 - Relating first-order set theories, toposes and categories of classes. Steve Awodey, Carsten Butz, Alex Simpson, and Thomas Streicher. 
 	_Annals of Pure and Applied Logic_, 2013. [pdf](https://www.phil.cmu.edu/projects/ast/Papers/Awodey-Butz-Simpson-Streicher-APAL-2013.pdf)
 	
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/astIntroFinal.pdf"><span
-style='font-family:Geneva'>A brief introduction to algebraic set theory.</span></a></span><span
-style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
+- A brief introduction to algebraic set theory. _The Bulletin of Symbolic Logic_, 2008.  [pdf]()
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey, <i>The Bulletin of Symbolic Logic</i>, 2008.  </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
+- Topology and modality: The topological interpretation of first-order modal logic. S. Awodey, K. Kishida, _The Review of Symbolic Logic_, 2008. 
+[pdf](http://www.andrew.cmu.edu/user/awodey/preprints/FoS4.phil.pdf)
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/FoS4.phil.pdf">
-<span style='font-family:Geneva'>Topology and modality: The topological
-interpretation of first-order modal logic.</span></a></span><span
-style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
+- Saunders Mac Lane (memorial notice). _Proceedings of the American Philosophical Society_, 2007. 
+[pdf](http://www.andrew.cmu.edu/user/awodey/preprints/aps.pdf)
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey, K. Kishida, <i>The Review of Symbolic Logic</i>, 2008. 
-</span><span style='font-family:Geneva'> </span><span style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
+- Carnap's Dream: Gödel, Wittgenstein, and _Logical Syntax_.
+S. Awodey, A.W. Carus, _Synthese_, 2007.
+[pdf](http://www.andrew.cmu.edu/user/awodey/preprints/CD.pdf)
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/aps.pdf"><span
-style='font-family:Geneva'>Saunders Mac Lane (memorial notice).</span></a></span><span
-style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
+- Sheaf toposes for realizability. S. Awodey and A. Bauer, _Archive
+for Mathemtical Logic_, 2008.
+[pdf](https://www.andrew.cmu.edu/user/awodey/preprints/stfr.pdf)
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey, <i>Proceedings of the American Philosophical Society</i>, 2007. </span>
-<span style='font-family:Geneva'> </span><span style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
+- Algebraic models of intuitionistic theories of sets and classes. S. Awodey and H. Forssell, _Theory and Applications of Categories_, 15(5), CT 2004, pp. 147--163 (2004). [pdf](http://www.phil.cmu.edu/projects/ast/)
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/CD.pdf"><span
-style='font-family:Geneva'>Carnap's Dream: G&ouml;del, Wittgenstein, and <i>Logical Syntax</i>.</span></a></span><span
-style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
+- Predicative algebraic set theory. S. Awodey and M. Warren, _Theory and Applications of Categories_, 15(1), CT 2004, pp. 1--39 (2004). 
+[pdf](http://www.phil.cmu.edu/projects/ast/)
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey, A.W. Carus, <i>Synthese</i>, 2007. </span>
-<span style='font-family:Geneva'> </span><span style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
+- Ultrasheaves and double negation. S. Awodey and J. Eliasson, _Notre Dame Journal of Formal Logic_, 45(4), pp. 235--245 (2004). 
+[pdf](http://www.andrew.cmu.edu/user/awodey/preprints/udn.pdf)
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/stfr.pdf"><span
-style='font-family:Geneva'>Sheaf toposes for realizability (2004).</span></a></span><span
-style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
+-  Propositions as [types]. S. Awodey and A. Bauer, _Journal of Logic and
+Computation_, 14(4), pp. 447--471 (2004).
+[pdf](http://www.cs.cmu.edu/%7Eandrej/papers/#brackets)
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey and A. Bauer, <i>Archive
-for Mathemtical Logic</i>, 2008</span><span style='font-family:Geneva'>. </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
+- An answer to G. Hellman's question `Does category theory provide a framework for mathematical structuralism?' _Philosophia Mathematica_, (3), vol. 12 (2004), pp. 54--64.
+[pdf](http://www.andrew.cmu.edu/user/awodey/preprints/awodeyVhellman.pdf)
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a
-href="http://www.phil.cmu.edu/projects/ast/"><span style='font-family:Geneva'>Algebraic
-models of intuitionistic theories of sets and classes.</span></a></span><span
-style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
+- Modal operators and the formal dual of Birkhoff's completeness theorem. S. Awodey and J. Hughes, _Mathematical Structures in Computer Science_, vol. 13 (2003), pp. 233-258. 
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey and H. Forssell, <i>Theory and
-Applications of Categories</i></span><span style='font-family:Geneva'> 15(5),
-CT 2004, pp. 147--163 (2004). </span><span style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
+- Categoricity and completeness: 19th century axiomatics to 21st century
+semantics. S. Awodey and E. Reck, _History and Philosophy of Logic_, 23 (2002), pp. 1-30, 77-94.
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a
-href="http://www.phil.cmu.edu/projects/ast/"><span style='font-family:Geneva'>Predicative
-algebraic set theory.</span></a></span><span style='font-family:Geneva'>
-&nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
+- Elementary axioms for local maps of toposes. S. Awodey and L. Birkedal, _Journal of Pure and Applied Algebra_, 177 (2003), pp. 215-230. 
+[pdf](http://www.cs.cmu.edu/afs/cs/user/birkedal/pub/elealm.ps.gz)
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey and M. Warren, <i>Theory and Applications
-of Categories</i></span><span style='font-family:Geneva'> 15(1), CT 2004, pp.
-1--39 (2004). </span><span style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
+- Local realizability toposes and a modal logic for
+computability. S. Awodey, L. Birkedal, D.S. Scott, _Mathematical Structures in Computer Science_, vol. 12 (2002), pp. 319-334.
+[pdf](http://www.andrew.cmu.edu/user/awodey/preprints/lrtmlc.ps.gz)
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/udn.pdf"><span
-style='font-family:Geneva'>Ultrasheaves and double negation.</span></a></span><span
-style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
+- Topological completeness for higher-order logic. S. Awodey and C. Butz, _Journal of Symbolic Logic_, 65(3), (2000) pp. 1168--82.
+[pdf](http://www.andrew.cmu.edu/user/awodey/preprints/topcomp.pdf)
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey and J. Eliasson, <i>Notre Dame Journal of
-Formal Logic</i></span><span style='font-family:Geneva'> 45(4), pp. 235--245
-(2004). </span><span style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
+- Topological representation of the lambda-calculus. _Mathematical Structures in Computer Science_, vol. 10,  (2000) pp. 81--96,
+[pdf](http://www.andrew.cmu.edu/user/awodey/preprints/toprep.ps.gz)
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a
-href="http://www.cs.cmu.edu/%7Eandrej/papers/#brackets"><span style='font-family:
-Geneva'>Propositions as [types].</span></a></span><span style='font-family:
-Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
+- Sheaf representation for topoi. _Journal of Pure and Applied Algebra_, 145 (2000), pp. 107--121. 
+[pdf](http://www.andrew.cmu.edu/user/awodey/preprints/sheafrep.ps.gz)
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey and A. Bauer, <i>Journal of Logic and
-Computation</i></span><span style='font-family:Geneva'> 14(4), pp. 447--471
-(2004).</span><span style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
+- Carnap, completeness, and categoricity: The _Gabelbarkeitssatz_ of 1928. S. Awodey and A.W. Carus, _Erkenntnis_ 54 (2001), pp. 145-172.
 
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a
-href="http://www.andrew.cmu.edu/user/awodey/preprints/awodeyVhellman.pdf"><span style='font-family:Geneva'>An answer
-to G. Hellman's question &quot;Does category theory provide a framework for
-mathematical structuralism?&quot;</span></a></span><span style='font-family:
-Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'><i>Philosophia Mathematica</i></span><span
-style='font-family:Geneva'> (3), vol. 12 (2004), pp. 54--64.</span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-Modal operators and the formal dual of Birkhoff's completeness theorem.
-&nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey and J. Hughes, <i>Mathematical Structures
-in Computer Science</i></span><span style='font-family:Geneva'>, vol. 13
-(2003), pp. 233-258. </span><span style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-Categoricity and completeness: 19th century axiomatics to 21st century
-semantics. &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey and E. Reck, <i>History and Philosophy of
-Logic</i></span><span style='font-family:Geneva'> , 23 (2002), pp. 1-30, 77-94.
-</span><span style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a
-href="http://www.cs.cmu.edu/afs/cs/user/birkedal/pub/elealm.ps.gz"><span
-style='font-family:Geneva'>Elementary axioms for local maps of toposes.</span></a></span><span
-style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey and L. Birkedal, <i>Journal of Pure and
-Applied Algebra</i></span><span style='font-family:Geneva'>, 177 (2003), pp.
-215-230. </span><span style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/lrtmlc.ps.gz"><span
-style='font-family:Geneva'>Local realizability toposes and a modal logic for
-computability.</span></a></span><span style='font-family:Geneva'>
-&nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey, L. Birkedal, D.S. Scott, <i>Mathematical
-Structures in Computer Science</i></span><span style='font-family:Geneva'>,
-vol. 12 (2002), pp. 319-334. </span><span style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/topcomp.pdf"><span
-style='font-family:Geneva'>Topological completeness for higher-order logic.</span></a></span><span
-style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey and C. Butz, <i>Journal of Symbolic Logic</i></span><span
-style='font-family:Geneva'> 65(3), (2000) pp. 1168--82. </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/toprep.ps.gz"><span
-style='font-family:Geneva'>Topological representation of the lambda-calculus.</span></a></span><span
-style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'><i>Mathematical Structures in Computer Science</i></span><span
-style='font-family:Geneva'> (2000), vol. 10, pp. 81--96. </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-</span><span style='font-family:"Gill Sans"'><a href="http://www.andrew.cmu.edu/user/awodey/preprints/sheafrep.ps.gz"><span
-style='font-family:Geneva'>Sheaf representation for topoi.</span></a></span><span
-style='font-family:Geneva'> &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'><i>Journal of Pure and Applied Algebra</i></span><span
-style='font-family:Geneva'> 145 (2000), pp. 107--121. </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-Carnap, completeness, and categoricity: The <i>Gabelbarkeitssatz</i></span><span
-style='font-family:Geneva'> of 1928. &nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-indent:.5in'><span
-style='font-family:Geneva'>S. Awodey and A.W. Carus, <i>Erkenntnis</i></span><span
-style='font-family:Geneva'> 54 (2001), pp. 145-172. </span><span
-style='font-family:"Gill Sans"'><br>
-</span><span style='font-family:Geneva'>&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin:0in;margin-bottom:.0001pt'><span
-style='font-family:"Geneva"'>·</span><span style='font-family:Geneva'>&nbsp;
-Structure in mathematics and logic: a categorical perspective.
-&nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:12.0pt;
-margin-left:0in;text-indent:.5in'><span style='font-family:Geneva'><i>Philosophia
-Mathematica</i></span><span style='font-family:Geneva'> (3), vol. 4 (1996), pp.
-209--237. <o:p></o:p></span></p>
-
+- Structure in mathematics and logic: a categorical perspective. _Philosophia
+Mathematica_ (3), vol. 4 (1996), pp. 209--237. 
 </details>
 
 <br>
 
-- Dissertation: [Logic in Topoi: Functorial Semantics for Higher-Order Logic.](/papers/awodey_thesis.pdf)
-Ph.D. Dissertation, The University of Chicago, 1997.
+- Dissertation: [Logic in Topoi: Functorial Semantics for Higher-Order Logic.](/papers/awodey_thesis.pdf) Ph.D. Dissertation, The University of Chicago, 1997.
 
 <hr>
 
 ## Students
 	
-- Clive Newstead,
-<a href="http://www.andrew.cmu.edu/user/awodey/students/NewsteadThesis.pdf"><span style='font-family:Geneva'>Algebraic models of dependent type theory</span></a>, 
-CMU, Mathematics, 2018.
+- Clive Newstead, Algebraic models of dependent type theory, 
+CMU, Mathematics, 2018. 
+[pdf](http://www.andrew.cmu.edu/user/awodey/students/NewsteadThesis.pdf)
 
-- Egbert Rijke,
-<a href="http://www.andrew.cmu.edu/user/awodey/students/RijkeThesis.pdf"><span style='font-family:Geneva'>Classifying Types: Topics in synthetic homotopy theory</span></a>, 
+- Egbert Rijke, Classifying Types: Topics in synthetic homotopy theory, 
 CMU, Pure and Applied Logic, 2018.
+[pdf](http://www.andrew.cmu.edu/user/awodey/students/RijkeThesis.pdf)
 
-- Kristina Sojakova,
-<a href="http://www.andrew.cmu.edu/user/awodey/students/SojakovaThesis.pdf"><span style='font-family:Geneva'>Higher Inductive Types as Homotopy-Initial Algebras</span></a>, 
+- Kristina Sojakova, Higher Inductive Types as Homotopy-Initial Algebras, 
 CMU, Computer Science, 2016.
+[pdf](http://www.andrew.cmu.edu/user/awodey/students/SojakovaThesis.pdf)
 
-- Spencer Breiner,
-<a href="http://www.andrew.cmu.edu/user/awodey/students/breiner.pdf"><span style='font-family:Geneva'>Scheme representation for first-logic</span></a>, 
+- Spencer Breiner, Scheme representation for first-logic, 
 CMU, Pure and Applied Logic, 2014.
+[pdf](http://www.andrew.cmu.edu/user/awodey/students/breiner.pdf)
 
-- Peter LeFanu Lumsdaine,
-<a href="http://www.andrew.cmu.edu/user/awodey/students/lumsdaine.pdf"><span style='font-family:Geneva'>Higher categories from type theory</span></a>, 
+- Peter LeFanu Lumsdaine, Higher categories from type theory</span></a>, 
 CMU, Mathematics, 2010.
+[pdf](http://www.andrew.cmu.edu/user/awodey/students/lumsdaine.pdf)
 
-- Kohei Kishida,
-<a href="http://www.andrew.cmu.edu/user/awodey/students/kishida.pdf">Generalized topological semantics for first-order modal logic</a>, 
-University of Pittsburgh, Philosophy, 2010.
+- Kohei Kishida, Generalized topological semantics for first-order modal logic, University of Pittsburgh, Philosophy, 2010.
+[pdf](http://www.andrew.cmu.edu/user/awodey/students/kishida.pdf)
 
-- Henrik Forssell,
-<a href="http://www.andrew.cmu.edu/user/awodey/students/forssell.pdf">First-order logical duality</a>, 
+- Henrik Forssell, First-order logical duality, CMU, Philosophy, 2008.
+[pdf](http://www.andrew.cmu.edu/user/awodey/students/forssell.pdf)
+
+- Michael Warren, Homotopy-theoretic aspects of constructive type theory,
 CMU, Philosophy, 2008.
+[pdf](http://www.andrew.cmu.edu/user/awodey/students/warren.pdf)
 
-- Michael Warren,
-<a href="http://www.andrew.cmu.edu/user/awodey/students/warren.pdf">Homotopy-theoretic aspects of constructive type theory</a>, 
-CMU, Philosophy, 2008.
-
-- Matthew Jackson,
-<a href="http://www.andrew.cmu.edu/user/awodey/students/jackson.pdf">A sheaf-theoretic approach to measure theory</a>, 
+- Matthew Jackson, A sheaf-theoretic approach to measure theory</a>, 
 University of Pittsburgh, Mathematics, 2006.
+[pdf](http://www.andrew.cmu.edu/user/awodey/students/jackson.pdf)
 
-- Jonas Eliasson,
-<a href="http://www.andrew.cmu.edu/user/awodey/students/eliasson.pdf">Ultrasheaves</a>, 
-University of Uppsala, Mathematics, 2003.
+- Jonas Eliasson, Ultrasheaves, University of Uppsala, Mathematics, 2003.
+[pdf](http://www.andrew.cmu.edu/user/awodey/students/eliasson.pdf)
 
-- Jesse Hughes,
-<a href="http://www.andrew.cmu.edu/user/awodey/students/hughes.pdf">A study of categories of algebras and coalgebras</a>, 
+- Jesse Hughes, A study of categories of algebras and coalgebras, 
 CMU, Philosophy, 2001.
+[pdf](http://www.andrew.cmu.edu/user/awodey/students/hughes.pdf)
 	
 </details>
 
@@ -464,7 +289,7 @@ CMU, Philosophy, 2001.
 ## Links
 	
 - [Pure and Applied Logic Program](http://logic.cmu.edu)
-- [The HoTT Wiki](https://ncatlab.org/homotopytypetheory/show/HomePage)
+- [The HoTT Wiki (nLab)](https://ncatlab.org/homotopytypetheory/show/HomePage)
 - [The Carnap Blog](http://www.awcarus.com)
 - [Marc Awodey Memorial](http://www.marcawodey.org)
 
