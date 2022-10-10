@@ -31,7 +31,8 @@
 	
 - [Kripke-Joyal forcing for Martin-Löf type theory](/talks/ASL_KJ.pdf) Slides from a talk at the special session on Homotopy Type Theory at the _ASL annnual meeting_, held at Cornell University in April 2022.
 
-<details><summary>more...</summary>
+<details open>
+<summary>more...</summary>
 
 - [Polynomial functors and type theory.](https://www.cmu.edu/dietrich/philosophy/hott/slides/polytutorial.pdf)
 Slides from a tutorial at the _2022 Workshop on Polynomial Functors_, held online at the Topos Institute in March 2022.
@@ -69,7 +70,8 @@ Notes from a talk at IAS in December 2010.
 	S. Awodey, N. Gambino, S. Hazratpour, October 2021. 
 	[arxiv2110.14576](https://arxiv.org/abs/2110.14576)
 
-<details><summary>more...</summary>
+<details open>
+<summary>more...</summary>
 	
 - Polynomial pseudomonads and dependent type theory. S.  Awodey, C. Newstead, February 2018. 
 	[arXiv:1802.00997](https://arxiv.org/abs/1802.00997)
@@ -92,7 +94,8 @@ Notes from a talk at IAS in December 2010.
 - Sheaf representations and duality in logic. In Claudia Casadio & Philip J. Scott (eds.), Joachim Lambek: The Interplay of Mathematics, Logic, and Linguistics. Springer Verlag. pp. 39-57 (2021)
 	[arXiv:2001.09195](https://arxiv.org/abs/2001.09195)
 
-<details><summary>more...</summary>
+<details open>
+<summary>more...</summary>
 
 - Impredicative encodings of (higher) inductive types. S. Awodey, J. Frey, S. Speight, _Logic in Computer Science_ (LICS 2018). [arXiv:1802.02820](https://arxiv.org/abs/1802.02820)
 
