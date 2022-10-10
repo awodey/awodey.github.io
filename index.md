@@ -262,6 +262,7 @@ CMU, Philosophy, 2001.
 - [The Journal of Symbolic Logic](https://www.cambridge.org/core/journals/journal-of-symbolic-logic)
 - [Mathematical Logic Quarterly](https://onlinelibrary.wiley.com/journal/15213870)
 - [The Collected Works of Rudolf Carnap](http://www.phil.cmu.edu/projects/carnap/)
+- [Selected Papers of Dana Scott](https://github.com/CMU-HoTT/scott)
 
 <hr>
 
@@ -280,7 +281,6 @@ CMU, Philosophy, 2001.
 - [Homotopy Type Theory](http://homotopytypetheory.org)
 - [Pure and Applied Logic](http://logic.cmu.edu)
 - [The Carnap Blog](http://www.awcarus.com)
-- [Selected Papers of Dana Scott](https://github.com/CMU-HoTT/scott)
 - [Marc Awodey Memorial](http://www.marcawodey.org)
 
 <hr>
