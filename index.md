@@ -32,7 +32,6 @@
 - [Kripke-Joyal forcing for Martin-Löf type theory](/talks/ASL_KJ.pdf) Slides from a talk at the special session on Homotopy Type Theory at the _ASL annnual meeting_, held at Cornell University in April 2022.
 
 <details><summary>more...</summary>
-	<br>
 
 - [Polynomial functors and type theory.](https://www.cmu.edu/dietrich/philosophy/hott/slides/polytutorial.pdf)
 Slides from a tutorial at the _2022 Workshop on Polynomial Functors_, held online at the Topos Institute in March 2022.
@@ -60,8 +59,6 @@ Notes from a talk at IAS in December 2010.
 	
 </details>
 
-<br>
-
 <hr>
 
 ## Preprints
@@ -73,7 +70,6 @@ Notes from a talk at IAS in December 2010.
 	[arxiv2110.14576](https://arxiv.org/abs/2110.14576)
 
 <details><summary>more...</summary>
-	<br>
 	
 - Polynomial pseudomonads and dependent type theory. S.  Awodey, C. Newstead, February 2018. 
 	[arXiv:1802.00997](https://arxiv.org/abs/1802.00997)
@@ -89,8 +85,6 @@ Notes from a talk at IAS in December 2010.
 
 </details>
 
-<br>
-
 <hr>
 
 ## Publications
@@ -99,7 +93,6 @@ Notes from a talk at IAS in December 2010.
 	[arXiv:2001.09195](https://arxiv.org/abs/2001.09195)
 
 <details><summary>more...</summary>
-	<br>
 
 - Impredicative encodings of (higher) inductive types. S. Awodey, J. Frey, S. Speight, _Logic in Computer Science_ (LICS 2018). [arXiv:1802.02820](https://arxiv.org/abs/1802.02820)
 
@@ -212,9 +205,8 @@ computability. S. Awodey, L. Birkedal, D.S. Scott, _Mathematical Structures in C
 
 - Structure in mathematics and logic: a categorical perspective. _Philosophia
 Mathematica_ (3), vol. 4 (1996), pp. 209--237. 
-</details>
 
-<br>
+</details>
 
 - Dissertation: [Logic in Topoi: Functorial Semantics for Higher-Order Logic.](/papers/awodey_thesis.pdf) Ph.D. Dissertation, The University of Chicago, 1997.
 
@@ -262,8 +254,6 @@ University of Pittsburgh, Mathematics, 2006.
 - Jesse Hughes, A study of categories of algebras and coalgebras, 
 CMU, Philosophy, 2001.
 [pdf](http://www.andrew.cmu.edu/user/awodey/students/hughes.pdf)
-	
-</details>
 
 <hr>
 
@@ -281,19 +271,22 @@ CMU, Philosophy, 2001.
 - [Categorical Logic](https://www.andrew.cmu.edu/user/awodey/catlog/)
 - [Formal Logic](http://www.andrew.cmu.edu/course/80-310-610/)
 - [Logic and Proof (Fischbachau Herbstschule)](/fischbachau)
+
 <hr>
 
 ## Links
 	
-- [Pure and Applied Logic Program](http://logic.cmu.edu)
-- [HomotopyTypeTheory.org](http://homotopytypetheory.org)
+- [nLab](https://ncatlab.org/nlab/show/HomePage)
+- [Homotopy Type Theory](http://homotopytypetheory.org)
+- [Pure and Applied Logic](http://logic.cmu.edu)
 - [The Carnap Blog](http://www.awcarus.com)
+- [Selected Papers of Dana Scott](https://github.com/CMU-HoTT/scott)
 - [Marc Awodey Memorial](http://www.marcawodey.org)
 
 <hr>
 
 #### Contact
 
-Steve Awodey, Department of Philosophy, Carnegie Mellon University, Pittsburgh, PA 15213
+Steve Awodey, Department of Philosophy, Carnegie Mellon University, Pittsburgh, PA 15213 USA
 
-Office BH 135F, Phone (412) 268-8947, Fax (412) 268-1440, Email awodey(at)cmu(dot)edu
+Office BH 135F, Phone (412) 268-8947, Email awodey(at)cmu(dot)edu
