@@ -264,7 +264,7 @@ CMU, Philosophy, 2001.
 
 - [The Journal of Symbolic Logic](https://www.cambridge.org/core/journals/journal-of-symbolic-logic)
 - [Mathematical Logic Quarterly](https://onlinelibrary.wiley.com/journal/15213870)
-- [The Collected Works of Rudolf Carnap](http://www.phil.cmu.edu/projects/carnap/)
+- [Collected Works of Rudolf Carnap](http://www.phil.cmu.edu/projects/carnap/)
 - [Selected Papers of Dana Scott](https://github.com/CMU-HoTT/scott)
 
 <hr>
