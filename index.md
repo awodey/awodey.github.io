@@ -29,7 +29,7 @@
 
 ## Lectures	
 	
-- [Kripke-Joyal forcing for Martin-Löf type theory](/talks/ASL_KJ.pdf) Slides from a talk at the special session on Homotopy Type Theory at the _ASL annnual meeting_, held at Cornell University in April 2022.
+- [Kripke-Joyal forcing for Martin-Löf type theory](/talks/ASL_KJ.pdf) Slides from a talk at the special session on Homotopy Type Theory at the _ASL annual meeting_, held at Cornell University in April 2022.
 
 <details open>
 <summary>more...</summary>
