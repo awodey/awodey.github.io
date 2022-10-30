@@ -28,7 +28,8 @@
 <hr> 
 
 ## Lectures	
-	
+
+- [The isotropy group of a first-order theory](/talks/Octoberfest2022.pdf) Slides from a talk at the special session in memory Pieter Hofstra at the 2022 _Category Theory Octoberfest_.	
 - [Kripke-Joyal forcing for Martin-Löf type theory](/talks/ASL_KJ.pdf) Slides from a talk at the special session on Homotopy Type Theory at the _ASL annual meeting_, held at Cornell University in April 2022.
 
 <details open>
