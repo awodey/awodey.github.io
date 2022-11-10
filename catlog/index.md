@@ -1,11 +1,11 @@
 # Categorical Logic
 ## 80-514/814
-## Spring 2022
+## Spring 2023
 
 ### Course information
 
 - Place: BH 150
-- Time: TR 3-4:30
+- Time: TR 3:30-4:50
 - Instructor: Steve Awodey
 - Office: Baker 135F
 - Office Hour: Tuesday 2-3, or by appointment
@@ -70,7 +70,8 @@ Grades will be based on 4 problem sets and a presentation in class, with a brief
 Watch this space for news and information!
 
 - Have a look at the first set of [lecture notes](/catlog/notes/catlog0.pdf) for a _review of basic category theory_.
-- Jan 18: Class begins! Meet on zoom for a course overview and some planning.
+<!---
+ - Jan 18: Class begins! Meet on zoom for a course overview and some planning.
 - Jan 20: Meet on zoom for a review of category theory, as in the [lecture notes](/catlog/notes/catlog0.pdf).
 - There is a [course zulip](https://baker.hott.dev/#narrow/stream/31-Categorical-Logic) for announcements and discussion.
 - Posted the first half of the notes on [algebraic theories](/catlog/notes/catlog1A.pdf) for those who want to work ahead.
@@ -83,6 +84,8 @@ Watch this space for news and information!
 - The third and final [problem set](/catlog/hw/catloghw3.pdf) is online.
 - If you haven't chosen a final topic, talk to me about it soon.  Students lectures will be in the last week of the semester, 4/26,28.
 - The notes on [lambda-calculus](/catlog/notes/catlog3.pdf) are now complete.
+
+-->
 
 <hr WIDTH="100%">
 <div CLASS="bottom"><a href="http://www.andrew.cmu.edu/~awodey/"></a></div>
