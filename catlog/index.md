@@ -10,9 +10,7 @@
 - Office: Baker 135F
 - Office Hour: Tuesday 2-3, or by appointment
 - Email: awodey@andrew
-- Canvas: [https://canvas.cmu.edu/courses/28133](https://canvas.cmu.edu/courses/28133)
-- Zulip: [https://baker.hott.dev/#narrow/stream/31-Categorical-Logic](https://baker.hott.dev/#narrow/stream/31-Categorical-Logic)
-- Zoom meeting id: 948 0306 2750 (_the passcode is on Canvas or Zulip_)
+
 
 ### Overview
 This course focuses on applications of category theory in logic. 
