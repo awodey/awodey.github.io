@@ -29,7 +29,8 @@
 
 ## Lectures	
 
-- [The isotropy group of a first-order theory](/talks/Octoberfest2022.pdf) Slides from a talk at the special session in memory Pieter Hofstra at the 2022 _Category Theory Octoberfest_.	
+- [The isotropy group of a first-order theory](/talks/Octoberfest2022.pdf) Slides from a talk at the special session in memory Pieter Hofstra at the 2022 _Category Theory Octoberfest_.
+	
 - [Kripke-Joyal forcing for Martin-Löf type theory](/talks/ASL_KJ.pdf) Slides from a talk at the special session on Homotopy Type Theory at the _ASL annual meeting_, held at Cornell University in April 2022.
 
 <details open>
@@ -65,7 +66,7 @@ Notes from a talk at IAS in December 2010.
 
 ## Preprints
 
-- On Hofmann-Streicher universes. [arXiv:2205.10917](https://arxiv.org/abs/2205.10917)
+- On Hofmann-Streicher universes. S. Awodey, May 2022. [arXiv:2205.10917](https://arxiv.org/abs/2205.10917)
 
 - Kripke-Joyal forcing for type theory and uniform fibrations.  
 	S. Awodey, N. Gambino, S. Hazratpour, October 2021. 
