@@ -15,11 +15,11 @@
 ### Overview
 This course focuses on applications of category theory in logic. 
 A leading idea is functorial semantics, according to which a model
-of a logical theory is a set-valued functor on a structured category determined
+of a logical theory is a set-valued functor on a structured category representing
 by the theory. This gives rise to a syntax-invariant notion of a logical theory
-and introduces many algebraic methods into logic, leading naturally to
+and introduces many algebraic methods into logic, and leads naturally to
 the universal and other general models that distinguish functorial from
-classical semantics.  The lambda-calculus, for example, is treated via cartesian closed categories. Similarly higher-order logic is modelled by the categorical notion of a topos.  Using sheaves, topos theory subsumes Kripke semantics for modal and intuitionistic logics. And locally cartesian closed categories provide semantics for dependent type theories.  Time permitting, we may consider Martin-L"of type theory and its recent extension to Homotopy type theory.
+classical semantics.  The lambda-calculus, for example, is treated via cartesian closed categories. Algebraic theories are represented by categories with finite products, following Lawvere.  And higher-order logic is modelled by the categorical notion of a topos.  Using sheaves, topos theory subsumes Kripke semantics for modal and intuitionistic logics. And locally cartesian closed categories provide semantics for dependent type theories.  Time permitting, we may consider Martin-L"of type theory and its recent extension to Homotopy type theory.
 
 ### Prerequisites
 80-413/713 Category Theory or equivalent.
@@ -27,15 +27,17 @@ classical semantics.  The lambda-calculus, for example, is treated via cartesian
 ### Topics
 
 - Functorial semantics for algebraic theories
-- Functorial semantics for elementary logic
+- Functorial semantics for propositional and elementary logic
+- Simple type theory and cartesian closed categories
 - Higher-order logic and basic topos theory
 - Sheaf semantics and Grothendieck toposes
-- Simple type theory and cartesian closed categories
 - Dependent type theory and locally cartesian closed categories
 - Homotopy type theory
 
 ### Texts
 #### Recommended
+
+Course notes will be provided. The following are recommended for further reading. 
 
 - Steve Awodey, Category Theory, 2nd edition, Oxford University Press, 2010.
 - Crole, R. L.: Categories for Types. Cambridge University Press, Cambridge, 1993.
@@ -67,7 +69,7 @@ Grades will be based on 4 problem sets and a presentation in class, with a brief
 ### Updates
 Watch this space for news and information!
 
-- Have a look at the first set of [lecture notes](/catlog/notes/catlog0.pdf) for a _review of basic category theory_.
+- Have a look at the first set of [lecture notes](/catlog/notes/catlog0.pdf) for a review of basic category theory.
 <!---
  - Jan 18: Class begins! Meet on zoom for a course overview and some planning.
 - Jan 20: Meet on zoom for a review of category theory, as in the [lecture notes](/catlog/notes/catlog0.pdf).

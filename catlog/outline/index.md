@@ -1,14 +1,14 @@
 ## Outline for [Categorical Logic](/catlog/)
 ## 80-514/814
-## Spring 2022
+## Spring 2023
 
 (14 weeks) 
 
 ### Introduction
 - Logic and CT
-- Lawvere and Stone
 - Curry-Howard and Categorification
-- Higher logic and Higher algebra
+- Duality: Lawvere and Stone
+<!-- - Higher logic and Higher algebra -->
  
 ### Review of Category Theory (weeks 1-2)
 - cats, functors, natural transformations
