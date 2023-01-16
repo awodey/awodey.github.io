@@ -43,6 +43,7 @@ Course notes will be provided. The following are recommended for further reading
 - Crole, R. L.: Categories for Types. Cambridge University Press, Cambridge, 1993.
 - Lambek, J. and Scott, P.: Introduction to Higher-Order Categorical Logic. Cambridge University Press, Cambridge, 1986.
 - Mac Lane, S. and Moerdijk, I.: Sheaves in Geometry and Logic: A First Introduction to Topos Theory. Springer, 1992.
+- Steve Awodey, [Fischbachau Notes.](../fischbachau/)
 
 #### Supplemental
 
@@ -70,6 +71,8 @@ Grades will be based on 4 problem sets and a presentation in class, with a brief
 Watch this space for news and information!
 
 - Have a look at the first set of [lecture notes](/catlog/notes/catlog0.pdf) for a review of basic category theory.
+- Check out my course notes from [Fischbachau](../fischbachau/) for a bigger picture.
+
 <!---
  - Jan 18: Class begins! Meet on zoom for a course overview and some planning.
 - Jan 20: Meet on zoom for a review of category theory, as in the [lecture notes](/catlog/notes/catlog0.pdf).
