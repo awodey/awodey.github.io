@@ -3,7 +3,7 @@
 Lecture notes will accumulate here as the course proceeds.
 
 - [catlog0.pdf](catlog0.pdf)
-- [catlog1A.pdf](catlogIntro.pdf)
+- [catlogIntro.pdf](catlogIntro.pdf)
 - [catlog1A.pdf](catlog1A.pdf)
 <!--
 - [catlog1.pdf](catlog1.pdf)
