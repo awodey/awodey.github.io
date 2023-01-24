@@ -70,14 +70,12 @@ Grades will be based on 4 problem sets and a presentation in class, with a brief
 ### Updates
 Watch this space for news and information!
 
+- We're also using the [course zulip](https://baker.hott.dev/#narrow/stream/31-Categorical-Logic) for announcements and discussion.
 - Have a look at the first set of [lecture notes](/catlog/notes/catlog0.pdf) for a review of basic category theory.
-- Check out my course notes from [Fischbachau](../fischbachau/) for a bigger picture.
-
+- Also check out the course notes from [Fischbachau](../fischbachau/) for a bigger picture.
+- The next set of [lecture notes](/catlog/notes/catlogIntro.pdf) is available. It's a brief introduction.
+- The [lecture notes](/catlog/notes/catlog1A.pdf)for the first half of Chapter 1 on Algebraic Theories are available. 
 <!---
- - Jan 18: Class begins! Meet on zoom for a course overview and some planning.
-- Jan 20: Meet on zoom for a review of category theory, as in the [lecture notes](/catlog/notes/catlog0.pdf).
-- There is a [course zulip](https://baker.hott.dev/#narrow/stream/31-Categorical-Logic) for announcements and discussion.
-- Posted the first half of the notes on [algebraic theories](/catlog/notes/catlog1A.pdf) for those who want to work ahead.
 - Added a [course outline](./outline/).
 - The notes on [algebraic theories](/catlog/notes/catlog1.pdf) are now complete.
 - The first half of the notes on [propositional logic](/catlog/notes/catlog2A.pdf) are now online.
