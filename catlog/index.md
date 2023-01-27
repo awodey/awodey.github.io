@@ -75,6 +75,8 @@ Watch this space for news and information!
 - Also check out the course notes from [Fischbachau](../fischbachau/) for a bigger picture.
 - The next set of [lecture notes](/catlog/notes/catlogIntro.pdf) is available. It's a brief introduction.
 - The [lecture notes](/catlog/notes/catlog1A.pdf) for the first half of Chapter 1 on Algebraic Theories are available. 
+- A *DRAFT* of the [lecture notes](/catlog/notes/catlog1B.pdf) for the second half of Chapter 1 on Algebraic Theories is available. 
+- A [problem set](/catlog/hw/catloghw1.pdf) for Chapter 1 on Algebraic Theories is available. 
 <!---
 - Added a [course outline](./outline/).
 - The notes on [algebraic theories](/catlog/notes/catlog1.pdf) are now complete.
