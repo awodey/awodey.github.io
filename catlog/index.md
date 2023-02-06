@@ -77,9 +77,9 @@ Watch this space for news and information!
 - The [lecture notes](/catlog/notes/catlog1A.pdf) for the first half of Chapter 1 on Algebraic Theories are available. 
 - A *DRAFT* of the [lecture notes](/catlog/notes/catlog1B.pdf) for the second half of Chapter 1 on Algebraic Theories is available. 
 - A [problem set](/catlog/hw/catloghw1.pdf) for Chapter 1 on Algebraic Theories is available. 
-<!---
 - Added a [course outline](./outline/).
-- The notes on [algebraic theories](/catlog/notes/catlog1.pdf) are now complete.
+- The notes for Chapter 1 on [algebraic theories](/catlog/notes/catlog1.pdf) are now (as) complete (as they're going to get).
+<!---
 - The first half of the notes on [propositional logic](/catlog/notes/catlog2A.pdf) are now online.
 - No class on Tuesday, March 15. Your assignment instead is to watch my tutorial on polynomial functors (both lectures), either live or the recording, in the [Topos Institute Polynomial Workshop](https://topos.site/p-func-workshop).
 - The notes on [propositional logic](/catlog/notes/catlog2.pdf) are now complete.
