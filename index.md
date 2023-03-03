@@ -282,6 +282,7 @@ CMU, Philosophy, 2001.
 
 ## Links
 	
+- [Homotopy Type Theory 2023](https://hott.github.io/HoTT-2023)
 - [nLab](https://ncatlab.org/nlab/show/HomePage)
 - [Homotopy Type Theory](http://homotopytypetheory.org)
 - [Pure and Applied Logic](http://logic.cmu.edu)
