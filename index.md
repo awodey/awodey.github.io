@@ -67,7 +67,6 @@ Notes from a talk at IAS in December 2010.
 ## Preprints
 
 - Cartesian cubical model categories, May 2023. [preprint](/papers/ccmc.pdf)
-- On Hofmann-Streicher universes. S. Awodey, May 2022. [arXiv:2205.10917](https://arxiv.org/abs/2205.10917)
 
 - Kripke-Joyal forcing for type theory and uniform fibrations.  
 	S. Awodey, N. Gambino, S. Hazratpour, October 2021. 
@@ -75,7 +74,9 @@ Notes from a talk at IAS in December 2010.
 
 <details open>
 <summary>more...</summary>
-	
+
+- On Hofmann-Streicher universes. S. Awodey, May 2022. [arXiv:2205.10917](https://arxiv.org/abs/2205.10917)
+
 - Polynomial pseudomonads and dependent type theory. S.  Awodey, C. Newstead, February 2018. 
 	[arXiv:1802.00997](https://arxiv.org/abs/1802.00997)
 
