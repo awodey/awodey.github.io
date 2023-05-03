@@ -66,6 +66,7 @@ Notes from a talk at IAS in December 2010.
 
 ## Preprints
 
+- Cartesian cubical model categories, May 2023. [preprint](/papers/ccmc.pdf)
 - On Hofmann-Streicher universes. S. Awodey, May 2022. [arXiv:2205.10917](https://arxiv.org/abs/2205.10917)
 
 - Kripke-Joyal forcing for type theory and uniform fibrations.  
