@@ -29,12 +29,16 @@
 
 ## Lectures	
 
-- [The isotropy group of a first-order theory](/talks/Octoberfest2022.pdf) Slides from a talk at the special session in memory Pieter Hofstra at the 2022 _Category Theory Octoberfest_.
-	
-- [Kripke-Joyal forcing for Martin-Löf type theory](/talks/ASL_KJ.pdf) Slides from a talk at the special session on Homotopy Type Theory at the _ASL annual meeting_, held at Cornell University in April 2022.
+- [Cartesian cubical model categories](/talks/CT2023.pdf) Slides from a talk at the conference _Category Theory 2023 _.
+
+- [Algebraic type theory](/talks/HoTT2023.pdf) Slides from a talk at the conference _Homotopy Type Theory 2023 _.
 
 <details open>
 <summary>more...</summary>
+
+- [The isotropy group of a first-order theory](/talks/Octoberfest2022.pdf) Slides from a talk at the special session in memory Pieter Hofstra at the 2022 _Category Theory Octoberfest_.
+
+- [Kripke-Joyal forcing for Martin-Löf type theory](/talks/ASL_KJ.pdf) Slides from a talk at the special session on Homotopy Type Theory at the _ASL annual meeting_, held at Cornell University in April 2022.
 
 - [Polynomial functors and type theory.](https://www.cmu.edu/dietrich/philosophy/hott/slides/polytutorial.pdf)
 Slides from a tutorial at the _2022 Workshop on Polynomial Functors_, held online at the Topos Institute in March 2022.
