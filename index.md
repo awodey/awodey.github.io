@@ -29,9 +29,9 @@
 
 ## Lectures	
 
-- [Cartesian cubical model categories](/talks/CT2023.pdf) Slides from a talk at the conference _Category Theory 2023 _.
+- [Cartesian cubical model categories](/talks/CT2023.pdf) Slides from a talk at the conference _Category Theory 2023_.
 
-- [Algebraic type theory](/talks/HoTT2023.pdf) Slides from a talk at the conference _Homotopy Type Theory 2023 _.
+- [Algebraic type theory](/talks/HoTT2023.pdf) Slides from a talk at the conference _Homotopy Type Theory 2023_.
 
 <details open>
 <summary>more...</summary>
