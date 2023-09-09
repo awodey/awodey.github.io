@@ -29,6 +29,8 @@
 
 ## Lectures	
 
+- [Homotopy type theory](/talks/cmu.pdf) Slides from a talk for the _CMU Philosophy Department Colloquium_ in September 2023.
+
 - [Cartesian cubical model categories](/talks/CT2023.pdf) Slides from a talk at the conference _Category Theory 2023_.
 
 - [Algebraic type theory](/talks/HoTT2023.pdf) Slides from a talk at the conference _Homotopy Type Theory 2023_.
