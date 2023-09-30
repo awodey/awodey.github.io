@@ -226,6 +226,10 @@ Mathematica_ (3), vol. 4 (1996), pp. 209--237.
 <hr>
 
 ## Students
+
+- Colin Zwanziger, The Natural Display Topos of Coalgebras, 
+CMU, Philosophy, 2023. 
+[pdf](http://www.andrew.cmu.edu/user/awodey/students/ZwanzigerThesis.pdf)
 	
 - Clive Newstead, Algebraic models of dependent type theory, 
 CMU, Mathematics, 2018. 
