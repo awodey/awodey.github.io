@@ -67,7 +67,7 @@
     - Domain-theoretic model of the untyped lambda-calculus
     - Monoidal closed categories and a type theory for linear logic
  
-### Type Theory (weeks 10-11)
+### Type Theory (weeks 10-12)
 - Dependent types, Sigma, Pi, and Equality types, examples
 - Locally cartesian closed categories
     - Presheaves
@@ -84,7 +84,6 @@
      - Impredicativity, realizability models
      - Homotopy type theory
   
-### Student presentations (weeks 12-14)
-- 2 presentations/class meeting
-- leaves 1 weeks for further topics and overruns
+### Student Presentations (weeks 13-14)
+- 2/class meeting = 8 presentations
 
