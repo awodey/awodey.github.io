@@ -13,7 +13,7 @@
 
 
 ### Overview
-This course focuses on the application of category theory in logic. 
+This course focuses on applications of category theory to logic. 
 A leading idea is functorial semantics, according to which a model
 of a logical theory is a (set-valued) functor on a structured category representing
 by the theory. This gives rise to a syntax-invariant notion of a logical theory
