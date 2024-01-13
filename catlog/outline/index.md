@@ -6,7 +6,7 @@
 
 ### Introduction
 - Logic and CT
-- Curry-Howard and Categorification
+- Curry-Howard and categorification
 - Duality: Lawvere and Stone
 <!-- - Higher logic and Higher algebra
  -->
@@ -25,7 +25,7 @@
 - Summary of functorial semantics for algebraic theories
 - Completeness
 - Topics: 
-  	- Proof of duality in Lawvere, Adamek, Risicky
+  	- Proof of duality in Lawvere, Adamek, Rosicky
   	- Examples: commutative rings, distributive lattices, semilattices
 	- Gabriel-Ulmer duality
 
@@ -55,7 +55,7 @@
     - Kripke semantics
     - Completeness for intuitionistic first-order logic
 
-### The lambda-calculus (weeks 8-9)
+### The Lambda-Calculus (weeks 8-9)
 - Curry-Howard: proof theory of IPC gives the lambda-calculus
 - Lambda theories and their models in CCCs
 - Classifying category, functorial semantics
@@ -67,7 +67,7 @@
     - Domain-theoretic model of the untyped lambda-calculus
     - Monoidal closed categories and a type theory for linear logic
  
-### Type theory (weeks 10-11)
+### Type Theory (weeks 10-11)
 - Dependent types, Sigma, Pi, and Equality types, examples
 - Locally cartesian closed categories
     - Presheaves
