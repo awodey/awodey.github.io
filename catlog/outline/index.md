@@ -2,7 +2,7 @@
 ## 80-514/814
 ## Spring 2024
 
-(13 weeks) 
+(14 weeks) 
 
 ### Introduction
 - Logic and CT
@@ -10,28 +10,28 @@
 - Duality: Lawvere and Stone
 <!-- - Higher logic and Higher algebra
 
- 
-### Review of Category Theory (weeks 1-2)
-- cats, functors, natural transformations
-- representables, presheaves, Yoneda
+### Review of Category Theory (week 1)
+- categories, functors, natural transformations
+- representables, presheaves, Yoneda's lemma
 - limits and colimits
 - adjoints and monads
   
-### Algebraic Theories (weeks 3-4)
+### Algebraic Theories (weeks 2-3)
 - Equational theories and varieties of algebras
 - Classifying category and universal model
-- The Representation Theorem
-- Lawvere Duality
+- The representation theorem
+- Lawvere duality
 - Summary of functorial semantics for algebraic theories
 - Completeness
 - Topics: 
   	- Proof of duality in Lawvere, Adamek, Risicky
-  	- Gabriel-Ulmer duality
+  	- Examples: commutative rings, distributive lattices, semilattices
+	- Gabriel-Ulmer duality
 
-### Propositional Logic (weeks 5-6)
+### Propositional Logic (weeks 4-5)
 - Sketch of classical propositional logic: 
 		syntax, deduction, valuations, soundness and completeness
-- Boolean algebra, completeness of alegebraic logic
+- Boolean algebra, completeness of alegbraic logic
 - Stone's representation theorem
 - Stone duality
 - Summary of functorial semantics for propositional logic
@@ -44,8 +44,17 @@
     - Frames, locales, spaces
    	- S4 modal logic and topological models
     - Bi-Heyting logic and presheaf models
+    
+ ### First-Order Logic (week 6-7)
+- Hyperdoctrines
+- Adding the quantifiers: syntax, deduction
+- Lex/Regular/Heyting categories
+- Summary of functorial semantics for first-order logic
+- Topics: 
+    - Kripke semantics
+    - Completeness for intuitionistic first-order logic
 
-### The lambda-calculus (weeks 7-8)
+### The lambda-calculus (weeks 8-9)
 - Curry-Howard: proof theory of IPC gives the lambda-calculus
 - Lambda theories and their models in CCCs
 - Classifying category, functorial semantics
@@ -57,29 +66,24 @@
     - Domain-theoretic model of the untyped lambda-calculus
     - Monoidal closed categories and a type theory for linear logic
  
-### Type theory (weeks 9-10)
+### Type theory (weeks 10-11)
 - Dependent types, Sigma, Pi, and Equality types, examples
 - Locally cartesian closed categories
     - Presheaves
     - Local homeomorphisms
-    - Equilogical spaces
     - H-sets
-- Completeness of DTT in LCCCs, Kripke, Topological
-- Endofunctors, initial algebras, final coalgebras
 - Topics: 
-    - Propositions as types
-    - Coherence, Natural models
-    - W-types
-    - Coinduction
-    - Initial algebras and final coalgebras for various endofunctors
- 	- Induction vs. recursion w/eta
-    - Algebras for a monad and computational effects (Moggi)
-	- Bracket types
-    - Identity types
-    - Universes: Prop, Set, Type, ... 
-    - Impredicativity, topos and realizability models
+     - Equilogical spaces
+     - Completeness in LCCCs, Kripke, Topological
+     - Coherence, Natural models
+     - W-types: Endofunctors, initial algebras, final coalgebras
+     - Coinduction
+     - Identity types
+     - Universes: Prop, Set, Type, ...
+     - Impredicativity, realizability models
+     - Homotopy type theory
   
-### Student presentations (weeks 11-12)
-- 2 presentations/class meeting = 8 talks
-- leaves 2 weeks for further topics and overruns
+### Student presentations (weeks 12-14)
+- 2 presentations/class meeting
+- leaves 1 weeks for further topics and overruns
  -->
