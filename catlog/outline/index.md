@@ -1,14 +1,15 @@
 ## Outline for [Categorical Logic](/catlog/)
 ## 80-514/814
-## Spring 2023
+## Spring 2024
 
-(14 weeks) 
+(13 weeks) 
 
 ### Introduction
 - Logic and CT
 - Curry-Howard and Categorification
 - Duality: Lawvere and Stone
-<!-- - Higher logic and Higher algebra -->
+<!-- - Higher logic and Higher algebra
+
  
 ### Review of Category Theory (weeks 1-2)
 - cats, functors, natural transformations
@@ -81,3 +82,4 @@
 ### Student presentations (weeks 11-12)
 - 2 presentations/class meeting = 8 talks
 - leaves 2 weeks for further topics and overruns
+ -->

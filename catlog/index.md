@@ -1,6 +1,6 @@
 # Categorical Logic
 ## 80-514/814
-## Spring 2023
+## Spring 2024
 
 ### Course information
 
@@ -13,13 +13,14 @@
 
 
 ### Overview
-This course focuses on applications of category theory in logic. 
+This course focuses on the application of category theory in logic. 
 A leading idea is functorial semantics, according to which a model
-of a logical theory is a set-valued functor on a structured category representing
+of a logical theory is a (set-valued) functor on a structured category representing
 by the theory. This gives rise to a syntax-invariant notion of a logical theory
-and introduces many algebraic methods into logic, and leads naturally to
+and introduces many algebraic methods into logic,  leading naturally to
 the universal and other general models that distinguish functorial from
-classical semantics.  The lambda-calculus, for example, is treated via cartesian closed categories. Algebraic theories are represented by categories with finite products, following Lawvere.  And higher-order logic is modelled by the categorical notion of a topos.  Using sheaves, topos theory subsumes Kripke semantics for modal and intuitionistic logics. And locally cartesian closed categories provide semantics for dependent type theories.  Time permitting, we may consider Martin-L"of type theory and its recent extension to Homotopy type theory.
+classical semantics.  
+The lambda-calculus, for example, is treated via cartesian closed categories. Algebraic theories are represented by categories with finite products, following Lawvere.  Hyperdoctrines are used to model first- and higher-order logics, leading to the categorical notion of a topos.  Using sheaves, topos theory also subsumes Kripke semantics for modal and intuitionistic logics. And locally cartesian closed categories provide semantics for dependent type theories.  Time permitting, we may also consider Martin-L"of type theory and its recent extension to Homotopy type theory.
 
 ### Prerequisites
 80-413/713 Category Theory or equivalent.
@@ -27,11 +28,11 @@ classical semantics.  The lambda-calculus, for example, is treated via cartesian
 ### Topics
 
 - Functorial semantics for algebraic theories
-- Functorial semantics for propositional and elementary logic
+- Functorial semantics for propositional and first-order logic
 - Simple type theory and cartesian closed categories
+- Dependent type theory and locally cartesian closed categories
 - Higher-order logic and basic topos theory
 - Sheaf semantics and Grothendieck toposes
-- Dependent type theory and locally cartesian closed categories
 - Homotopy type theory
 
 ### Texts
@@ -55,10 +56,12 @@ Course notes will be provided. The following are recommended for further reading
 - Makkai, M. and Reyes, G.: First-Order Categorical Logic. LNM 611, Springer, 1977.
 - Mac Lane, S.: Categories for the Working Mathematician. Springer, 1971. (the standard reference)
 - McLarty, C.: Elementary Categories, Elementary Toposes. Oxford Logic Guides 21, Oxford University Press, 1992.
+- Rijke, E.: Introduction to Homotopy Type Theory, Cambridge University Press (forthcoming).
+- The Univalent Foundations Program: Homotopy Type Theory: Univalent Foundations of Mathematics, Institute for Advanced Study, 2013.
 
 ### Requirements
 
-Grades will be based on 4 problem sets and a presentation in class, with a brief written report.
+Grades will be based on 4 problem sets and, for graduate students, a presentation in class with a brief written report.
 
 ### Course materials
 
@@ -68,7 +71,7 @@ Grades will be based on 4 problem sets and a presentation in class, with a brief
 
 ### Updates
 Watch this space for news and information!
-
+<!---
 - We're also using the [course zulip](https://baker.hott.dev/#narrow/stream/31-Categorical-Logic) for announcements and discussion.
 - Have a look at the first set of [lecture notes](/catlog/notes/catlog0.pdf) for a review of basic category theory.
 - Also check out the course notes from [Fischbachau](../fischbachau/) for a bigger picture.
@@ -84,7 +87,6 @@ Watch this space for news and information!
 - The third and final [problem set](/catlog/hw/catloghw3.pdf) is online.
 - The notes on [lambda-calculus](/catlog/notes/catlog3.pdf) are now complete.
 - Students lectures will be in the last 2 weeks of the semester, April 17, 19, 25, and 27.
-<!---
 - The first half of the notes on [lambda-calculus](/catlog/notes/catlog3A.pdf) are now online.
 
 
