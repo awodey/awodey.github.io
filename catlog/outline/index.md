@@ -9,6 +9,7 @@
 - Curry-Howard and Categorification
 - Duality: Lawvere and Stone
 <!-- - Higher logic and Higher algebra
+ -->
 
 ### Review of Category Theory (week 1)
 - categories, functors, natural transformations
@@ -86,4 +87,4 @@
 ### Student presentations (weeks 12-14)
 - 2 presentations/class meeting
 - leaves 1 weeks for further topics and overruns
- -->
+
