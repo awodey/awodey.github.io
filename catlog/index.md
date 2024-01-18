@@ -74,9 +74,8 @@ Watch this space for news and information!
 - We're also using the [course zulip](https://baker.hott.dev/#narrow/stream/31-Categorical-Logic) for announcements and discussion.
 - Have a look at the first set of [lecture notes](/catlog/notes/catlog0.pdf) for a brief introduction and the review of basic category theory.
 - Also check out the course notes from [Fischbachau](../fischbachau/) for a bigger picture.
+- The [lecture notes](/catlog/notes/catlog1.pdf) for (the first half of) Chapter 1 on Algebraic Theories are available. 
 <!---
-- The next set of [lecture notes](/catlog/notes/catlogIntro.pdf) is available. It's 
-- The [lecture notes](/catlog/notes/catlog1A.pdf) for the first half of Chapter 1 on Algebraic Theories are available. 
 - A *DRAFT* of the [lecture notes](/catlog/notes/catlog1B.pdf) for the second half of Chapter 1 on Algebraic Theories is available. 
 - A [problem set](/catlog/hw/catloghw1.pdf) for Chapter 1 on Algebraic Theories is available. 
 - Added a [course outline](./outline/).
