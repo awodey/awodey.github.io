@@ -2,9 +2,9 @@
  Problem sets will be posted here.
  Please turn your solutions in on paper in class.
 - [catloghw1.pdf](catloghw1.pdf)
+- [project topics](catlogtopics.pdf)
 <!--
 - [catloghw2.pdf](catloghw2.pdf)
 - [project topics](catlogtopics.pdf)
 - [catloghw3.pdf](catloghw3.pdf)
-- [project topics](catlogtopics.pdf)
 -->
