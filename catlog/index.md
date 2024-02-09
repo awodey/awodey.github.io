@@ -76,6 +76,9 @@ Watch this space for news and information!
 - Also check out the course notes from [Fischbachau](../fischbachau/) for a bigger picture.
 - The [lecture notes](/catlog/notes/catlog1.pdf) for (the first half of) Chapter 1 on Algebraic Theories are available.  
 - A [problem set](/catlog/hw/catloghw1.pdf) for Chapter 1 on Algebraic Theories is available. 
+- The [lecture notes](/catlog/notes/catlog1.pdf) for Chapter 1 on Algebraic Theories are now complete. 
+- Some possible grad student topics are being compiled [here](/catlog/hw/).    
+- The first problem set is due on Tuesday 13 February, in class.
 <!---
 - The notes for Chapter 1 on [algebraic theories](/catlog/notes/catlog1.pdf) are now (as) complete (as they're going to get).
 - The first half of the notes on [propositional logic](/catlog/notes/catlog2A.pdf) are now online.
@@ -86,6 +89,7 @@ Watch this space for news and information!
 - Students lectures will be in the last 2 weeks of the semester, April 17, 19, 25, and 27.
 - The first half of the notes on [lambda-calculus](/catlog/notes/catlog3A.pdf) are now online.
 
+https://awodey.github.io/catlog/hw/
 
 -->
 
