@@ -227,13 +227,17 @@ Mathematica_ (3), vol. 4 (1996), pp. 209--237.
 
 ## Students
 
-- Colin Zwanziger, The Natural Display Topos of Coalgebras, 
+- Colin Zwanziger, The natural display topos of coalgebras, 
 CMU, Philosophy, 2023. 
 [pdf](http://www.andrew.cmu.edu/user/awodey/students/ZwanzigerThesis.pdf)
 	
 - Clive Newstead, Algebraic models of dependent type theory, 
 CMU, Mathematics, 2018. 
 [pdf](http://www.andrew.cmu.edu/user/awodey/students/NewsteadThesis.pdf)
+
+- Floris van Doorn, On the formalization of higher inductive types and synthetic homotopy theory,
+CMU, Pure and Applied Logic, 2018.
+[pdf](https://arxiv.org/pdf/1808.10690.pdf)
 
 - Egbert Rijke, Classifying Types: Topics in synthetic homotopy theory, 
 CMU, Pure and Applied Logic, 2018.
