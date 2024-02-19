@@ -79,8 +79,8 @@ Watch this space for news and information!
 - The [lecture notes](/catlog/notes/catlog1.pdf) for Chapter 1 on Algebraic Theories are now complete. 
 - Some possible grad student topics are being compiled [here](/catlog/hw/).    
 - The first problem set is due on Tuesday 13 February, in class.
+- A [problem set](/catlog/hw/catloghw2.pdf) for Chapter 2 on Propositional Logic is available.
 <!---
-- The notes for Chapter 1 on [algebraic theories](/catlog/notes/catlog1.pdf) are now (as) complete (as they're going to get).
 - The first half of the notes on [propositional logic](/catlog/notes/catlog2A.pdf) are now online.
 - A [problem set](/catlog/hw/catloghw2.pdf) for Chapter 2 on Propositional Logic is available. 
 - The notes on [propositional logic](/catlog/notes/catlog2.pdf) are now complete.
