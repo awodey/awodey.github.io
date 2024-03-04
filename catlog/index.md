@@ -80,10 +80,9 @@ Watch this space for news and information!
 - Some possible grad student topics are being compiled [here](/catlog/hw/).    
 - The first problem set is due on Tuesday 13 February, in class.
 - A [problem set](/catlog/hw/catloghw2.pdf) for Chapter 2 on Propositional Logic is available.
-<!---
-- The first half of the notes on [propositional logic](/catlog/notes/catlog2A.pdf) are now online.
-- A [problem set](/catlog/hw/catloghw2.pdf) for Chapter 2 on Propositional Logic is available. 
 - The notes on [propositional logic](/catlog/notes/catlog2.pdf) are now complete.
+- The second problem set is due in class on Tuesday 12 March.
+<!---
 - The third and final [problem set](/catlog/hw/catloghw3.pdf) is online.
 - The notes on [lambda-calculus](/catlog/notes/catlog3.pdf) are now complete.
 - Students lectures will be in the last 2 weeks of the semester, April 17, 19, 25, and 27.
