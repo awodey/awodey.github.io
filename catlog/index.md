@@ -82,6 +82,7 @@ Watch this space for news and information!
 - A [problem set](/catlog/hw/catloghw2.pdf) for Chapter 2 on Propositional Logic is available.
 - The notes on [propositional logic](/catlog/notes/catlog2.pdf) are now complete.
 - The second problem set is due in class on Tuesday 12 March.
+- The first section of the notes on [first-order logic](/catlog/notes/catlog3A.pdf) are now online.
 <!---
 - The third and final [problem set](/catlog/hw/catloghw3.pdf) is online.
 - The notes on [lambda-calculus](/catlog/notes/catlog3.pdf) are now complete.
