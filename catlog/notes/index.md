@@ -8,6 +8,7 @@ Lecture notes will accumulate here as the course proceeds.
 - [catlog3A.pdf](catlog3A.pdf)
 - [catlog3B.pdf](catlog3B.pdf)
 - [catlog3C.pdf](catlog3C.pdf)
+
 <!--
 - [catlog3.pdf](catlog3.pdf)
 - [catlog2A.pdf](catlog2A.pdf)
