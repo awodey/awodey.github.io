@@ -86,6 +86,7 @@ Watch this space for news and information!
 - The third problem set is due in class on Tuesday 9 April.
 - The notes on [first-order logic](/catlog/notes/catlog3.pdf) are now complete.
 - Students lectures will be in the last week of the semester, April 23 and 25.
+- The notes on [first-order logic](/catlog/notes/catlog3.pdf) now include a final section on hyperdoctrines.
 
 <!---
 - The third and final [problem set](/catlog/hw/catloghw3.pdf) is online.
