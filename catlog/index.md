@@ -85,16 +85,13 @@ Watch this space for news and information!
 - The first section of the notes on [first-order logic](/catlog/notes/catlog3A.pdf) are now online.
 - The third problem set is due in class on Tuesday 9 April.
 - The notes on [first-order logic](/catlog/notes/catlog3.pdf) are now complete.
-- Students lectures will be in the last week of the semester, April 23 and 25.
+- Student lectures will be in the last week of the semester, April 23 and 25.
 - The notes on [first-order logic](/catlog/notes/catlog3.pdf) now include a final section on hyperdoctrines.
+- The first half of the notes on [simple type theory](/catlog/notes/catlog4A.pdf) are now online.
 
 <!---
 - The third and final [problem set](/catlog/hw/catloghw3.pdf) is online.
-- The notes on [lambda-calculus](/catlog/notes/catlog3.pdf) are now complete.
 - Students lectures will be in the last 2 weeks of the semester, April 17, 19, 25, and 27.
-- The first half of the notes on [lambda-calculus](/catlog/notes/catlog3A.pdf) are now online.
-
-https://awodey.github.io/catlog/hw/
 
 -->
 
