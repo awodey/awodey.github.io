@@ -6,7 +6,7 @@ Lecture notes will accumulate here as the course proceeds.
 - [catlog1.pdf](catlog1.pdf)
 - [catlog2.pdf](catlog2.pdf)
 - [catlog3.pdf](catlog3.pdf)
-- [catlog4A.pdf](catlog4.pdf)
+- [catlog4.pdf](catlog4.pdf)
 
 <!--
 - [catlog3B.pdf](catlog3B.pdf)
