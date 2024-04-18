@@ -88,6 +88,7 @@ Watch this space for news and information!
 - Student lectures will be in the last week of the semester, April 23 and 25.
 - The notes on [first-order logic](/catlog/notes/catlog3.pdf) now include a final section on hyperdoctrines.
 - The first half of the notes on [simple type theory](/catlog/notes/catlog4A.pdf) are now online.
+- The notes on [type theory](/catlog/notes/catlog4.pdf) are now complete, including a section on dependent types, and are available online.
 
 <!---
 - The third and final [problem set](/catlog/hw/catloghw3.pdf) is online.
