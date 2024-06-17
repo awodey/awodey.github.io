@@ -33,7 +33,7 @@
 
 - [Cartesian cubical model categories](/talks/CT2023.pdf) Slides from a talk at the conference _Category Theory 2023_.
 
-- [Algebraic type theory](/talks/HoTT2023.pdf) Slides from a talk at the conference _Homotopy Type Theory 2023_.
+- [Algebraic type theory](/talks/ATT.pdf) Slides from a talk at the conference _Interactions of Proof Assistants and Mathematics, Regensburg, September 2023_.
 
 <details open>
 <summary>more...</summary>
