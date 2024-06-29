@@ -29,11 +29,11 @@
 
 ## Lectures	
 
+- [Algebraic type theory](/talks/ATT_CT2024.pdf) Slides from a talk at the conference _Category Theory 2024_.
+
 - [Homotopy type theory](/talks/cmu.pdf) Slides from a talk for the _CMU Philosophy Department Colloquium_ in September 2023.
 
 - [Cartesian cubical model categories](/talks/CT2023.pdf) Slides from a talk at the conference _Category Theory 2023_.
-
-- [Algebraic type theory](/talks/ATT.pdf) Slides from a talk at the conference _Interactions of Proof Assistants and Mathematics, Regensburg, September 2023_.
 
 <details open>
 <summary>more...</summary>
