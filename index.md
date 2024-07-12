@@ -72,19 +72,16 @@ Notes from a talk at IAS in December 2010.
 
 ## Preprints
 
+- The equivariant model structure on cartesian cubical sets, Steve Awodey, Evan Cavallo, Thierry Coquand, Emily Riehl, Christian Sattler, June 2024. [arXiv:2406.18497](https://arxiv.org/pdf/2406.18497.pdf)
+
 - On Hofmann-Streicher universes. S. Awodey, July 2023. [arXiv:2205.10917](https://arxiv.org/pdf/2205.10917.pdf)
 
 - Cartesian cubical model categories, May 2023. arXiv:2305.00893, [preprint](/papers/ccmc.pdf)
 
-- Kripke-Joyal forcing for type theory and uniform fibrations.  
-	S. Awodey, N. Gambino, S. Hazratpour, October 2021. 
-	[arxiv2110.14576](https://arxiv.org/abs/2110.14576)
-
 <details open>
 <summary>more...</summary>
 
-- Polynomial pseudomonads and dependent type theory. S.  Awodey, C. Newstead, February 2018. 
-	[arXiv:1802.00997](https://arxiv.org/abs/1802.00997)
+- Polynomial pseudomonads and dependent type theory. S.  Awodey, C. Newstead, February 2018. [arXiv:1802.00997](https://arxiv.org/abs/1802.00997)
 
 - A proposition is the (homotopy) type of its proofs. January 2016. 
 	[arXiv:1701.02024](https://arxiv.org/abs/1701.02024)
@@ -100,6 +97,10 @@ Notes from a talk at IAS in December 2010.
 <hr>
 
 ## Publications
+
+- Kripke-Joyal forcing for type theory and uniform fibrations.  
+	S. Awodey, N. Gambino, S. Hazratpour, Selecta Mathematica, July 2024. 
+	[arxiv2110.14576](https://arxiv.org/abs/2110.14576)
 
 - Sheaf representations and duality in logic. In Claudia Casadio & Philip J. Scott (eds.), Joachim Lambek: The Interplay of Mathematics, Logic, and Linguistics. Springer Verlag. pp. 39-57 (2021)
 	[arXiv:2001.09195](https://arxiv.org/abs/2001.09195)
