@@ -31,12 +31,14 @@
 
 - [Algebraic type theory](/talks/ATT_CT2024.pdf) Slides from a talk at the conference _Category Theory 2024_.
 
-- [Homotopy type theory](/talks/AwodeyHIM2024.pdf) Slides from a talk for the Hausdorff Institute for Mathematics program _Prospects of Formal Mathematics_ in May 2024.
+- [What is HoTT?](/talks/AwodeyHIM2024.pdf) Slides from a talk for the Hausdorff Institute for Mathematics program _Prospects of Formal Mathematics_ in May 2024.
 
 - [Cartesian cubical model categories](/talks/CT2023.pdf) Slides from a talk at the conference _Category Theory 2023_.
 
 <details open>
 <summary>more...</summary>
+
+- [Homotopy type theory](/talks/cmu.pdf) Slides from a talk for the _CMU Philosophy Department Colloquium_ in September 2023.
 
 - [The isotropy group of a first-order theory](/talks/Octoberfest2022.pdf) Slides from a talk at the special session in memory Pieter Hofstra at the 2022 _Category Theory Octoberfest_.
 
