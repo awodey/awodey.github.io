@@ -85,9 +85,6 @@ Notes from a talk at IAS in December 2010.
 
 - Polynomial pseudomonads and dependent type theory. S.  Awodey, C. Newstead, February 2018. [arXiv:1802.00997](https://arxiv.org/abs/1802.00997)
 
-- A proposition is the (homotopy) type of its proofs. January 2016. 
-	[arXiv:1701.02024](https://arxiv.org/abs/1701.02024)
-	
 - Homotopy and type theory (Project description). October 2009.
 	[Unpublished grant proposal](/papers/proposal2009.pdf)
 
@@ -110,6 +107,8 @@ Notes from a talk at IAS in December 2010.
 <details open>
 <summary>more...</summary>
 
+- A proposition is the (homotopy) type of its proofs. January 2016.  In: Erich H. Reck, ed. Logic, Philosophy of Mathematics, and their History: Essays in Honor of W.W. Tait. London: College Publications, 2018. [arXiv:1701.02024](https://arxiv.org/abs/1701.02024)
+	
 - Impredicative encodings of (higher) inductive types. S. Awodey, J. Frey, S. Speight, _Logic in Computer Science_ (LICS 2018). [arXiv:1802.02820](https://arxiv.org/abs/1802.02820)
 
 - Univalence as a principle of logic. _Indagationes Mathematicae_: Special Issue L.E.J. Brouwer, 50 years later, 
@@ -119,7 +118,8 @@ Notes from a talk at IAS in December 2010.
 - A cubical model of homotopy type theory. _Annals of Pure and Applied Logic_, 2018. 
 	[arXiv:1607.06413](https://arxiv.org/abs/1607.06413)
 
-- Homotopy-initial algebras in type theory. S. Awodey, N. Gambino, K. Sojakova, _Journal of the Association for Computing Machinery_, 2017. 			[arXiv:1504.05531](https://arxiv.org/abs/1504.05531)
+- Homotopy-initial algebras in type theory. S. Awodey, N. Gambino, K. Sojakova, _Journal of the Association for Computing Machinery_, 2017. 
+[arXiv:1504.05531](https://arxiv.org/abs/1504.05531)
 	
 - Natural models of homotopy type theory. _Mathematical Structures in Computer Science_, December 2016. 
 	[arXiv:1406.3219](https://arxiv.org/abs/1406.3219)
