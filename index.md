@@ -293,7 +293,8 @@ CMU, Philosophy, 2001.
 ## Courses
 	
 - [Category Theory](http://www.andrew.cmu.edu/course/80-413-713/)
-- [Categorical Logic](https://www.andrew.cmu.edu/user/awodey/catlog/)
+- [Categorical Logic](http://www.andrew.cmu.edu/user/awodey/catlog/)
+- [Topics in Logic: Type Theory](/typetheory)
 - [Formal Logic](http://www.andrew.cmu.edu/course/80-310-610/)
 - [Logic and Proof (Fischbachau Herbstschule)](/fischbachau)
 
