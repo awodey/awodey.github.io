@@ -80,12 +80,12 @@
 	- The slice lemma
 - Locally cartesian closed categories
     - H-sets
-	- Presheaves
+    - Presheaves
     - Local homeomorphisms
  - Completeness in LCCCs
     - Kripke semantics
-	- Topological semantics 
-	- Kripke-Joyal forcing
+    - Topological semantics 
+    - Kripke-Joyal forcing
 - W-types
 	- Polynomial endofunctors
 	- Initial algebras

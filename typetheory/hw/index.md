@@ -1,6 +1,6 @@
 ## Problem sets for [Type Theory](/typetheory/)
  Problem sets will be posted here.
- Please turn your solutions on paper in class.
+ Please turn in your solutions in class, on paper.
 <!--
 - [catloghw1.pdf](catloghw1.pdf)
 - [project topics](catlogtopics.pdf)
