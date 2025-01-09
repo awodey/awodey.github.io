@@ -16,13 +16,15 @@
 This course focuses on type theory as a formal system, 
 as well as its functorial semantics using category theory. 
 Emphasis will be on soundness, completeness, and representation 
-theorems for various systems, with respect to topological and 
-(pre)sheaf models. The lambda-calculus, for example, is modeled by cartesian closed categories, 
+theorems for various systems, with respect to topological, realizability, and 
+(pre)sheaf models. 
+
+The lambda-calculus, for example, is modeled by cartesian closed categories, 
 which can be represented both topologically and using presheaves (''Kripke models''). 
 Locally cartesian closed categories model dependent type theories.  
-These can be strictified using hyperdoctrines, fibrations, 
-and other tools. We shall also consider Martin-L"of type theory, universes, inductive types, intensional identity types, 
-and Homotopy type theory.
+These can be strictified using hyperdoctrines, fibrations, and other tools.  
+We shall also consider Martin-L"of type theory, including universes, inductive types, intensional identity types, 
+as well as Homotopy type theory.
 
 ### Prerequisites
 80-413/713 Category Theory,  80-514/814 Categorical Logic, or equivalent.
@@ -31,12 +33,12 @@ and Homotopy type theory.
 
 - Simple type theory and cartesian closed categories
 - Dependent type theory and locally cartesian closed categories
-- Topological, Kripke, and algebraic semantics
+- Topological, realizability, Kripke, and algebraic semantics
+- Kripke-Joyal forcing
 - Martin-L"of type theory
 - Homotopy type theory
 
 ### Texts
-
 
 Course notes will be provided. The following are recommended for further reading. 
 

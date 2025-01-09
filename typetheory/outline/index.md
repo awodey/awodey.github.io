@@ -4,10 +4,11 @@
 
 (14 weeks) 
 
-### Introduction
+### Introduction (week 1)
+
 - Logic, Type Theory, and Category Theory
-- Curry-Howard and categorification
-- Soundness, completeness, and  representation theorems
+- Curry-Howard, proof relevance, categorification
+- Soundness, completeness, and representation theorems
 <!-- 
 - Duality: Lawvere and Stone
 - Higher logic and Higher algebra
@@ -60,38 +61,56 @@
 
 -->
 
-### Simply Typed Lambda-Calculus (weeks 1-3)
-- Curry-Howard: proof theory of IPC gives the lambda-calculus
+### 1. Simply Typed Lambda-Calculus (weeks 2-5)
+
 - Lambda theories and their models in CCCs
 - Classifying category, functorial semantics
-- Kripke models: on a poset, on a CCC
-- Completeness: Yoneda preserves exponentials, completeness in presheaves
+- Completeness in CCCs
+- Poset and Kripke semantics
 - Topics: 
     - Topological models, spaces and local homeomorphisms.
-    - H-Sets, Sheaves, ...
-    - Domain-theoretic model of the untyped lambda-calculus
-    - Monoidal closed categories and a type theory for linear logic
+    - H-Sets, Sheaves, Realizability
+    - Domain-theoretic models
+	- The untyped lambda-calculus
+    - Monoidal closed categories and linear type theory
  
-### Dependent Type Theory (weeks 4-7)
-- Dependent types, Sigma, Pi, and Equality types, examples
+### 2. Dependent Type Theory (weeks 6-9)
+
+- Dependent types, Sigma, Pi, and Equality types
+	- The slice lemma
 - Locally cartesian closed categories
-    - Presheaves
-    - Local homeomorphisms
     - H-sets
-- Topics: 
-     - Equilogical spaces
-     - Completeness in LCCCs, Kripke, Topological
-     - Coherence, Natural models
-     - W-types: Endofunctors, initial algebras, final coalgebras
-     - Coinduction
-     - Identity types
-     - Universes: Prop, Set, Type, ...
-     - Impredicativity, realizability models
- 
- ### Homotopy Type Theory (weeks 8-12)
-- Dependent types, Sigma, Pi, and Equality types, examples
-- Locally cartesian closed categories
+	- Presheaves
+    - Local homeomorphisms
+ - Completeness in LCCCs
+    - Kripke semantics
+	- Topological semantics 
+	- Kripke-Joyal forcing
+- W-types
+	- Polynomial endofunctors
+	- Initial algebras
+- Coherence: 
+	- CwFs, natural models
+	- Universes and the Beck-Chevalley
+ - Topics:
+ 	- Equilogical spaces
+ 	- Final coalgebras and coinduction
+	- Impredicativity, realizability models
+	- CwA's, comprehension categories
+	- Setoids and quotient types 
+	
+ ### 3. Homotopy Type Theory (weeks 10-13)
+- Identity types
+- Fibrations
+- H-S universes
+- Univalence
+- The H-levels: Prop, Set, Type, ...
+- Topics:
+	- The groupoid model
+	- Algebraic weak factorization systems
+	- Homotopy-initial algebras
+	- Synthetic homotopy theory: pi_1(S^1)
   
-### Student Presentations (weeks 13-14)
-- 2/class meeting = 8 presentations
+### Student Presentations (week 14)
+- 2 talks / class meeting = 4 presentations
 
