@@ -104,7 +104,7 @@
 - Fibrations
 - H-S universes
 - Univalence
-- The H-levels: Prop, Set, Type, ...
+- The H-levels: Prop, Set, Gpd, ...
 - Topics:
 	- The groupoid model
 	- Algebraic weak factorization systems
