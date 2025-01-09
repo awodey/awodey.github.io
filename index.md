@@ -32,7 +32,7 @@
 
 - [Algebraic type theory](/talks/ATT_CT2024.pdf) Slides from a talk at the conference _Category Theory 2024_.
 
-- [What is HoTT?](/talks/AwodeyHIM2024.pdf) Slides from a talk for the Hausdorff Institute for Mathematics program _Prospects of Formal Mathematics_ in May 2024. [HIM video](https://www.mathematics.uni-bonn.de/him/video-recordings/tp_2024_02_school_video/school_on_formal_mathematics)
+- [What is HoTT?](/talks/AwodeyHIM2024.pdf) Slides from a talk for the Hausdorff Institute for Mathematics program _Prospects of Formal Mathematics_ in May 2024. [HIM video](https://www.mathematics.uni-bonn.de/him/video-recordings/tp_2024_02_school_video/school_on_formal_mathematics#speaker2)
 
 - [Cartesian cubical model categories](/talks/CT2023.pdf) Slides from a talk at the conference _Category Theory 2023_. 
 
