@@ -18,7 +18,6 @@ as well as its functorial semantics using category theory.
 Emphasis will be on soundness, completeness, and representation 
 theorems for various systems, with respect to topological, realizability, and 
 (pre)sheaf models. 
-
 The lambda-calculus, for example, is modeled by cartesian closed categories, 
 which can be represented both topologically and using presheaves (''Kripke models''). 
 Locally cartesian closed categories model dependent type theories.  
