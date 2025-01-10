@@ -36,6 +36,7 @@ Course notes will be provided. The following are recommended for further reading
 - Steve Awodey, Category Theory, 2nd edition, Oxford University Press, 2010.
 - Crole, R. L., Categories for Types. Cambridge University Press, Cambridge, 1993.
 - M. Hofmann, Syntax and Semantics of Dependent Types, Semantics and Logics of Computation, A. Pitts and P. Dybjer (ed.s), Cambridge University Press, 2009. https://www.cs.uoregon.edu/research/summerschool/summer14/rwh_notes/ssdt.pdf
+- M. Hofmann, Extensional concepts in intensional type theory (thesis). https://ncatlab.org/nlab/files/HofmannExtensionalIntensionalTypeTheory.pdf
 - Lambek, J. and Scott, P., Introduction to Higher-Order Categorical Logic. Cambridge University Press, 1986.
 - Egbert Rijke, Introduction to Homotopy Type Theory, Cambridge University Press (forthcoming).
 - The Univalent Foundations Program, Homotopy Type Theory: Univalent Foundations of Mathematics, Institute for Advanced Study, 2013. https://homotopytypetheory.org/book/
