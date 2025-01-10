@@ -38,7 +38,8 @@ Course notes will be provided. The following are recommended for further reading
 - M. Hofmann, Extensional concepts in intensional type theory (thesis). https://ncatlab.org/nlab/files/HofmannExtensionalIntensionalTypeTheory.pdf
 - Lambek, J. and Scott, P., Introduction to Higher-Order Categorical Logic. Cambridge University Press, 1986.
 - Egbert Rijke, Introduction to Homotopy Type Theory, Cambridge University Press (forthcoming).
-- The Univalent Foundations Program, Homotopy Type Theory: Univalent Foundations of Mathematics, Institute for Advanced Study, 2013. https://homotopytypetheory.org/book/
+https://arxiv.org/abs/2212.11082
+- The Univalent Foundations Program, Homotopy Type Theory: Univalent Foundations of Mathematics, Institute for Advanced Study, 2013. https://homotopytypetheory.org/book
 
 
 ### Requirements
