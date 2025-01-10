@@ -29,7 +29,7 @@ This course focuses on type theory as a formal system, as well as its functorial
 
 ### Texts
 
-Course notes will be provided. The following are recommended for further reading, in no particular order. 
+Course notes will be provided. The following are recommended for further reading. 
 
 - Carlo Angiuli and Daniel Gratzer, Principles of Dependent Type Theory. https://carloangiuli.com/courses/b619-sp24/notes.pdf
 - B.\ Ahrens, P.\ Lumsdaine, and P.\ North. Comparing semantic frameworks for dependently-sorted algebraic theories. Dec.\ 2024. https://arxiv.org/pdf/2412.19946
