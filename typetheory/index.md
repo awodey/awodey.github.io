@@ -40,7 +40,7 @@ Course notes will be provided. The following are recommended for further reading
 
 ### Requirements
 
-Grades will be based on 4 problem sets and, for graduate students, a presentation in class.
+Grades will be based on 3 problem sets and, for graduate students, a presentation in class.
 
 ### Course materials
 
