@@ -33,7 +33,6 @@ Course notes will be provided. The following are recommended for further reading
 
 - Carlo Angiuli and Daniel Gratzer, Principles of Dependent Type Theory. https://carloangiuli.com/courses/b619-sp24/notes.pdf
 - B. Ahrens, P. Lumsdaine, and P. North. Comparing semantic frameworks for dependently-sorted algebraic theories. Dec. 2024. https://arxiv.org/pdf/2412.19946
-- Steve Awodey, Category Theory, 2nd edition, Oxford University Press, 2010.
 - Crole, R. L., Categories for Types. Cambridge University Press, Cambridge, 1993.
 - M. Hofmann, Syntax and Semantics of Dependent Types, Semantics and Logics of Computation, A. Pitts and P. Dybjer (ed.s), Cambridge University Press, 2009. https://www.cs.uoregon.edu/research/summerschool/summer14/rwh_notes/ssdt.pdf
 - M. Hofmann, Extensional concepts in intensional type theory (thesis). https://ncatlab.org/nlab/files/HofmannExtensionalIntensionalTypeTheory.pdf
