@@ -1,12 +1,8 @@
 ## Lecture notes for [Type Theory](/typetheory/)
 
 Lecture notes will accumulate here as the course proceeds.
+Here is a [draft of the notes from Categorical Logic 2024](catlog2024.pdf).
 <!--
-Here is a [draft from 2024](catlogdraft.pdf).
-- [catlog0.pdf](catlogdraft.pdf)
-- [catlog1.pdf](catlog1.pdf)
-- [catlog2.pdf](catlog2.pdf)
-- [catlog3.pdf](catlog3.pdf)
-- [catlog4.pdf](catlog4.pdf)
+- [typetheory0.pdf](typetheory0.pdf)
 -->
 
