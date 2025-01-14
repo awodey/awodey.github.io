@@ -51,12 +51,13 @@ Grades will be based on 3 problem sets and, for graduate students, a presentatio
 - [Course outline](./outline/)
 - [Lecture notes](/typetheory/notes/)
 - [Problem sets](/typetheory/hw/)
+- [Course Zulip](https://baker.hott.dev/#narrow/stream/48-Type-Theory-Course)
 
 ### Updates
 Watch this space for news and information!
+- We're also using the [course zulip](https://baker.hott.dev/#narrow/stream/48-Type-Theory-Course) for announcements and discussion. Let me know if you want to be added.
+- The first set of [lecture notes](/typetheory/notes/typetheory1.pdf) are available - they also include a review of Category Theory and some other material.
 <!---
-- We're also using the [course zulip](https://baker.hott.dev/#narrow/stream/31-Categorical-Logic) for announcements and discussion.
-- Have a look at the first set of [lecture notes](/catlog/notes/catlog0.pdf) for a brief introduction and the review of basic category theory.
 - Also check out the course notes from [Fischbachau](../fischbachau/) for a bigger picture.
 - The [lecture notes](/catlog/notes/catlog1.pdf) for (the first half of) Chapter 1 on Algebraic Theories are available.  
 - A [problem set](/catlog/hw/catloghw1.pdf) for Chapter 1 on Algebraic Theories is available. 
