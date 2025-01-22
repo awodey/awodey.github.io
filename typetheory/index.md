@@ -58,6 +58,7 @@ Watch this space for news and information!
 - We're also using the [course zulip](https://baker.hott.dev/#narrow/stream/48-Type-Theory-Course) for announcements and discussion. Let me know if you want to be added.
 - The first set of [lecture notes](/typetheory/notes/typetheory1.pdf) are available - they also include a review of Category Theory and some other material.
 - the [lecture notes](/typetheory/notes/typetheory1.pdf) for the introduction have been updated.
+- the [lecture notes](/typetheory/notes/typetheory1.pdf) for the introduction are not complete.
 <!---
 - Also check out the course notes from [Fischbachau](../fischbachau/) for a bigger picture.
 - The [lecture notes](/catlog/notes/catlog1.pdf) for (the first half of) Chapter 1 on Algebraic Theories are available.  
