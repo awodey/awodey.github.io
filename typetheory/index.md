@@ -60,10 +60,11 @@ Watch this space for news and information!
 - the [lecture notes](/typetheory/notes/typetheory1.pdf) for the introduction have been updated.
 - the [lecture notes](/typetheory/notes/typetheory1.pdf) for the introduction are complete.
 - the first set of [lecture notes](/typetheory/notes/typetheory2a.pdf) for simple type theory are now available.
+- A [problem set](/typetheory/hw/tthw1.pdf) for Chapter 2 on Simple Type Theory is available. 
 <!---
 - Also check out the course notes from [Fischbachau](../fischbachau/) for a bigger picture.
 - The [lecture notes](/catlog/notes/catlog1.pdf) for (the first half of) Chapter 1 on Algebraic Theories are available.  
-- A [problem set](/catlog/hw/catloghw1.pdf) for Chapter 1 on Algebraic Theories is available. 
+
 - The [lecture notes](/catlog/notes/catlog1.pdf) for Chapter 1 on Algebraic Theories are now complete. 
 - Some possible grad student topics are being compiled [here](/catlog/hw/).    
 - The first problem set is due on Tuesday 13 February, in class.
