@@ -30,14 +30,16 @@
 
 ## Lectures	
 
+- [Toward the Effective 2-Topos](/talks/Eff2_Manchester.pdf) Slides from a talk at the conference _Categorical Logic and Higher Categories_ held in Manchester in December 2024.
+
 - [Algebraic type theory](/talks/ATT_CT2024.pdf) Slides from a talk at the conference _Category Theory 2024_.
 
 - [What is HoTT?](/talks/AwodeyHIM2024.pdf) Slides from a talk for the Hausdorff Institute for Mathematics program _Prospects of Formal Mathematics_ in May 2024. [HIM video](https://www.mathematics.uni-bonn.de/him/video-recordings/tp_2024_02_school_video/school_on_formal_mathematics#speaker2)
 
-- [Cartesian cubical model categories](/talks/CT2023.pdf) Slides from a talk at the conference _Category Theory 2023_. 
-
 <details open>
 <summary>more...</summary>
+
+- [Cartesian cubical model categories](/talks/CT2023.pdf) Slides from a talk at the conference _Category Theory 2023_. 
 
 - [Homotopy type theory](/talks/cmu.pdf) Slides from a talk for the _CMU Philosophy Department Colloquium_ in September 2023.
 
