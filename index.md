@@ -1,6 +1,6 @@
 # Steve Awodey
-### Professor, Philosophy and Mathematics
 ### The Dean's Chair in Logic
+### Professor, Philosophy and Mathematics
 ### Carnegie Mellon University
 
 <hr>
