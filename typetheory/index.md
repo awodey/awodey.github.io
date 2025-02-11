@@ -55,16 +55,17 @@ Grades will be based on 3 problem sets and, for graduate students, a presentatio
 
 ### Updates
 Watch this space for news and information!
-- We're also using the [course zulip](https://baker.hott.dev/#narrow/stream/48-Type-Theory-Course) for announcements and discussion. Let me know if you want to be added.
+- We're also using the [course zulip](https://baker.hott.dev/#narrow/stream/48-Type-Theory-Course) for announcements and discussion. Let me know if you want to be added!
 - The first set of [lecture notes](/typetheory/notes/typetheory1.pdf) are available - they also include a review of Category Theory and some other material.
 - the [lecture notes](/typetheory/notes/typetheory1.pdf) for the introduction have been updated.
 - the [lecture notes](/typetheory/notes/typetheory1.pdf) for the introduction are complete.
 - the first set of [lecture notes](/typetheory/notes/typetheory2a.pdf) for simple type theory are now available.
 - A [problem set](/typetheory/hw/tthw1.pdf) for Chapter 2 on Simple Type Theory is available. 
-<!---
+- the second set of [lecture notes](/typetheory/notes/typetheory2b.pdf) for simple type theory are now available.
+- Here are some other [notes on Kripke completeness of Simple Type Theory](/typetheory/notes/KripkeSTT.pdf).
 - Also check out the course notes from [Fischbachau](../fischbachau/) for a bigger picture.
+<!---
 - The [lecture notes](/catlog/notes/catlog1.pdf) for (the first half of) Chapter 1 on Algebraic Theories are available.  
-
 - The [lecture notes](/catlog/notes/catlog1.pdf) for Chapter 1 on Algebraic Theories are now complete. 
 - Some possible grad student topics are being compiled [here](/catlog/hw/).    
 - The first problem set is due on Tuesday 13 February, in class.
