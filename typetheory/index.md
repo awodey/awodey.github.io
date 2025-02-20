@@ -59,11 +59,12 @@ Watch this space for news and information!
 - The first set of [lecture notes](/typetheory/notes/typetheory1.pdf) are available - they also include a review of Category Theory and some other material.
 - the [lecture notes](/typetheory/notes/typetheory1.pdf) for the introduction have been updated.
 - the [lecture notes](/typetheory/notes/typetheory1.pdf) for the introduction are complete.
-- the first set of [lecture notes](/typetheory/notes/typetheory2a.pdf) for simple type theory are now available.
+- the first set of [lecture notes](/typetheory/notes/typetheory2.pdf) for simple type theory are now available.
 - A [problem set](/typetheory/hw/tthw1.pdf) for Chapter 2 on Simple Type Theory is available. 
-- the second set of [lecture notes](/typetheory/notes/typetheory2b.pdf) for simple type theory are now available.
+- the second set of [lecture notes](/typetheory/notes/typetheory2.pdf) for simple type theory are now available.
 - Here are some other [notes on Kripke completeness of Simple Type Theory](/typetheory/notes/KripkeSTT.pdf).
 - Also check out the course notes from [Fischbachau](../fischbachau/) for a bigger picture.
+- the [lecture notes](/typetheory/notes/typetheory2.pdf) for simple type theory are now complete.
 <!---
 - The [lecture notes](/catlog/notes/catlog1.pdf) for (the first half of) Chapter 1 on Algebraic Theories are available.  
 - The [lecture notes](/catlog/notes/catlog1.pdf) for Chapter 1 on Algebraic Theories are now complete. 
