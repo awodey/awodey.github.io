@@ -7,6 +7,7 @@ Lecture notes will accumulate here as the course proceeds.
 - Here are some other [notes on Kripke completeness of Simple Type Theory](KripkeSTT.pdf).
 - [typetheory2.pdf](typetheory2.pdf)
 - [typetheory3a.pdf](typetheory3a.pdf)
+- [typetheory3b.pdf](typetheory3b.pdf)
 <!--
 -->
 

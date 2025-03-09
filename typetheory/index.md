@@ -66,6 +66,7 @@ Watch this space for news and information!
 - Also check out the course notes from [Fischbachau](../fischbachau/) for a bigger picture.
 - the [lecture notes](/typetheory/notes/typetheory2.pdf) for simple type theory are now complete.
 - the first set of [lecture notes](/typetheory/notes/typetheory3a.pdf) for dependent type theory are now available.
+- the second set of [lecture notes](/typetheory/notes/typetheory3b.pdf) for dependent type theory are now available.
 <!---
 - The [lecture notes](/catlog/notes/catlog1.pdf) for (the first half of) Chapter 1 on Algebraic Theories are available.  
 - The [lecture notes](/catlog/notes/catlog1.pdf) for Chapter 1 on Algebraic Theories are now complete. 
