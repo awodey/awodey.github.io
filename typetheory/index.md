@@ -67,6 +67,7 @@ Watch this space for news and information!
 - the [lecture notes](/typetheory/notes/typetheory2.pdf) for simple type theory are now complete.
 - the first set of [lecture notes](/typetheory/notes/typetheory3a.pdf) for dependent type theory are now available.
 - the second set of [lecture notes](/typetheory/notes/typetheory3b.pdf) for dependent type theory are now available.
+- A [problem set](/typetheory/hw/tthw2.pdf) for Chapter 3 on Dependent Type Theory is available. 
 <!---
 - The [lecture notes](/catlog/notes/catlog1.pdf) for (the first half of) Chapter 1 on Algebraic Theories are available.  
 - The [lecture notes](/catlog/notes/catlog1.pdf) for Chapter 1 on Algebraic Theories are now complete. 
