@@ -69,6 +69,7 @@ Watch this space for news and information!
 - the second set of [lecture notes](/typetheory/notes/typetheory3b.pdf) for dependent type theory are now available.
 - A [problem set](/typetheory/hw/tthw2.pdf) for Chapter 3 on Dependent Type Theory is available. 
 - The [lecture notes](/typetheory/notes/typetheory4a.pdf) for the first section of Chapter 4 on Homotopy Type Theory are now available.  
+- A [problem set](/typetheory/hw/tthw3.pdf) for Chapter 4 on Homotopy Type Theory is available. 
 <!---
 - The [lecture notes](/catlog/notes/catlog1.pdf) for (the first half of) Chapter 1 on Algebraic Theories are available.  
 - The [lecture notes](/catlog/notes/catlog1.pdf) for Chapter 1 on Algebraic Theories are now complete. 
