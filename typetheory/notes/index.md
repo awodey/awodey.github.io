@@ -8,6 +8,7 @@ Lecture notes will accumulate here as the course proceeds.
 - [typetheory2.pdf](typetheory2.pdf)
 - [typetheory3.pdf](typetheory3.pdf)
 - [typetheory4a.pdf](typetheory4a.pdf)
+- [typetheory4b.pdf](typetheory4b.pdf)
 <!--
 - [typetheory3b.pdf](typetheory3b.pdf)
 -->
