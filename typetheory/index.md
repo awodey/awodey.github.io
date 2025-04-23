@@ -57,20 +57,22 @@ Grades will be based on 3 problem sets and, for graduate students, a presentatio
 Watch this space for news and information!
 - We're also using the [course zulip](https://baker.hott.dev/#narrow/stream/48-Type-Theory-Course) for announcements and discussion. Let me know if you want to be added!
 - The first set of [lecture notes](/typetheory/notes/typetheory1.pdf) are available - they also include a review of Category Theory and some other material.
-- the [lecture notes](/typetheory/notes/typetheory1.pdf) for the introduction have been updated.
-- the [lecture notes](/typetheory/notes/typetheory1.pdf) for the introduction are complete.
-- the first set of [lecture notes](/typetheory/notes/typetheory2.pdf) for simple type theory are now available.
+- The [lecture notes](/typetheory/notes/typetheory1.pdf) for the introduction have been updated.
+- The [lecture notes](/typetheory/notes/typetheory1.pdf) for the introduction are complete.
+- The first set of [lecture notes](/typetheory/notes/typetheory2.pdf) for simple type theory are now available.
 - A [problem set](/typetheory/hw/tthw1.pdf) for Chapter 2 on Simple Type Theory is available. 
-- the second set of [lecture notes](/typetheory/notes/typetheory2.pdf) for simple type theory are now available.
+- The second set of [lecture notes](/typetheory/notes/typetheory2.pdf) for simple type theory are now available.
 - Here are some other [notes on Kripke completeness of Simple Type Theory](/typetheory/notes/KripkeSTT.pdf).
 - Also check out the course notes from [Fischbachau](../fischbachau/) for a bigger picture.
-- the [lecture notes](/typetheory/notes/typetheory2.pdf) for simple type theory are now complete.
-- the first set of [lecture notes](/typetheory/notes/typetheory3a.pdf) for dependent type theory are now available.
-- the second set of [lecture notes](/typetheory/notes/typetheory3b.pdf) for dependent type theory are now available.
+- The [lecture notes](/typetheory/notes/typetheory2.pdf) for simple type theory are now complete.
+- The first set of [lecture notes](/typetheory/notes/typetheory3a.pdf) for dependent type theory are now available.
+- The second set of [lecture notes](/typetheory/notes/typetheory3b.pdf) for dependent type theory are now available.
 - A [problem set](/typetheory/hw/tthw2.pdf) for Chapter 3 on Dependent Type Theory is available. 
+- The [lecture notes](/typetheory/notes/typetheory3.pdf) for Dependent Type Theory are now complete.
 - The [lecture notes](/typetheory/notes/typetheory4a.pdf) for the first section of Chapter 4 on Homotopy Type Theory are now available.  
 - A [problem set](/typetheory/hw/tthw3.pdf) for Chapter 4 on Homotopy Type Theory is available. 
 - More [lecture notes](/typetheory/notes/typetheory4b.pdf) for the next section of Chapter 4 on Homotopy Type Theory are now available.  
+- The [lecture notes](/typetheory/notes/typetheory4.pdf) for Homotopy Type Theory are now complete.
 <!---
 - The [lecture notes](/catlog/notes/catlog1.pdf) for (the first half of) Chapter 1 on Algebraic Theories are available.  
 - The [lecture notes](/catlog/notes/catlog1.pdf) for Chapter 1 on Algebraic Theories are now complete. 
