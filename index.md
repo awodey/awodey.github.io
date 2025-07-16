@@ -30,16 +30,16 @@
 
 ## Lectures	
 
-- [A Higher Effective Topos](/talks/CT2025.pdf)  Slides from a talk at the conference _Category Theory 2025_.
+- [A Higher Effective Topos](/talks/CT2025.pdf)  Joint work with Mathieu Anel and Redi Barton. Slides from a talk at the conference _Category Theory 2025_.
 
 - [Toward the Effective 2-Topos](/talks/Eff2_Manchester.pdf) Slides from a talk at the conference _Categorical Logic and Higher Categories_ held in Manchester in December 2024.
-
-- [Algebraic type theory](/talks/ATT_CT2024.pdf) Slides from a talk at the conference _Category Theory 2024_.
 
 - [What is HoTT?](/talks/AwodeyHIM2024.pdf) Slides from a talk for the Hausdorff Institute for Mathematics program _Prospects of Formal Mathematics_ in May 2024. [HIM video](https://www.mathematics.uni-bonn.de/him/video-recordings/tp_2024_02_school_video/school_on_formal_mathematics#speaker2)
 
 <details open>
 <summary>more...</summary>
+
+- [Algebraic type theory](/talks/ATT_CT2024.pdf) Slides from a talk at the conference _Category Theory 2024_.
 
 - [Cartesian cubical model categories](/talks/CT2023.pdf) Slides from a talk at the conference _Category Theory 2023_. 
 
@@ -79,7 +79,8 @@ Notes from a talk at IAS in December 2010.
 
 ## Preprints
 
-- Algebraic Type Theory, Part 1: Martin-Löf algebras, 2025. [arXiv:2505.10761] (https://doi.org/10.48550/arXiv.2505.10761)
+- Algebraic Type Theory, Part 1: Martin-Löf algebras, 2025. 
+[arXiv:2505.10761](https://doi.org/10.48550/arXiv.2505.10761)
 
 - Toward the effective 2-topos, Steve Awodey, Jacopo Emmenegger, 2025. [arXiv:2503.24279](https://doi.org/10.48550/arXiv.2503.24279)
 
