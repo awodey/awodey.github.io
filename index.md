@@ -30,6 +30,8 @@
 
 ## Lectures	
 
+- [A Higher Effective Topos](/talks/CT2025.pdf)  Slides from a talk at the conference _Category Theory 2025_.
+
 - [Toward the Effective 2-Topos](/talks/Eff2_Manchester.pdf) Slides from a talk at the conference _Categorical Logic and Higher Categories_ held in Manchester in December 2024.
 
 - [Algebraic type theory](/talks/ATT_CT2024.pdf) Slides from a talk at the conference _Category Theory 2024_.
@@ -77,11 +79,11 @@ Notes from a talk at IAS in December 2010.
 
 ## Preprints
 
+- Algebraic Type Theory, Part 1: Martin-Löf algebras, 2025. [arXiv:2505.10761] (https://doi.org/10.48550/arXiv.2505.10761)
+
+- Toward the effective 2-topos, Steve Awodey, Jacopo Emmenegger, 2025. [arXiv:2503.24279](https://doi.org/10.48550/arXiv.2503.24279)
+
 - The equivariant model structure on cartesian cubical sets, Steve Awodey, Evan Cavallo, Thierry Coquand, Emily Riehl, Christian Sattler, June 2024. [arXiv:2406.18497](https://arxiv.org/pdf/2406.18497.pdf)
-
-- On Hofmann-Streicher universes. S. Awodey, July 2023. [arXiv:2205.10917](https://arxiv.org/pdf/2205.10917.pdf)
-
-- Cartesian cubical model categories, May 2023. arXiv:2305.00893, [preprint](/papers/ccmc.pdf)
 
 <details open>
 <summary>more...</summary>
@@ -100,15 +102,18 @@ Notes from a talk at IAS in December 2010.
 
 ## Publications
 
-- Kripke-Joyal forcing for type theory and uniform fibrations.  
-	S. Awodey, N. Gambino, S. Hazratpour, Selecta Mathematica, July 2024. 
+- Cartesian cubical model categories, Lecture Notes in Mathematics, Springer (forthcoming). arXiv:2305.00893, [preprint](/papers/ccmc.pdf)
+
+- On Hofmann-Streicher universes. S. Awodey, Mathematical Structures in Computer Science, 2024. [arXiv:2205.10917](https://arxiv.org/pdf/2205.10917.pdf)
+
+<details open>
+<summary>more...</summary>
+
+- Kripke-Joyal forcing for type theory and uniform fibrations.  S. Awodey, N. Gambino, S. Hazratpour, Selecta Mathematica, July 2024. 
 	[arxiv2110.14576](https://arxiv.org/abs/2110.14576)
 
 - Sheaf representations and duality in logic. In Claudia Casadio & Philip J. Scott (eds.), Joachim Lambek: The Interplay of Mathematics, Logic, and Linguistics. Springer Verlag. pp. 39-57 (2021)
 	[arXiv:2001.09195](https://arxiv.org/abs/2001.09195)
-
-<details open>
-<summary>more...</summary>
 
 - A proposition is the (homotopy) type of its proofs. January 2016.  In: Erich H. Reck, ed. Logic, Philosophy of Mathematics, and their History: Essays in Honor of W.W. Tait. London: College Publications, 2018. [arXiv:1701.02024](https://arxiv.org/abs/1701.02024)
 	
