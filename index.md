@@ -146,6 +146,8 @@ Notes from a talk at IAS in December 2010.
 - Voevodsky's univalence axiom in homotopy type theory. S. Awodey, A. Pelayo, and M. Warren, _Notices of the American Mathematical Sciety_, 2013. 
 	[pdf](http://www.andrew.cmu.edu/user/awodey/preprints/NoticesAMS.pdf)
 
+- Kripke Semantics for Martin-Löf's Extensional Type Theory. S. Awodey and F. Rabe, _Logical Methods in Computer Science_ (3:18), 2011. [arXiv:1109.1702](https://arxiv.org/abs/1109.1702)
+
 - Type theory and homotopy. In Dybjer, P., Lindström, Sten, Palmgren, Erik (eds.), _Epistemology versus Ontology: 
 	Essays on the Foundations of Mathematics in Honour of Per Martin-Löf_. Springer, 2010. 
 	[arXiv:1010.1810](https://arxiv.org/abs/1010.1810)
@@ -153,7 +155,7 @@ Notes from a talk at IAS in December 2010.
 - First-order logical duality. S. Awodey and H. Forssell, _Annals of Pure and Applied Logic_, 2013. 
 	[arXiv:1008.3145](https://arxiv.org/abs/1008.3145)
 	
-- Martin-L&ouml;f complexes. S. Awodey, P. Hofstra, M. Warren, 2009. 
+- Martin-Löf complexes. S. Awodey, P. Hofstra, M. Warren, 2009. 
 	[pdf](http://www.andrew.cmu.edu/user/awodey/preprints/MLC.pdf)
 
 - From sets, to types, to categories, to sets. 2009. 
