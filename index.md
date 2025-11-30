@@ -122,7 +122,7 @@ Notes from a talk at IAS in December 2010.
 
 - Univalence as a principle of logic. _Indagationes Mathematicae_: Special Issue L.E.J. Brouwer, 50 years later, 
 	D. van Dalen, et al. (ed.s), 2018. 
-	[preprint](http://www.andrew.cmu.edu/user/awodey/preprints/uapl.pdf)
+	[online](https://www.sciencedirect.com/science/article/pii/S0019357718303227)
 	
 - A cubical model of homotopy type theory. _Annals of Pure and Applied Logic_, 2018. 
 	[arXiv:1607.06413](https://arxiv.org/abs/1607.06413)
