@@ -1,19 +1,22 @@
 # Steve Awodey
-### The Dean's Chair in Logic
-### Professor, Philosophy and Mathematics
-### Carnegie Mellon University
+The Dean's Chair in Logic \
+Professor, Philosophy and Mathematics \
+Carnegie Mellon University
+<hr>
 
 ## Sabbatical 2026-27
 
-- [Royal Society Wolfson Visiting Professorship](https://royalsociety.org/news/2025/06/wolfson-fellowships-2025/), Department of Computer Science and Technology, University of Cambridge, January-June 2026 and 2027: [*Homotopy Type Theory and the Formalization of Mathematics*](/talks/RSWVF_25_R2_1025.pdf).
+- [Royal Society Wolfson Visiting Professorship](https://royalsociety.org/news/2025/06/wolfson-fellowships-2025/),\
+ University of Cambridge, Department of Computer Science and Technology, January-June 2026 and 2027,\
+ [*Homotopy Type Theory and the Formalization of Mathematics*](/talks/RSWVF_25_R2_1025.pdf).
 
 <hr>
 
 ## Research
 
-- [Homotopy Type Theory](http://www.cmu.edu/dietrich/philosophy/hott/) 
-- [Algebraic Set Theory](http://www.phil.cmu.edu/projects/ast/) 
-	 (Archive)
+- [Homotopy Type Theory Group at CMU](http://www.cmu.edu/dietrich/philosophy/hott/) 
+- [The HoTTLean Project](https://sinhp.github.io/HoTTLean/)
+- [Algebraic Set Theory](http://www.phil.cmu.edu/projects/ast/) (Archive)
 
 <hr>
 
@@ -88,10 +91,10 @@ Notes from a talk at IAS in December 2010.
 
 ## Preprints
 
+- HoTTLean: Formalizing the Meta-Theory of HoTT in Lean. [TYPES2025](https://msp.cis.strath.ac.uk/types2025/abstracts/TYPES2025_paper25.pdf) 
+
 - Algebraic Type Theory, Part 1: Martin-Löf algebras, 2025. 
 [arXiv:2505.10761](https://doi.org/10.48550/arXiv.2505.10761)
-
-- Toward the effective 2-topos, Steve Awodey, Jacopo Emmenegger, 2025. [arXiv:2503.24279](https://doi.org/10.48550/arXiv.2503.24279)
 
 - The equivariant model structure on cartesian cubical sets, Steve Awodey, Evan Cavallo, Thierry Coquand, Emily Riehl, Christian Sattler, June 2024. [arXiv:2406.18497](https://arxiv.org/pdf/2406.18497.pdf)
 
@@ -112,9 +115,11 @@ Notes from a talk at IAS in December 2010.
 
 ## Publications
 
-- Cartesian cubical model categories, Lecture Notes in Mathematics, Springer (forthcoming). arXiv:2305.00893, [preprint](/papers/ccmc.pdf)
+- Cartesian cubical model categories, Springer Lecture Notes in Mathematics 2385, 2026. [preprint: arXiv:2305.00893](/papers/ccmc.pdf)
 
-- On Hofmann-Streicher universes. S. Awodey, Mathematical Structures in Computer Science, 2024. [arXiv:2205.10917](https://arxiv.org/pdf/2205.10917.pdf)
+- Toward the effective 2-topos, Steve Awodey, Jacopo Emmenegger. Mathematical Structures in Computer Science, 2025. [arXiv:2503.24279](https://doi.org/10.48550/arXiv.2503.24279)
+
+- On Hofmann-Streicher universes. Mathematical Structures in Computer Science, 2024. [arXiv:2205.10917](https://arxiv.org/pdf/2205.10917.pdf)
 
 <details open>
 <summary>more...</summary>
