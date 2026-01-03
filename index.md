@@ -22,18 +22,18 @@
 - [Cartesian Cubical Model Categories](https://link.springer.com/book/10.1007/978-3-032-08730-0).
 	Lecture Notes in Mathematics (LNM volume 2385), Springer, 2026.
 	
-![CCMCcover](/images/CCMCcover.pdf)
+![CCMCcover](/images/CCMCcover.pdf =250x)
 
 - [Homotopy Type Theory: Univalent Foundations of Mathematics](http://www.homotopytypetheory.org/book). 
 	The Univalent Foundations Program, Institute for Advanced Study, 2013.
 
-![HoTTcover](/images/HoTTcover.png)
+![HoTTcover](/images/HoTTcover.png =250x)
 
 - [Category Theory](http://www.oup.co.uk/isbn/9780199237180). \
 	Oxford Logic Guides 52, Oxford University Press, 2006. Second edition, 2010.
 	[Errata](CT2errata2010.pdf)
 
-![CATcover](/images/CATcover.pdf)
+![CATcover](/images/CATcover.pdf  =250x)
 
 <hr> 
 
