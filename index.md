@@ -24,12 +24,12 @@
 	
 [<img src="/images/CCMCcover.pdf" width="200"/>](/images/CCMCcover.pdf)
 	
-- [Homotopy Type Theory: Univalent Foundations of Mathematics](http://www.homotopytypetheory.org/book). 
+- [Homotopy Type Theory: Univalent Foundations of Mathematics](http://www.homotopytypetheory.org/book).
 	The Univalent Foundations Program, Institute for Advanced Study, 2013.
 
 [<img src="/images/HoTTcover.png" width="200"/>](/images/HoTTcover.png)
 
-- [Category Theory](http://www.oup.co.uk/isbn/9780199237180). \
+- [Category Theory](http://www.oup.co.uk/isbn/9780199237180).
 	Oxford Logic Guides 52, Oxford University Press, 2006. Second edition, 2010.
 	[Errata](CT2errata2010.pdf)
 
