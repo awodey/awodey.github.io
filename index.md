@@ -22,6 +22,8 @@
 - [Cartesian Cubical Model Categories](https://link.springer.com/book/10.1007/978-3-032-08730-0).
 	Lecture Notes in Mathematics (LNM volume 2385), Springer, 2026.
 	
+	[<img src="/images/CCMCcover.pdf" width="250"/>](/images/CCMCcover.pdf)
+	
 ![CCMCcover](/images/CCMCcover.pdf =250x)
 
 - [Homotopy Type Theory: Univalent Foundations of Mathematics](http://www.homotopytypetheory.org/book). 
