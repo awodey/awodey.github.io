@@ -7,7 +7,7 @@
 - Time: Mondays 3-5 pm, 2 Feb - 9 March
 - Instructor: Steve Awodey
 - Office: Gates FC08
-- Office Hour: Wednesday 2-3, or by appointment
+- Office Hour: by appointment
 - Email: sma212@cam.ac.uk
 
 
@@ -43,7 +43,6 @@ The following are recommended for further reading.
 ### Course materials
 
 - [Lecture notes](/cltt/notes/)
-- [Zulip](https://baker.hott.dev/#narrow/channel/53-Cambridge-Lectures)
 
 ### Updates
 Watch this space for news and information!
