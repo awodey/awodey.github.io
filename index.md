@@ -322,6 +322,7 @@ CMU, Philosophy, 2001.
 - [Topics in Logic: Type Theory](/typetheory)
 - [Formal Logic](http://www.andrew.cmu.edu/course/80-310-610/)
 - [Logic and Proof (Fischbachau Herbstschule)](/fischbachau)
+- [Cambridge Lectures on Categorical Logic and Type Theory](/cltt)
 
 <hr>
 
