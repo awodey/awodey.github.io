@@ -309,7 +309,7 @@ CMU, Philosophy, 2001.
 ## Editorial
 
 - [Journal of Symbolic Logic](https://www.cambridge.org/core/journals/journal-of-symbolic-logic)
-- [Mathematical Logic Quarterly](https://onlinelibrary.wiley.com/journal/15213870)
+- [Zeitschrift für Mathematische Logik und Grundlagen der Mathematik](https://zml.international/index)
 - [Collected Works of Rudolf Carnap](http://rudolfcarnap.org)
 - [Selected Papers of Dana Scott](https://github.com/CMU-HoTT/scott)
 
@@ -321,8 +321,8 @@ CMU, Philosophy, 2001.
 - [Categorical Logic](http://www.andrew.cmu.edu/user/awodey/catlog/)
 - [Topics in Logic: Type Theory](/typetheory)
 - [Formal Logic](http://www.andrew.cmu.edu/course/80-310-610/)
-- [Logic and Proof (Fischbachau Herbstschule)](/fischbachau)
 - [Cambridge Lectures on Categorical Logic and Type Theory](/cltt)
+- [Logic and Proof (Fischbachau Herbstschule 2022)](/fischbachau)
 
 <hr>
 
