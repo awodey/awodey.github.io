@@ -15,7 +15,7 @@
 This series of 6 lectures focused on simple type theory and its functorial semantics.  Emphasis will be on soundness, completeness, and representation theorems with respect to (pre)sheaf models.  The lambda-calculus is modeled by cartesian closed categories, which can be represented using presheaves (aka "Kripke models").  As a warm-up, we first review the "proof irrelevant" case of propositional calculus and its Kripke semantics.  The completeness theorem is proven via an elegant representation theorem for Heyting algebras due to Joyal, which generalizes the Stone representation theorem for Boolean algebras.  In the second half of the series we then consider Kripke semantics and completeness for the simply-typed lambda-calculus.  
 
 ### Prerequisites
-A basic course in Category Theory, Type Theory, or equivalent.
+A basic course in Category Theory or Type Theory.
 
 ### Outline
 
