@@ -5,7 +5,7 @@
 
 - Place: Gates Building SS03
 - Time: Mondays 3-5 pm, 2 Feb - 9 March
-- Instructor: Steve Awodey
+- Instructor: Steve Awodey, Royal Society Wolfson Visiting Fellow
 - Office: Gates FC08
 - Office Hour: by appointment
 - Email: sma212@cam.ac.uk
