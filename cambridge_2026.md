@@ -1,21 +1,23 @@
-## Steve Awodey, Cambridge Sabbatical 2026-27
-### Activities 2026
+## Steve Awodey, Cambridge sabbatical 2026-27
 
-### Lectures
+[<img src="/images/Cambridge.jpeg" width="400"/>](/images/Cambridge.jpeg)
+
+### activities 2026
+
+### lectures
 
 - 28 January, CST Wednesday Lecture: [What is HoTT?](https://www.cst.cam.ac.uk/seminars/list/237235) 
 - 2 February - 9 March, Weekly Lectures: [Categorical Logic and Type Theory](./cltt/) 
 - 12 February, Formalization of Mathematics Seminar: [HoTTLean](https://www.cst.cam.ac.uk/seminars)
 
-### Research projects
+### research projects
 
 - [HoTTLean](https://sinhp.github.io/HoTTLean/)
 
-### Other stuff
+### other stuff
 
 - Office: Gates Building FC08
 
 <hr>
 
-[Steve Awodey](./index.md), 
-<a href="mailto:awodey@cmu.edu">awodey@cmu.edu</a>
+<a href="mailto:awodey@cmu.edu">contact</a>
