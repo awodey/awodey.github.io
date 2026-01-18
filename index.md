@@ -14,7 +14,7 @@ Carnegie Mellon University
 
 ## Research
 
-- [The Homotopy Type Theory Group at CMU](http://www.cmu.edu/dietrich/philosophy/hott/) 
+- [The HoTT Group at CMU](http://www.cmu.edu/dietrich/philosophy/hott/) 
 - [The HoTTLean Project](https://sinhp.github.io/HoTTLean/)
 - [Algebraic Set Theory](http://www.phil.cmu.edu/projects/ast/) (Archive)
 
