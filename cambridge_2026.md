@@ -1,4 +1,4 @@
-## Steve Awodey, Cambridge sabbatical 2026-27
+## Cambridge sabbatical 2026-27
 
 [<img src="/images/Cambridge.jpeg" width="500"/>](/images/Cambridge.jpeg)
 
