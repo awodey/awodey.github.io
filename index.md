@@ -8,8 +8,8 @@ Carnegie Mellon University
 
 - [Royal Society Wolfson Visiting Fellowship](https://royalsociety.org/news/2025/06/wolfson-fellowships-2025/),\
  University of Cambridge, Department of Computer Science and Technology, January-June 2026 and 2027,\
-*Homotopy Type Theory and the Formalization of Mathematics*, [project description](/talks/RSWVF_Awodey.pdf).\
-[Cambridge activities](/activities.md)
+[*Homotopy Type Theory and the Formalization of Mathematics*](/talks/RSWVF_Awodey.pdf).\
+[Activities 2026](/cambridge_2026.md)
 
 <hr>
 
