@@ -6,7 +6,7 @@
 
 ### lectures
 
-- 28 January, CST Wednesday Lecture: [What is HoTT?](https://www.cst.cam.ac.uk/seminars/list/237235) [slides](/talks/cst.pdf). 
+- 28 January, CST Wednesday Lecture: [What is HoTT?](https://www.cst.cam.ac.uk/seminars/list/237235) [ [slides] ](/talks/cst.pdf) 
 - 2 February - 9 March, Weekly Lectures: [Categorical Logic and Type Theory](./cltt/) 
 - 12 February, Formalization of Mathematics Seminar: [HoTTLean](https://talks.cam.ac.uk/talk/index/243271)
 
