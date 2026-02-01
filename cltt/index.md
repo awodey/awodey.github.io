@@ -47,9 +47,10 @@ The following are recommended for further reading.
 ### Updates
 Watch this space for news and information!
 
-- A first set of [lecture notes](/cltt/notes/cltt0.pdf) for Background are available; they include a review of Category Theory and some other material.
-- The [lecture notes](/cltt/notes/cltt1.pdf) for Part I are here.
-- The slides from [Lecture I.A](/cltt/notes/Lecture_IA.pdf) are here.
+- Here is a first set of [lecture notes](/cltt/notes/cltt0.pdf) for Background; 
+they include a review of Category Theory and some other material.
+- Here are the [lecture notes for Part I](/cltt/notes/cltt1.pdf).
+- Here are the [slides from Lecture I.A](/cltt/notes/Lecture_IA.pdf).
 <!---
 - We're also using the [course zulip](https://baker.hott.dev/#narrow/stream/48-Type-Theory-Course) for announcements and discussion. Let me know if you want to be added!
 - The [lecture notes](/typetheory/notes/typetheory1.pdf) for the introduction are complete.
