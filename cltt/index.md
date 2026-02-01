@@ -42,14 +42,16 @@ The following are recommended for further reading.
 
 ### Course materials
 
-- [Lecture notes](/cltt/notes/)
+- [Lecture notes](/cltt/notes/cltt0.pdf)
 
 ### Updates
 Watch this space for news and information!
+
+- A first set of [lecture notes](/cltt/notes/cltt0.pdf) for Background are available; they include a review of Category Theory and some other material.
+- The [lecture notes](/cltt/notes/cltt1.pdf) for Part I are here.
+- The slides from [Lecture I.A](/cltt/notes/Lecture_IA.pdf) are here.
 <!---
 - We're also using the [course zulip](https://baker.hott.dev/#narrow/stream/48-Type-Theory-Course) for announcements and discussion. Let me know if you want to be added!
-- The first set of [lecture notes](/typetheory/notes/typetheory1.pdf) are available - they also include a review of Category Theory and some other material.
-- The [lecture notes](/typetheory/notes/typetheory1.pdf) for the introduction have been updated.
 - The [lecture notes](/typetheory/notes/typetheory1.pdf) for the introduction are complete.
 - The first set of [lecture notes](/typetheory/notes/typetheory2.pdf) for simple type theory are now available.
 - A [problem set](/typetheory/hw/tthw1.pdf) for Chapter 2 on Simple Type Theory is available. 
