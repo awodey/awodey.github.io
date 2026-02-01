@@ -2,8 +2,8 @@
 
 Lecture notes will accumulate here as the course proceeds.
 
-- [Notes from Categorical Logic at CMU 2024](catlog2024.pdf).
-- [Slides from HoTT Seminar at CMU 2023: Kripke models of lambda-calculus](KripkeSTT.pdf).
+- [Notes from Categorical Logic, CMU 2024](catlog2024.pdf).
+- [Slides from HoTT Seminar, CMU 2023: Kripke models of lambda-calculus](KripkeSTT.pdf).
 - [Lecture notes: Introduction](cltt0.pdf)
 - [Lecture notes: Part I](cltt1.pdf)
 - [Slides: Lecture I.A](/cltt/notes/Lecture_IA.pdf)
