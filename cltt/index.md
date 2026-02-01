@@ -42,7 +42,7 @@ The following are recommended for further reading.
 
 ### Course materials
 
-- [Lecture notes](/cltt/notes/cltt0.pdf)
+- [Lecture notes](/cltt/notes/)
 
 ### Updates
 Watch this space for news and information!

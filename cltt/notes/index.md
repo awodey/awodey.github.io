@@ -1,7 +1,8 @@
 ## Lecture notes for [Cambridge Lectures](/cltt/)
 
 Lecture notes will accumulate here as the course proceeds.
-- Here is are the [notes from Categorical Logic 2024 at CMU](catlog2024.pdf).
+
+- Here are the [notes from Categorical Logic 2024 at CMU](catlog2024.pdf).
 - Here are some other [notes on Kripke completeness of Simple Type Theory](KripkeSTT.pdf).
 - [Introduction](cltt0.pdf)
 - [Part I](cltt1.pdf)
