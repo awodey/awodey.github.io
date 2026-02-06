@@ -9,8 +9,7 @@
 - Office: Gates FC08
 - Office Hour: by appointment
 - Email: sma212@cam.ac.uk
-- Zoom: https://cmu.zoom.us/j/99807605986?pwd=6IGmWXprGEoTGdytzXb9Au7JBptRGS.1 (pwd = 2)
-
+- Zoom: https://cmu.zoom.us/j/99807605986?pwd=6IGmWXprGEoTGdytzXb9Au7JBptRGS.1
 
 ### Overview
 This series of 6 lectures focused on simple type theory and its functorial semantics.  Emphasis will be on soundness, completeness, and representation theorems with respect to (pre)sheaf models.  The lambda-calculus is modeled by cartesian closed categories, which can be represented using presheaves (aka "Kripke models").  As a warm-up, we first review the "proof irrelevant" case of propositional calculus and its Kripke semantics.  The completeness theorem is proven via an elegant representation theorem for Heyting algebras due to Joyal, which generalizes the Stone representation theorem for Boolean algebras.  In the second half of the series we then consider Kripke semantics and completeness for the simply-typed lambda-calculus.  
@@ -52,7 +51,9 @@ Watch this space for news and information!
 they include a review of Category Theory and some other material.
 - Here are the [lecture notes for Part I](/cltt/notes/cltt1.pdf).
 - Here are the [slides from Lecture I.A](/cltt/notes/Lecture_IA.pdf).
-- Here is a [zoom link](https://cmu.zoom.us/j/99807605986?pwd=6IGmWXprGEoTGdytzXb9Au7JBptRGS.1).  If required to join, the passcode is Brunerie's number : - )
+- Here is a [video recording of the zoom from Lecture I.A](/recordings/CLTT_IA.mp4)
+- Here is a [zoom link](https://cmu.zoom.us/rec/share/eRnRNg8Yi7ksrLBNwYBNY-ecs8x7hkIc1-utIBoIjCybAIkacZRJDM_LF1YX13nh.nQR8XO1WkC3eEFwd?from=hub).  The lecture begins at 15 minutes. If required to join, the passcode is Passcode: t0uW4Vm!
+
 <!---
 - We're also using the [course zulip](https://baker.hott.dev/#narrow/stream/48-Type-Theory-Course) for announcements and discussion. Let me know if you want to be added!
 - The [lecture notes](/typetheory/notes/typetheory1.pdf) for the introduction are complete.
