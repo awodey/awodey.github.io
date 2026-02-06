@@ -9,6 +9,7 @@
 - Office: Gates FC08
 - Office Hour: by appointment
 - Email: sma212@cam.ac.uk
+- Zoom: https://cmu.zoom.us/j/99807605986?pwd=6IGmWXprGEoTGdytzXb9Au7JBptRGS.1 (pwd = 2)
 
 
 ### Overview
@@ -51,6 +52,7 @@ Watch this space for news and information!
 they include a review of Category Theory and some other material.
 - Here are the [lecture notes for Part I](/cltt/notes/cltt1.pdf).
 - Here are the [slides from Lecture I.A](/cltt/notes/Lecture_IA.pdf).
+- Here is a [zoom link](https://cmu.zoom.us/j/99807605986?pwd=6IGmWXprGEoTGdytzXb9Au7JBptRGS.1).  If required to join, the passcode is Brunerie's number : - )
 <!---
 - We're also using the [course zulip](https://baker.hott.dev/#narrow/stream/48-Type-Theory-Course) for announcements and discussion. Let me know if you want to be added!
 - The [lecture notes](/typetheory/notes/typetheory1.pdf) for the introduction are complete.
