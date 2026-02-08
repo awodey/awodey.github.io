@@ -51,7 +51,7 @@ Watch this space for news and information!
 they include a review of Category Theory and some other material.
 - Here are the [lecture notes for Part I](/cltt/notes/cltt1.pdf).
 - Here are the [slides from Lecture I.A](/cltt/notes/Lecture_IA.pdf).
-- Here is a [video recording of Lecture I.A](https://cmu.zoom.us/rec/share/UPU8YO3yNGY4ttL7CIykT7A5bD4i4SiEv5EjKkDiWSGl8w628UV1a88sktUQ8QmV.XOy0qiwEatTJzW-C) The lecture begins at 15 minutes. Passcode: t0uW4Vm!
+- Here is a [video recording of Lecture I.A](https://drive.google.com/file/d/1lQSAy4EiE9M9ivGRVGN4snMEsZKOptX4/view?usp=sharing)
 - Here is a [zoom link](https://cmu.zoom.us/rec/share/eRnRNg8Yi7ksrLBNwYBNY-ecs8x7hkIc1-utIBoIjCybAIkacZRJDM_LF1YX13nh.nQR8XO1WkC3eEFwd?from=hub). If required, the pwd is Brunerie's number : - )
 
 <!---
