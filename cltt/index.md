@@ -53,7 +53,8 @@ they include a review of Category Theory and some other material.
 - Here are the [slides from Lecture I.A](/cltt/notes/Lecture_IA.pdf).
 - Here is a [video recording of Lecture I.A](https://drive.google.com/file/d/1lQSAy4EiE9M9ivGRVGN4snMEsZKOptX4/view?usp=sharing)
 - Here is a [video recording of Lecture I.B](https://cmu.zoom.us/rec/share/gVCX5aOwNRhRjWA30A0nXBJkUbdmC97HokzsFuMUdx52ZWvYEWwSkzLcqAaKnX2g.J1-5kESln3GhdX_L) Passcode: Q@DW8e^C
-- Here is a [zoom link](https://cmu.zoom.us/rec/share/eRnRNg8Yi7ksrLBNwYBNY-ecs8x7hkIc1-utIBoIjCybAIkacZRJDM_LF1YX13nh.nQR8XO1WkC3eEFwd?from=hub). If required, the pwd is Brunerie's number : - )
+- Here is a [video recording of Lecture I.B](https://cmu.zoom.us/rec/share/7l_2v0ShW99C3mFzUmcY94vleYu-ZR5wLr0OP-nJ8WrgqAJRn6sNZi-DnlMexzBn.lHfQOdpEIDHoNBY9?startTime=1771254538000) Passcode: BcJZ.k8h
+- Here is the [zoom link](https://cmu.zoom.us/rec/share/eRnRNg8Yi7ksrLBNwYBNY-ecs8x7hkIc1-utIBoIjCybAIkacZRJDM_LF1YX13nh.nQR8XO1WkC3eEFwd?from=hub). If required, the pwd is Brunerie's number : - )
 
 <!---
 - We're also using the [course zulip](https://baker.hott.dev/#narrow/stream/48-Type-Theory-Course) for announcements and discussion. Let me know if you want to be added!
