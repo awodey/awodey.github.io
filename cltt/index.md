@@ -55,6 +55,7 @@ they include a review of Category Theory and some other material.
 - Here is a [video recording of Lecture I.B](https://cmu.zoom.us/rec/share/gVCX5aOwNRhRjWA30A0nXBJkUbdmC97HokzsFuMUdx52ZWvYEWwSkzLcqAaKnX2g.J1-5kESln3GhdX_L) Passcode: Q@DW8e^C
 - Here is a [video recording of Lecture I.C](https://cmu.zoom.us/rec/share/7l_2v0ShW99C3mFzUmcY94vleYu-ZR5wLr0OP-nJ8WrgqAJRn6sNZi-DnlMexzBn.lHfQOdpEIDHoNBY9?startTime=1771254538000) Passcode: BcJZ.k8h
 - Here is the [zoom link](https://cmu.zoom.us/rec/share/eRnRNg8Yi7ksrLBNwYBNY-ecs8x7hkIc1-utIBoIjCybAIkacZRJDM_LF1YX13nh.nQR8XO1WkC3eEFwd?from=hub). If required, the pwd is Brunerie's number : - )
+- Here are the [lecture notes for Part II](/cltt/notes/cltt2.pdf).
 
 <!---
 - We're also using the [course zulip](https://baker.hott.dev/#narrow/stream/48-Type-Theory-Course) for announcements and discussion. Let me know if you want to be added!
