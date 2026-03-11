@@ -61,7 +61,6 @@ they include a review of Category Theory and some other material.
 - Here is a [video recording of Lecture II.B](https://cmu.zoom.us/rec/share/DyZ2YjiJ9CUOtV1s0ZtZCY5zcabndXN4c0MZP8VBMhfgQkwuyHWnYy6CeVOmxtx1.Ago0QldijuDgEiqE?startTime=1772463958000) Passcode: ^$+9$C1&
 - Here is a [video recording of the final Lecture II.C](https://cmu.zoom.us/rec/share/vKFPiDsqEzCXZGwOLOGRIaknjI0Qi084B2kXYDUeQ8QjD44AnfvAgKVZaE6rtz2J.l1IN-KCcwJOegdBX?startTime=1773068457000) Passcode: c$G3Q=N*
 
-
 <!---
 - We're also using the [course zulip](https://baker.hott.dev/#narrow/stream/48-Type-Theory-Course) for announcements and discussion. Let me know if you want to be added!
 - The [lecture notes](/typetheory/notes/typetheory1.pdf) for the introduction are complete.
