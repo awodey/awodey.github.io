@@ -43,7 +43,9 @@ Carnegie Mellon University
 
 ## Lectures	
 
-- [A Higher Effective Topos](/talks/CT2025.pdf).  Joint work with Mathieu Anel and Reid Barton. Slides from a talk at the conference _Category Theory 2025_.
+- [Path Types in Algebraic Type Theory](/talks/EdinburghATT.pdf) Slides from a talk in the Edinburgh CT Seminar, April 2026.
+
+- [A Higher Effective Topos](/talks/CT2025.pdf) Joint work with Mathieu Anel and Reid Barton. Slides from a talk at the conference _Category Theory 2025_.
 
 - [Toward the Effective 2-Topos](/talks/Eff2_Manchester.pdf) Slides from a talk at the conference _Categorical Logic and Higher Categories_ held in Manchester in December 2024.
 
