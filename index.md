@@ -43,7 +43,7 @@ Carnegie Mellon University
 
 ## Lectures	
 
-- [Path Types in Algebraic Type Theory](/talks/EdinburghATT.pdf) Slides from a talk in the Edinburgh CT Seminar, April 2026.
+- [Path Types in Algebraic Type Theory](/talks/CT2026.pdf) Slides from a talk at the conference _Category Theory 2026_.
 
 - [A Higher Effective Topos](/talks/CT2025.pdf) Joint work with Mathieu Anel and Reid Barton. Slides from a talk at the conference _Category Theory 2025_.
 
