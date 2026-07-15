@@ -94,12 +94,13 @@ Notes from a talk at IAS in December 2010.
 
 ## Preprints
 
+- Path Types in Algebraic Type Theory, S. Awodey and J. Hua, 2026. 
+[arXiv:2601.06567](https://arxiv.org/abs/2601.06567)
+
 - HoTTLean: Formalizing the Meta-Theory of HoTT in Lean. [TYPES2025](https://msp.cis.strath.ac.uk/types2025/abstracts/TYPES2025_paper25.pdf) 
 
-- Algebraic Type Theory, Part 1: Martin-Löf algebras, 2025. 
+- Algebraic Type Theory, Part 1: Martin-Löf Algebras, 2025. 
 [arXiv:2505.10761](https://doi.org/10.48550/arXiv.2505.10761)
-
-- The equivariant model structure on cartesian cubical sets, Steve Awodey, Evan Cavallo, Thierry Coquand, Emily Riehl, Christian Sattler, June 2024. [arXiv:2406.18497](https://arxiv.org/pdf/2406.18497.pdf)
 
 <details open>
 <summary>more...</summary>
@@ -117,6 +118,8 @@ Notes from a talk at IAS in December 2010.
 <hr>
 
 ## Publications
+
+- The equivariant model structure on cartesian cubical sets, Steve Awodey, Evan Cavallo, Thierry Coquand, Emily Riehl, Christian Sattler, [Advances in Mathematics](https://www.sciencedirect.com/science/article/pii/S0001870826001878), June 2026. [preprint: arXiv:2406.18497](https://arxiv.org/pdf/2406.18497.pdf)
 
 - Cartesian cubical model categories, Springer Lecture Notes in Mathematics 2385, 2026. [preprint: arXiv:2305.00893](/papers/ccmc.pdf)
 
