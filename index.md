@@ -266,7 +266,7 @@ CMU, Pure and Applied Logic, 2026.
 [pdf](/theses/MilnerThesis.pdf)
 	
 - Joseph Hua, Internal algebraic type theory, 
-CMU, Philosophy, 2023. 
+CMU, Pure and Applied Logic, 2026. 
 [pdf](https://arxiv.org/abs/2608.00095)
 	
 - Colin Zwanziger, The natural display topos of coalgebras, 
