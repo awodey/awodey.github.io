@@ -263,7 +263,7 @@ Mathematica_ (3), vol. 4 (1996), pp. 209--237.
 
 - Owen Milner, Some studies on Postnikov decomposition in synthetic homotopy theory, 
 CMU, Pure and Applied Logic, 2026. 
-[pdf](http://www.andrew.cmu.edu/user/awodey/students/MilnerThesis.pdf)
+[pdf](/theses/MilnerThesis.pdf)
 	
 - Joseph Hua, Internal algebraic type theory, 
 CMU, Philosophy, 2023. 
