@@ -222,7 +222,7 @@ for Mathemtical Logic_, 2008.
 
 -  Propositions as [types]. S. Awodey and A. Bauer, _Journal of Logic and
 Computation_, 14(4), pp. 447--471 (2004).
-[pdf](http://www.cs.cmu.edu/%7Eandrej/papers/#brackets)
+%[pdf](http://www.cs.cmu.edu/andrej/papers/#brackets)
 
 - An answer to G. Hellman's question `Does category theory provide a framework for mathematical structuralism?' _Philosophia Mathematica_, (3), vol. 12 (2004), pp. 54--64.
 [pdf](http://www.andrew.cmu.edu/user/awodey/preprints/awodeyVhellman.pdf)
@@ -261,6 +261,14 @@ Mathematica_ (3), vol. 4 (1996), pp. 209--237.
 
 ## Students
 
+- Owen Milner, Some studies on Postnikov decomposition in synthetic homotopy theory, 
+CMU, Pure and Applied Logic, 2026. 
+[pdf](http://www.andrew.cmu.edu/user/awodey/students/MilnerThesis.pdf)
+	
+- Joseph Hua, Internal algebraic type theory, 
+CMU, Philosophy, 2023. 
+[pdf](https://arxiv.org/abs/2608.00095)
+	
 - Colin Zwanziger, The natural display topos of coalgebras, 
 CMU, Philosophy, 2023. 
 [pdf](http://www.andrew.cmu.edu/user/awodey/students/ZwanzigerThesis.pdf)
